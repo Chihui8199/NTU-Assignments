@@ -1,0 +1,135 @@
+#VRML V2.0 utf8
+
+# The following EXTERNPROTO definitins remain the same for all FVRML scenes.
+
+EXTERNPROTO FGeometry [
+	exposedField SFString definition
+	exposedField MFFloat parameters
+	exposedField MFInt32 resolution
+	exposedField SFVec3f bboxCenter
+	exposedField SFVec3f bboxSize
+	exposedField SFString type
+	exposedField MFNode	parents
+	exposedField SFVec2f timeSpan
+] "https://www3.ntu.edu.sg/home/assourin/FVRML/FVRML.wrl#FGeometry"
+EXTERNPROTO FMaterial [
+	exposedField SFString diffuseColor
+	exposedField SFString type
+	exposedField MFColor patternColor
+	exposedField MFFloat patternKey
+	exposedField SFString ambientIntensity
+	exposedField SFString emissiveColor
+	exposedField SFString shininess
+	exposedField SFString specularColor
+	exposedField SFString transparency
+	exposedField MFFloat parameters
+	exposedField MFNode	parents
+	exposedField SFVec2f timeSpan
+] "https://www3.ntu.edu.sg/home/assourin/FVRML/FVRML.wrl#FMaterial"
+EXTERNPROTO FTexture3D [
+	exposedField SFString definition
+	exposedField SFString type
+	exposedField MFFloat parameters
+	exposedField MFNode	parents
+	exposedField SFVec2f timeSpan
+] "https://www3.ntu.edu.sg/home/assourin/FVRML/FVRML.wrl#FTexture3D"
+EXTERNPROTO FAppearance [
+	exposedField SFNode	material
+	exposedField SFNode	texture
+	exposedField SFNode	textureTransform
+	exposedField SFNode	texture3D
+	exposedField MFNode	parents
+	eventIn	SFBool refresh
+] "https://www3.ntu.edu.sg/home/assourin/FVRML/FVRML.wrl#FAppearance"
+EXTERNPROTO FShape [
+	exposedField SFNode	geometry
+	exposedField SFNode	appearance
+	exposedField SFString polygonizer
+	exposedField MFNode	parents
+	exposedField SFTime	startTime
+	exposedField SFTime stopTime
+    exposedField SFTime cycleInterval
+    exposedField SFBool	loop
+	exposedField SFBool	enabled
+	eventOut SFTime	cycleTime
+	eventIn SFFloat set_fraction
+	field SFInt32 frames
+] "https://www3.ntu.edu.sg/home/assourin/FVRML/FVRML.wrl#FShape"
+EXTERNPROTO FTransform [
+	exposedField SFString operation
+	exposedField SFString type
+	exposedField SFString polygonizer
+	exposedField MFFloat parameters
+	exposedField SFString center
+	exposedField SFString rotation
+	exposedField SFString scale
+	exposedField SFString scaleOrientation
+	exposedField SFString translation
+	exposedField MFNode children
+	exposedField MFNode	parents
+	eventIn	SFBool refresh
+    exposedField SFVec2f timeSpan
+	exposedField SFTime	startTime
+	exposedField SFTime stopTime
+    exposedField SFTime cycleInterval
+    exposedField SFBool	loop
+	exposedField SFBool	enabled
+	eventOut SFTime	cycleTime
+	eventIn SFFloat set_fraction
+	field SFInt32 frames
+] "https://www3.ntu.edu.sg/home/assourin/FVRML/FVRML.wrl#FTransform"
+
+Background {skyColor 1 1 1}
+
+# External VRML object "Coordinate Axes" is included in the scene. 
+# The size of the axes can be changed by the scale transformation
+Transform {
+	scale 1.2 1.2 1.2 children [
+		Inline {url "CoordinateAxes.wrl"}  ]}
+
+
+FShape {
+geometry FGeometry {
+
+# Function script defining the CSG solid.	final=min(max(sphere, max(elihs,cyl)), -cone);
+# based on the parameters domain and the sampling resolution defined below
+	definition "function frep(x,y,z,t) {
+		crown1 = y - 0.7;
+		crown2 = y - 0.5;
+		cylinder = min(0.5^2 - x^2 - z^2, min(crown2, -crown1));
+
+		halfspace3 = y;
+		halfspace4 = y + 1;
+		cone = max((x/3)^2 - ((y)/3)^2 + ((z)/3)^2, halfspace3);
+		coneWithBase = min(halfspace4, -cone);
+		ellipsoid = 0.3^2 - 0.2 * x^2 - 0.4 * y^2 - 0.5*z^2;
+		eye1 = 0.1^2 - (x+0.25)^2 - (y-0.25)^2 -(z-0.3)^2;
+		eye2 = 0.1^2 - (x-0.25)^2 - (y-0.25)^2 -(z-0.3)^2;
+		mouth = 0.3^2 - x^2 - y^2 -(z-0.6)^2;
+		foot1=min(min(min(min(min(x-0.125,0.9-y),-0.90-y),0.375-x),z+0.1),0.5-z);
+    	foot2=min(min(min(min(min(x+0.375,0.0-y),-0.90-y),-0.125-x),z+0.1),0.5-z);
+    	feet = max(foot1,foot2);
+		final= max(max(max(max(cylinder, max(ellipsoid, coneWithBase)),eye1),eye2),feet);
+		return final;
+	}"
+
+
+# Adjust the tight bounding box and an optimal resolution
+bboxCenter 0 0 0
+bboxSize 2 3 2
+resolution [80 80 80]
+
+ }     
+
+appearance FAppearance {
+material FMaterial { 
+# Variable color is defined for the CGS solid
+diffuseColor "r=0.5+0.3*sin(v*2*pi); g=0.5+0.3*cos(v*2*pi); b=0.5-0.3*cos(v*2*pi);"
+   }    }
+}
+
+#This is an option to display a bounding box. 
+#Set the translation parameters matching the coordinates of its center as well as its size as defined in FShape node.
+
+Transform {translation 0 0 0 children [
+Shape {geometry	Box	{size 10 7 10 } appearance Appearance	{material Material {diffuseColor 0 0 1 transparency	0.9}}} ]}

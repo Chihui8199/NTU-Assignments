@@ -1,0 +1,120 @@
+#VRML V2.0 utf8
+
+# The following EXTERNPROTO definitins remain the same for all FVRML scenes.
+
+EXTERNPROTO FGeometry [
+	exposedField SFString definition
+	exposedField MFFloat parameters
+	exposedField MFInt32 resolution
+	exposedField SFVec3f bboxCenter
+	exposedField SFVec3f bboxSize
+	exposedField SFString type
+	exposedField MFNode	parents
+	exposedField SFVec2f timeSpan
+] "https://www3.ntu.edu.sg/home/assourin/FVRML/FVRML.wrl#FGeometry"
+EXTERNPROTO FMaterial [
+	exposedField SFString diffuseColor
+	exposedField SFString type
+	exposedField MFColor patternColor
+	exposedField MFFloat patternKey
+	exposedField SFString ambientIntensity
+	exposedField SFString emissiveColor
+	exposedField SFString shininess
+	exposedField SFString specularColor
+	exposedField SFString transparency
+	exposedField MFFloat parameters
+	exposedField MFNode	parents
+	exposedField SFVec2f timeSpan
+] "https://www3.ntu.edu.sg/home/assourin/FVRML/FVRML.wrl#FMaterial"
+EXTERNPROTO FTexture3D [
+	exposedField SFString definition
+	exposedField SFString type
+	exposedField MFFloat parameters
+	exposedField MFNode	parents
+	exposedField SFVec2f timeSpan
+] "https://www3.ntu.edu.sg/home/assourin/FVRML/FVRML.wrl#FTexture3D"
+EXTERNPROTO FAppearance [
+	exposedField SFNode	material
+	exposedField SFNode	texture
+	exposedField SFNode	textureTransform
+	exposedField SFNode	texture3D
+	exposedField MFNode	parents
+	eventIn	SFBool refresh
+] "https://www3.ntu.edu.sg/home/assourin/FVRML/FVRML.wrl#FAppearance"
+EXTERNPROTO FShape [
+	exposedField SFNode	geometry
+	exposedField SFNode	appearance
+	exposedField SFString polygonizer
+	exposedField MFNode	parents
+	exposedField SFTime	startTime
+	exposedField SFTime stopTime
+    exposedField SFTime cycleInterval
+    exposedField SFBool	loop
+	exposedField SFBool	enabled
+	eventOut SFTime	cycleTime
+	eventIn SFFloat set_fraction
+	field SFInt32 frames
+] "https://www3.ntu.edu.sg/home/assourin/FVRML/FVRML.wrl#FShape"
+EXTERNPROTO FTransform [
+	exposedField SFString operation
+	exposedField SFString type
+	exposedField SFString polygonizer
+	exposedField MFFloat parameters
+	exposedField SFString center
+	exposedField SFString rotation
+	exposedField SFString scale
+	exposedField SFString scaleOrientation
+	exposedField SFString translation
+	exposedField MFNode children
+	exposedField MFNode	parents
+	eventIn	SFBool refresh
+    exposedField SFVec2f timeSpan
+	exposedField SFTime	startTime
+	exposedField SFTime stopTime
+    exposedField SFTime cycleInterval
+    exposedField SFBool	loop
+	exposedField SFBool	enabled
+	eventOut SFTime	cycleTime
+	eventIn SFFloat set_fraction
+	field SFInt32 frames
+] "https://www3.ntu.edu.sg/home/assourin/FVRML/FVRML.wrl#FTransform"
+
+
+Background {skyColor 1 1 1}
+
+# External VRML object "Coordinate Axes" is included in the scene. 
+# The size of the axes can be changed by the scale transformation
+Transform {
+	scale 1.2 1.2 1.2 children [
+		Inline {url "CoordinateAxes.wrl"}  ]}
+FShape {
+# Enabling cycled animation
+loop TRUE
+# Mapping the interval of the internal time t=[0,1] to the actual time in sec.
+cycleInterval 7
+
+polygonizer	"analytical_curve"
+
+geometry FGeometry {
+resolution [75]
+parameters [0 1]
+# Definition of the animated linear transformation (morphing)
+# of a square polygon defined by x1(u,v), y1(u,v), z1(u,v) 
+# to a circular disk defined by x2(u,v), y2(u,v), z2(u,v)
+definition "
+    function parametric_x(u,v,w,t)
+        { return 8;}
+
+    function parametric_y(u,v,w,t)
+        {return (sin(2*pi*u))*(4-8*cos(2*pi*u));}
+
+    function parametric_z(u,v,w,t)
+        {return - (cos(2*pi*u))*(4-8*cos(2*pi*u)) +8; }"
+
+ }    
+
+appearance FAppearance {
+material FMaterial { 
+diffuseColor "r=1; b=0; g=0;"
+}    }
+}

@@ -1,0 +1,15 @@
+mode 0
+definition "x = -8 + (12 * u);
+			y = ((sin(12*u-8))^2)+(11*w-4);
+			z = -4 + 7*v;
+			"
+parameters 0 1 0 1 0 1
+resolution 15 15 15
+diffuseColor 1 1 1
+backgroundColor 0.1 0.8 0.9
+axesColor 0.45 0.1 0.55
+SpecularColor 0.4 0.1 0.3
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
