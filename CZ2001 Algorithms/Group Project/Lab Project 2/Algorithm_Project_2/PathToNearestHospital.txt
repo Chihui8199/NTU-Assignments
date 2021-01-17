@@ -1,0 +1,2001 @@
+### Paths to the nearest hospitals
+Start node: 0
+First nearest Hospital node: 440
+Path: [0, 338, 440]
+
+Start node: 33
+First nearest Hospital node: 440
+Path: [33, 0, 338, 440]
+
+Start node: 338
+First nearest Hospital node: 440
+Path: [338, 440]
+
+Start node: 1
+First nearest Hospital node: 89
+Path: [1, 89]
+
+Start node: 493
+First nearest Hospital node: 89
+Path: [493, 1, 89]
+
+Start node: 89
+First nearest Hospital node: 89
+Path: [89]
+
+Start node: 2
+First nearest Hospital node: 3
+Path: [2, 74, 268, 403, 3]
+
+Start node: 74
+First nearest Hospital node: 3
+Path: [74, 268, 403, 3]
+
+Start node: 442
+First nearest Hospital node: 3
+Path: [442, 2, 74, 268, 403, 3]
+
+Start node: 3
+First nearest Hospital node: 3
+Path: [3]
+
+Start node: 403
+First nearest Hospital node: 3
+Path: [403, 3]
+
+Start node: 281
+First nearest Hospital node: 3
+Path: [281, 3]
+
+Start node: 4
+First nearest Hospital node: 78
+Path: [4, 427, 336, 168, 78]
+
+Start node: 427
+First nearest Hospital node: 78
+Path: [427, 336, 168, 78]
+
+Start node: 99
+First nearest Hospital node: 79
+Path: [99, 422, 243, 383, 79]
+
+Start node: 5
+First nearest Hospital node: 330
+Path: [5, 30, 187, 330]
+
+Start node: 485
+First nearest Hospital node: 314
+Path: [485, 421, 349, 314]
+
+Start node: 30
+First nearest Hospital node: 330
+Path: [30, 187, 330]
+
+Start node: 6
+First nearest Hospital node: 330
+Path: [6, 449, 77, 111, 400, 330]
+
+Start node: 449
+First nearest Hospital node: 330
+Path: [449, 77, 111, 400, 330]
+
+Start node: 401
+First nearest Hospital node: 330
+Path: [401, 6, 449, 77, 111, 400, 330]
+
+Start node: 7
+First nearest Hospital node: 78
+Path: [7, 254, 425, 173, 78]
+
+Start node: 254
+First nearest Hospital node: 78
+Path: [254, 425, 173, 78]
+
+Start node: 461
+First nearest Hospital node: 253
+Path: [461, 381, 163, 253]
+
+Start node: 8
+First nearest Hospital node: 253
+Path: [8, 52, 332, 253]
+
+Start node: 221
+First nearest Hospital node: 253
+Path: [221, 8, 52, 332, 253]
+
+Start node: 52
+First nearest Hospital node: 253
+Path: [52, 332, 253]
+
+Start node: 9
+First nearest Hospital node: 152
+Path: [9, 311, 152]
+
+Start node: 161
+First nearest Hospital node: 152
+Path: [161, 9, 311, 152]
+
+Start node: 203
+First nearest Hospital node: 152
+Path: [203, 9, 311, 152]
+
+Start node: 311
+First nearest Hospital node: 152
+Path: [311, 152]
+
+Start node: 345
+First nearest Hospital node: 253
+Path: [345, 253]
+
+Start node: 10
+First nearest Hospital node: 362
+Path: [10, 308, 337, 418, 362]
+
+Start node: 335
+First nearest Hospital node: 253
+Path: [335, 331, 36, 163, 253]
+
+Start node: 72
+First nearest Hospital node: 362
+Path: [72, 10, 308, 337, 418, 362]
+
+Start node: 293
+First nearest Hospital node: 362
+Path: [293, 10, 308, 337, 418, 362]
+
+Start node: 308
+First nearest Hospital node: 362
+Path: [308, 337, 418, 362]
+
+Start node: 11
+First nearest Hospital node: 318
+Path: [11, 334, 44, 307, 318]
+
+Start node: 13
+First nearest Hospital node: 152
+Path: [13, 379, 356, 311, 152]
+
+Start node: 334
+First nearest Hospital node: 318
+Path: [334, 44, 307, 318]
+
+Start node: 371
+First nearest Hospital node: 440
+Path: [371, 250, 411, 440]
+
+Start node: 12
+First nearest Hospital node: 377
+Path: [12, 242, 211, 322, 486, 413, 377]
+
+Start node: 242
+First nearest Hospital node: 377
+Path: [242, 211, 322, 486, 413, 377]
+
+Start node: 172
+First nearest Hospital node: 362
+Path: [172, 357, 337, 418, 362]
+
+Start node: 379
+First nearest Hospital node: 152
+Path: [379, 356, 311, 152]
+
+Start node: 14
+First nearest Hospital node: 79
+Path: [14, 304, 391, 79]
+
+Start node: 455
+First nearest Hospital node: 79
+Path: [455, 14, 304, 391, 79]
+
+Start node: 304
+First nearest Hospital node: 79
+Path: [304, 391, 79]
+
+Start node: 15
+First nearest Hospital node: 440
+Path: [15, 370, 411, 440]
+
+Start node: 370
+First nearest Hospital node: 440
+Path: [370, 411, 440]
+
+Start node: 92
+First nearest Hospital node: 440
+Path: [92, 15, 370, 411, 440]
+
+Start node: 185
+First nearest Hospital node: 440
+Path: [185, 15, 370, 411, 440]
+
+Start node: 387
+First nearest Hospital node: 440
+Path: [387, 15, 370, 411, 440]
+
+Start node: 16
+First nearest Hospital node: 55
+Path: [16, 280, 192, 55]
+
+Start node: 280
+First nearest Hospital node: 55
+Path: [280, 192, 55]
+
+Start node: 17
+First nearest Hospital node: 443
+Path: [17, 443]
+
+Start node: 443
+First nearest Hospital node: 443
+Path: [443]
+
+Start node: 18
+First nearest Hospital node: 330
+Path: [18, 187, 330]
+
+Start node: 187
+First nearest Hospital node: 330
+Path: [187, 330]
+
+Start node: 107
+First nearest Hospital node: 330
+Path: [107, 18, 187, 330]
+
+Start node: 395
+First nearest Hospital node: 318
+Path: [395, 451, 318]
+
+Start node: 19
+First nearest Hospital node: 362
+Path: [19, 159, 147, 342, 255, 362]
+
+Start node: 159
+First nearest Hospital node: 362
+Path: [159, 147, 342, 255, 362]
+
+Start node: 20
+First nearest Hospital node: 253
+Path: [20, 221, 8, 52, 332, 253]
+
+Start node: 21
+First nearest Hospital node: 377
+Path: [21, 316, 104, 145, 377]
+
+Start node: 316
+First nearest Hospital node: 377
+Path: [316, 104, 145, 377]
+
+Start node: 22
+First nearest Hospital node: 314
+Path: [22, 349, 314]
+
+Start node: 349
+First nearest Hospital node: 314
+Path: [349, 314]
+
+Start node: 258
+First nearest Hospital node: 314
+Path: [258, 22, 349, 314]
+
+Start node: 385
+First nearest Hospital node: 314
+Path: [385, 22, 349, 314]
+
+Start node: 394
+First nearest Hospital node: 362
+Path: [394, 418, 362]
+
+Start node: 23
+First nearest Hospital node: 318
+Path: [23, 229, 190, 60, 351, 469, 307, 318]
+
+Start node: 229
+First nearest Hospital node: 318
+Path: [229, 190, 60, 351, 469, 307, 318]
+
+Start node: 24
+First nearest Hospital node: 253
+Path: [24, 269, 309, 415, 253]
+
+Start node: 269
+First nearest Hospital node: 253
+Path: [269, 309, 415, 253]
+
+Start node: 25
+First nearest Hospital node: 129
+Path: [25, 71, 129]
+
+Start node: 80
+First nearest Hospital node: 129
+Path: [80, 25, 71, 129]
+
+Start node: 71
+First nearest Hospital node: 129
+Path: [71, 129]
+
+Start node: 26
+First nearest Hospital node: 318
+Path: [26, 365, 469, 307, 318]
+
+Start node: 96
+First nearest Hospital node: 443
+Path: [96, 300, 169, 216, 443]
+
+Start node: 365
+First nearest Hospital node: 318
+Path: [365, 469, 307, 318]
+
+Start node: 27
+First nearest Hospital node: 88
+Path: [27, 382, 88]
+
+Start node: 382
+First nearest Hospital node: 88
+Path: [382, 88]
+
+Start node: 28
+First nearest Hospital node: 399
+Path: [28, 235, 237, 454, 236, 399]
+
+Start node: 235
+First nearest Hospital node: 399
+Path: [235, 237, 454, 236, 399]
+
+Start node: 453
+First nearest Hospital node: 399
+Path: [453, 28, 235, 237, 454, 236, 399]
+
+Start node: 29
+First nearest Hospital node: 443
+Path: [29, 360, 284, 366, 344, 443]
+
+Start node: 360
+First nearest Hospital node: 443
+Path: [360, 284, 366, 344, 443]
+
+Start node: 31
+First nearest Hospital node: 377
+Path: [31, 277, 136, 413, 377]
+
+Start node: 277
+First nearest Hospital node: 377
+Path: [277, 136, 413, 377]
+
+Start node: 32
+First nearest Hospital node: 286
+Path: [32, 150, 286]
+
+Start node: 150
+First nearest Hospital node: 286
+Path: [150, 286]
+
+Start node: 148
+First nearest Hospital node: 286
+Path: [148, 32, 150, 286]
+
+Start node: 193
+First nearest Hospital node: 286
+Path: [193, 32, 150, 286]
+
+Start node: 225
+First nearest Hospital node: 79
+Path: [225, 47, 79]
+
+Start node: 260
+First nearest Hospital node: 440
+Path: [260, 33, 0, 338, 440]
+
+Start node: 406
+First nearest Hospital node: 440
+Path: [406, 33, 0, 338, 440]
+
+Start node: 34
+First nearest Hospital node: 440
+Path: [34, 70, 321, 370, 411, 440]
+
+Start node: 70
+First nearest Hospital node: 440
+Path: [70, 321, 370, 411, 440]
+
+Start node: 207
+First nearest Hospital node: 440
+Path: [207, 34, 70, 321, 370, 411, 440]
+
+Start node: 462
+First nearest Hospital node: 440
+Path: [462, 34, 70, 321, 370, 411, 440]
+
+Start node: 35
+First nearest Hospital node: 253
+Path: [35, 144, 428, 299, 445, 36, 163, 253]
+
+Start node: 144
+First nearest Hospital node: 253
+Path: [144, 428, 299, 445, 36, 163, 253]
+
+Start node: 36
+First nearest Hospital node: 253
+Path: [36, 163, 253]
+
+Start node: 163
+First nearest Hospital node: 253
+Path: [163, 253]
+
+Start node: 48
+First nearest Hospital node: 253
+Path: [48, 36, 163, 253]
+
+Start node: 445
+First nearest Hospital node: 253
+Path: [445, 36, 163, 253]
+
+Start node: 331
+First nearest Hospital node: 253
+Path: [331, 36, 163, 253]
+
+Start node: 340
+First nearest Hospital node: 253
+Path: [340, 36, 163, 253]
+
+Start node: 37
+First nearest Hospital node: 152
+Path: [37, 161, 9, 311, 152]
+
+Start node: 386
+First nearest Hospital node: 152
+Path: [386, 37, 161, 9, 311, 152]
+
+Start node: 38
+First nearest Hospital node: 362
+Path: [38, 291, 255, 362]
+
+Start node: 291
+First nearest Hospital node: 362
+Path: [291, 255, 362]
+
+Start node: 498
+First nearest Hospital node: 362
+Path: [498, 38, 291, 255, 362]
+
+Start node: 39
+First nearest Hospital node: 443
+Path: [39, 216, 443]
+
+Start node: 216
+First nearest Hospital node: 443
+Path: [216, 443]
+
+Start node: 40
+First nearest Hospital node: 440
+Path: [40, 426, 234, 370, 411, 440]
+
+Start node: 426
+First nearest Hospital node: 440
+Path: [426, 234, 370, 411, 440]
+
+Start node: 378
+First nearest Hospital node: 78
+Path: [378, 46, 427, 336, 168, 78]
+
+Start node: 41
+First nearest Hospital node: 440
+Path: [41, 276, 338, 440]
+
+Start node: 103
+First nearest Hospital node: 318
+Path: [103, 469, 307, 318]
+
+Start node: 197
+First nearest Hospital node: 440
+Path: [197, 41, 276, 338, 440]
+
+Start node: 276
+First nearest Hospital node: 440
+Path: [276, 338, 440]
+
+Start node: 42
+First nearest Hospital node: 314
+Path: [42, 112, 119, 314]
+
+Start node: 112
+First nearest Hospital node: 314
+Path: [112, 119, 314]
+
+Start node: 43
+First nearest Hospital node: 129
+Path: [43, 354, 129]
+
+Start node: 121
+First nearest Hospital node: 253
+Path: [121, 345, 253]
+
+Start node: 354
+First nearest Hospital node: 129
+Path: [354, 129]
+
+Start node: 44
+First nearest Hospital node: 318
+Path: [44, 307, 318]
+
+Start node: 307
+First nearest Hospital node: 318
+Path: [307, 318]
+
+Start node: 45
+First nearest Hospital node: 330
+Path: [45, 107, 18, 187, 330]
+
+Start node: 63
+First nearest Hospital node: 330
+Path: [63, 45, 107, 18, 187, 330]
+
+Start node: 46
+First nearest Hospital node: 78
+Path: [46, 427, 336, 168, 78]
+
+Start node: 248
+First nearest Hospital node: 79
+Path: [248, 361, 156, 391, 79]
+
+Start node: 416
+First nearest Hospital node: 78
+Path: [416, 46, 427, 336, 168, 78]
+
+Start node: 47
+First nearest Hospital node: 79
+Path: [47, 79]
+
+Start node: 79
+First nearest Hospital node: 79
+Path: [79]
+
+Start node: 49
+First nearest Hospital node: 330
+Path: [49, 111, 400, 330]
+
+Start node: 111
+First nearest Hospital node: 330
+Path: [111, 400, 330]
+
+Start node: 50
+First nearest Hospital node: 3
+Path: [50, 442, 2, 74, 268, 403, 3]
+
+Start node: 113
+First nearest Hospital node: 3
+Path: [113, 50, 442, 2, 74, 268, 403, 3]
+
+Start node: 51
+First nearest Hospital node: 377
+Path: [51, 486, 413, 377]
+
+Start node: 486
+First nearest Hospital node: 377
+Path: [486, 413, 377]
+
+Start node: 405
+First nearest Hospital node: 443
+Path: [405, 319, 216, 443]
+
+Start node: 332
+First nearest Hospital node: 253
+Path: [332, 253]
+
+Start node: 53
+First nearest Hospital node: 199
+Path: [53, 407, 189, 199]
+
+Start node: 446
+First nearest Hospital node: 286
+Path: [446, 423, 150, 286]
+
+Start node: 407
+First nearest Hospital node: 199
+Path: [407, 189, 199]
+
+Start node: 54
+First nearest Hospital node: 440
+Path: [54, 368, 245, 468, 440]
+
+Start node: 368
+First nearest Hospital node: 440
+Path: [368, 245, 468, 440]
+
+Start node: 58
+First nearest Hospital node: 440
+Path: [58, 54, 368, 245, 468, 440]
+
+Start node: 55
+First nearest Hospital node: 55
+Path: [55]
+
+Start node: 192
+First nearest Hospital node: 55
+Path: [192, 55]
+
+Start node: 227
+First nearest Hospital node: 55
+Path: [227, 55]
+
+Start node: 433
+First nearest Hospital node: 55
+Path: [433, 55]
+
+Start node: 56
+First nearest Hospital node: 399
+Path: [56, 399]
+
+Start node: 391
+First nearest Hospital node: 79
+Path: [391, 79]
+
+Start node: 389
+First nearest Hospital node: 399
+Path: [389, 56, 399]
+
+Start node: 399
+First nearest Hospital node: 399
+Path: [399]
+
+Start node: 57
+First nearest Hospital node: 399
+Path: [57, 235, 237, 454, 236, 399]
+
+Start node: 256
+First nearest Hospital node: 399
+Path: [256, 57, 235, 237, 454, 236, 399]
+
+Start node: 180
+First nearest Hospital node: 440
+Path: [180, 58, 54, 368, 245, 468, 440]
+
+Start node: 59
+First nearest Hospital node: 55
+Path: [59, 433, 55]
+
+Start node: 417
+First nearest Hospital node: 55
+Path: [417, 59, 433, 55]
+
+Start node: 60
+First nearest Hospital node: 318
+Path: [60, 351, 469, 307, 318]
+
+Start node: 489
+First nearest Hospital node: 377
+Path: [489, 322, 486, 413, 377]
+
+Start node: 190
+First nearest Hospital node: 318
+Path: [190, 60, 351, 469, 307, 318]
+
+Start node: 265
+First nearest Hospital node: 318
+Path: [265, 60, 351, 469, 307, 318]
+
+Start node: 305
+First nearest Hospital node: 318
+Path: [305, 60, 351, 469, 307, 318]
+
+Start node: 351
+First nearest Hospital node: 318
+Path: [351, 469, 307, 318]
+
+Start node: 61
+First nearest Hospital node: 253
+Path: [61, 269, 309, 415, 253]
+
+Start node: 62
+First nearest Hospital node: 253
+Path: [62, 473, 124, 218, 325, 253]
+
+Start node: 181
+First nearest Hospital node: 253
+Path: [181, 297, 470, 73, 345, 253]
+
+Start node: 473
+First nearest Hospital node: 253
+Path: [473, 124, 218, 325, 253]
+
+Start node: 64
+First nearest Hospital node: 318
+Path: [64, 457, 206, 318]
+
+Start node: 457
+First nearest Hospital node: 318
+Path: [457, 206, 318]
+
+Start node: 65
+First nearest Hospital node: 253
+Path: [65, 470, 73, 345, 253]
+
+Start node: 470
+First nearest Hospital node: 253
+Path: [470, 73, 345, 253]
+
+Start node: 66
+First nearest Hospital node: 362
+Path: [66, 362]
+
+Start node: 481
+First nearest Hospital node: 362
+Path: [481, 66, 362]
+
+Start node: 362
+First nearest Hospital node: 362
+Path: [362]
+
+Start node: 67
+First nearest Hospital node: 377
+Path: [67, 458, 87, 136, 413, 377]
+
+Start node: 458
+First nearest Hospital node: 377
+Path: [458, 87, 136, 413, 377]
+
+Start node: 68
+First nearest Hospital node: 79
+Path: [68, 380, 225, 47, 79]
+
+Start node: 380
+First nearest Hospital node: 79
+Path: [380, 225, 47, 79]
+
+Start node: 69
+First nearest Hospital node: 152
+Path: [69, 311, 152]
+
+Start node: 240
+First nearest Hospital node: 152
+Path: [240, 69, 311, 152]
+
+Start node: 115
+First nearest Hospital node: 152
+Path: [115, 69, 311, 152]
+
+Start node: 430
+First nearest Hospital node: 152
+Path: [430, 69, 311, 152]
+
+Start node: 321
+First nearest Hospital node: 440
+Path: [321, 370, 411, 440]
+
+Start node: 137
+First nearest Hospital node: 440
+Path: [137, 70, 321, 370, 411, 440]
+
+Start node: 198
+First nearest Hospital node: 440
+Path: [198, 70, 321, 370, 411, 440]
+
+Start node: 129
+First nearest Hospital node: 129
+Path: [129]
+
+Start node: 244
+First nearest Hospital node: 129
+Path: [244, 71, 129]
+
+Start node: 353
+First nearest Hospital node: 129
+Path: [353, 71, 129]
+
+Start node: 73
+First nearest Hospital node: 253
+Path: [73, 345, 253]
+
+Start node: 268
+First nearest Hospital node: 3
+Path: [268, 403, 3]
+
+Start node: 75
+First nearest Hospital node: 362
+Path: [75, 76, 357, 337, 418, 362]
+
+Start node: 76
+First nearest Hospital node: 362
+Path: [76, 357, 337, 418, 362]
+
+Start node: 239
+First nearest Hospital node: 362
+Path: [239, 75, 76, 357, 337, 418, 362]
+
+Start node: 471
+First nearest Hospital node: 362
+Path: [471, 75, 76, 357, 337, 418, 362]
+
+Start node: 357
+First nearest Hospital node: 362
+Path: [357, 337, 418, 362]
+
+Start node: 77
+First nearest Hospital node: 330
+Path: [77, 111, 400, 330]
+
+Start node: 123
+First nearest Hospital node: 330
+Path: [123, 77, 111, 400, 330]
+
+Start node: 388
+First nearest Hospital node: 149
+Path: [388, 142, 149]
+
+Start node: 78
+First nearest Hospital node: 78
+Path: [78]
+
+Start node: 168
+First nearest Hospital node: 78
+Path: [168, 78]
+
+Start node: 173
+First nearest Hospital node: 78
+Path: [173, 78]
+
+Start node: 131
+First nearest Hospital node: 79
+Path: [131, 79]
+
+Start node: 135
+First nearest Hospital node: 79
+Path: [135, 79]
+
+Start node: 408
+First nearest Hospital node: 79
+Path: [408, 79]
+
+Start node: 383
+First nearest Hospital node: 79
+Path: [383, 79]
+
+Start node: 120
+First nearest Hospital node: 88
+Path: [120, 382, 88]
+
+Start node: 81
+First nearest Hospital node: 362
+Path: [81, 200, 293, 10, 308, 337, 418, 362]
+
+Start node: 200
+First nearest Hospital node: 362
+Path: [200, 293, 10, 308, 337, 418, 362]
+
+Start node: 82
+First nearest Hospital node: 253
+Path: [82, 309, 415, 253]
+
+Start node: 309
+First nearest Hospital node: 253
+Path: [309, 415, 253]
+
+Start node: 295
+First nearest Hospital node: 253
+Path: [295, 82, 309, 415, 253]
+
+Start node: 83
+First nearest Hospital node: 399
+Path: [83, 454, 236, 399]
+
+Start node: 454
+First nearest Hospital node: 399
+Path: [454, 236, 399]
+
+Start node: 84
+First nearest Hospital node: 78
+Path: [84, 427, 336, 168, 78]
+
+Start node: 85
+First nearest Hospital node: 3
+Path: [85, 412, 403, 3]
+
+Start node: 412
+First nearest Hospital node: 3
+Path: [412, 403, 3]
+
+Start node: 147
+First nearest Hospital node: 362
+Path: [147, 342, 255, 362]
+
+Start node: 86
+First nearest Hospital node: 152
+Path: [86, 430, 69, 311, 152]
+
+Start node: 87
+First nearest Hospital node: 377
+Path: [87, 136, 413, 377]
+
+Start node: 136
+First nearest Hospital node: 377
+Path: [136, 413, 377]
+
+Start node: 101
+First nearest Hospital node: 253
+Path: [101, 121, 345, 253]
+
+Start node: 88
+First nearest Hospital node: 88
+Path: [88]
+
+Start node: 90
+First nearest Hospital node: 149
+Path: [90, 125, 91, 149]
+
+Start node: 125
+First nearest Hospital node: 149
+Path: [125, 91, 149]
+
+Start node: 306
+First nearest Hospital node: 88
+Path: [306, 120, 382, 88]
+
+Start node: 91
+First nearest Hospital node: 149
+Path: [91, 149]
+
+Start node: 149
+First nearest Hospital node: 149
+Path: [149]
+
+Start node: 93
+First nearest Hospital node: 362
+Path: [93, 481, 66, 362]
+
+Start node: 178
+First nearest Hospital node: 362
+Path: [178, 93, 481, 66, 362]
+
+Start node: 195
+First nearest Hospital node: 362
+Path: [195, 93, 481, 66, 362]
+
+Start node: 424
+First nearest Hospital node: 318
+Path: [424, 451, 318]
+
+Start node: 94
+First nearest Hospital node: 55
+Path: [94, 433, 55]
+
+Start node: 95
+First nearest Hospital node: 55
+Path: [95, 192, 55]
+
+Start node: 223
+First nearest Hospital node: 55
+Path: [223, 95, 192, 55]
+
+Start node: 300
+First nearest Hospital node: 443
+Path: [300, 169, 216, 443]
+
+Start node: 97
+First nearest Hospital node: 377
+Path: [97, 211, 322, 486, 413, 377]
+
+Start node: 211
+First nearest Hospital node: 377
+Path: [211, 322, 486, 413, 377]
+
+Start node: 98
+First nearest Hospital node: 318
+Path: [98, 206, 318]
+
+Start node: 206
+First nearest Hospital node: 318
+Path: [206, 318]
+
+Start node: 367
+First nearest Hospital node: 435
+Path: [367, 435]
+
+Start node: 422
+First nearest Hospital node: 79
+Path: [422, 243, 383, 79]
+
+Start node: 374
+First nearest Hospital node: 79
+Path: [374, 99, 422, 243, 383, 79]
+
+Start node: 100
+First nearest Hospital node: 440
+Path: [100, 321, 370, 411, 440]
+
+Start node: 220
+First nearest Hospital node: 253
+Path: [220, 101, 121, 345, 253]
+
+Start node: 347
+First nearest Hospital node: 253
+Path: [347, 101, 121, 345, 253]
+
+Start node: 350
+First nearest Hospital node: 253
+Path: [350, 101, 121, 345, 253]
+
+Start node: 102
+First nearest Hospital node: 362
+Path: [102, 308, 337, 418, 362]
+
+Start node: 210
+First nearest Hospital node: 362
+Path: [210, 102, 308, 337, 418, 362]
+
+Start node: 469
+First nearest Hospital node: 318
+Path: [469, 307, 318]
+
+Start node: 104
+First nearest Hospital node: 377
+Path: [104, 145, 377]
+
+Start node: 145
+First nearest Hospital node: 377
+Path: [145, 377]
+
+Start node: 139
+First nearest Hospital node: 443
+Path: [139, 344, 443]
+
+Start node: 339
+First nearest Hospital node: 377
+Path: [339, 104, 145, 377]
+
+Start node: 105
+First nearest Hospital node: 286
+Path: [105, 148, 32, 150, 286]
+
+Start node: 459
+First nearest Hospital node: 286
+Path: [459, 105, 148, 32, 150, 286]
+
+Start node: 106
+First nearest Hospital node: 440
+Path: [106, 343, 167, 397, 411, 440]
+
+Start node: 343
+First nearest Hospital node: 440
+Path: [343, 167, 397, 411, 440]
+
+Start node: 128
+First nearest Hospital node: 440
+Path: [128, 106, 343, 167, 397, 411, 440]
+
+Start node: 369
+First nearest Hospital node: 330
+Path: [369, 107, 18, 187, 330]
+
+Start node: 108
+First nearest Hospital node: 362
+Path: [108, 172, 357, 337, 418, 362]
+
+Start node: 328
+First nearest Hospital node: 330
+Path: [328, 369, 107, 18, 187, 330]
+
+Start node: 241
+First nearest Hospital node: 362
+Path: [241, 108, 172, 357, 337, 418, 362]
+
+Start node: 109
+First nearest Hospital node: 3
+Path: [109, 403, 3]
+
+Start node: 110
+First nearest Hospital node: 79
+Path: [110, 383, 79]
+
+Start node: 302
+First nearest Hospital node: 330
+Path: [302, 111, 400, 330]
+
+Start node: 400
+First nearest Hospital node: 330
+Path: [400, 330]
+
+Start node: 119
+First nearest Hospital node: 314
+Path: [119, 314]
+
+Start node: 114
+First nearest Hospital node: 440
+Path: [114, 245, 468, 440]
+
+Start node: 245
+First nearest Hospital node: 440
+Path: [245, 468, 440]
+
+Start node: 116
+First nearest Hospital node: 3
+Path: [116, 396, 231, 268, 403, 3]
+
+Start node: 396
+First nearest Hospital node: 3
+Path: [396, 231, 268, 403, 3]
+
+Start node: 117
+First nearest Hospital node: 399
+Path: [117, 208, 236, 399]
+
+Start node: 208
+First nearest Hospital node: 399
+Path: [208, 236, 399]
+
+Start node: 118
+First nearest Hospital node: 253
+Path: [118, 326, 415, 253]
+
+Start node: 479
+First nearest Hospital node: 253
+Path: [479, 218, 325, 253]
+
+Start node: 326
+First nearest Hospital node: 253
+Path: [326, 415, 253]
+
+Start node: 314
+First nearest Hospital node: 314
+Path: [314]
+
+Start node: 418
+First nearest Hospital node: 362
+Path: [418, 362]
+
+Start node: 232
+First nearest Hospital node: 253
+Path: [232, 121, 345, 253]
+
+Start node: 122
+First nearest Hospital node: 129
+Path: [122, 375, 354, 129]
+
+Start node: 162
+First nearest Hospital node: 129
+Path: [162, 122, 375, 354, 129]
+
+Start node: 375
+First nearest Hospital node: 129
+Path: [375, 354, 129]
+
+Start node: 264
+First nearest Hospital node: 153
+Path: [264, 266, 467, 153]
+
+Start node: 124
+First nearest Hospital node: 253
+Path: [124, 218, 325, 253]
+
+Start node: 218
+First nearest Hospital node: 253
+Path: [218, 325, 253]
+
+Start node: 323
+First nearest Hospital node: 253
+Path: [323, 124, 218, 325, 253]
+
+Start node: 495
+First nearest Hospital node: 149
+Path: [495, 125, 91, 149]
+
+Start node: 126
+First nearest Hospital node: 440
+Path: [126, 321, 370, 411, 440]
+
+Start node: 297
+First nearest Hospital node: 253
+Path: [297, 470, 73, 345, 253]
+
+Start node: 420
+First nearest Hospital node: 88
+Path: [420, 306, 120, 382, 88]
+
+Start node: 127
+First nearest Hospital node: 149
+Path: [127, 166, 456, 376, 142, 149]
+
+Start node: 166
+First nearest Hospital node: 149
+Path: [166, 456, 376, 142, 149]
+
+Start node: 315
+First nearest Hospital node: 152
+Path: [315, 430, 69, 311, 152]
+
+Start node: 352
+First nearest Hospital node: 253
+Path: [352, 224, 445, 36, 163, 253]
+
+Start node: 130
+First nearest Hospital node: 443
+Path: [130, 169, 216, 443]
+
+Start node: 169
+First nearest Hospital node: 443
+Path: [169, 216, 443]
+
+Start node: 132
+First nearest Hospital node: 318
+Path: [132, 451, 318]
+
+Start node: 451
+First nearest Hospital node: 318
+Path: [451, 318]
+
+Start node: 133
+First nearest Hospital node: 440
+Path: [133, 257, 329, 245, 468, 440]
+
+Start node: 257
+First nearest Hospital node: 440
+Path: [257, 329, 245, 468, 440]
+
+Start node: 134
+First nearest Hospital node: 362
+Path: [134, 219, 159, 147, 342, 255, 362]
+
+Start node: 219
+First nearest Hospital node: 362
+Path: [219, 159, 147, 342, 255, 362]
+
+Start node: 434
+First nearest Hospital node: 362
+Path: [434, 134, 219, 159, 147, 342, 255, 362]
+
+Start node: 452
+First nearest Hospital node: 440
+Path: [452, 426, 234, 370, 411, 440]
+
+Start node: 278
+First nearest Hospital node: 79
+Path: [278, 135, 79]
+
+Start node: 447
+First nearest Hospital node: 377
+Path: [447, 136, 413, 377]
+
+Start node: 288
+First nearest Hospital node: 377
+Path: [288, 136, 413, 377]
+
+Start node: 413
+First nearest Hospital node: 377
+Path: [413, 377]
+
+Start node: 138
+First nearest Hospital node: 253
+Path: [138, 340, 36, 163, 253]
+
+Start node: 491
+First nearest Hospital node: 443
+Path: [491, 139, 344, 443]
+
+Start node: 344
+First nearest Hospital node: 443
+Path: [344, 443]
+
+Start node: 140
+First nearest Hospital node: 330
+Path: [140, 401, 6, 449, 77, 111, 400, 330]
+
+Start node: 154
+First nearest Hospital node: 330
+Path: [154, 401, 6, 449, 77, 111, 400, 330]
+
+Start node: 141
+First nearest Hospital node: 362
+Path: [141, 308, 337, 418, 362]
+
+Start node: 142
+First nearest Hospital node: 149
+Path: [142, 149]
+
+Start node: 376
+First nearest Hospital node: 149
+Path: [376, 142, 149]
+
+Start node: 466
+First nearest Hospital node: 399
+Path: [466, 399]
+
+Start node: 143
+First nearest Hospital node: 440
+Path: [143, 411, 440]
+
+Start node: 411
+First nearest Hospital node: 440
+Path: [411, 440]
+
+Start node: 490
+First nearest Hospital node: 440
+Path: [490, 143, 411, 440]
+
+Start node: 428
+First nearest Hospital node: 253
+Path: [428, 299, 445, 36, 163, 253]
+
+Start node: 377
+First nearest Hospital node: 377
+Path: [377]
+
+Start node: 146
+First nearest Hospital node: 78
+Path: [146, 425, 173, 78]
+
+Start node: 425
+First nearest Hospital node: 78
+Path: [425, 173, 78]
+
+Start node: 313
+First nearest Hospital node: 78
+Path: [313, 146, 425, 173, 78]
+
+Start node: 279
+First nearest Hospital node: 440
+Path: [279, 250, 411, 440]
+
+Start node: 342
+First nearest Hospital node: 362
+Path: [342, 255, 362]
+
+Start node: 298
+First nearest Hospital node: 286
+Path: [298, 148, 32, 150, 286]
+
+Start node: 423
+First nearest Hospital node: 286
+Path: [423, 150, 286]
+
+Start node: 286
+First nearest Hospital node: 286
+Path: [286]
+
+Start node: 151
+First nearest Hospital node: 443
+Path: [151, 360, 284, 366, 344, 443]
+
+Start node: 410
+First nearest Hospital node: 443
+Path: [410, 151, 360, 284, 366, 344, 443]
+
+Start node: 201
+First nearest Hospital node: 443
+Path: [201, 151, 360, 284, 366, 344, 443]
+
+Start node: 152
+First nearest Hospital node: 152
+Path: [152]
+
+Start node: 246
+First nearest Hospital node: 152
+Path: [246, 152]
+
+Start node: 153
+First nearest Hospital node: 153
+Path: [153]
+
+Start node: 467
+First nearest Hospital node: 153
+Path: [467, 153]
+
+Start node: 155
+First nearest Hospital node: 440
+Path: [155, 338, 440]
+
+Start node: 156
+First nearest Hospital node: 79
+Path: [156, 391, 79]
+
+Start node: 361
+First nearest Hospital node: 79
+Path: [361, 156, 391, 79]
+
+Start node: 157
+First nearest Hospital node: 129
+Path: [157, 324, 244, 71, 129]
+
+Start node: 324
+First nearest Hospital node: 129
+Path: [324, 244, 71, 129]
+
+Start node: 184
+First nearest Hospital node: 129
+Path: [184, 157, 324, 244, 71, 129]
+
+Start node: 158
+First nearest Hospital node: 362
+Path: [158, 373, 337, 418, 362]
+
+Start node: 373
+First nearest Hospital node: 362
+Path: [373, 337, 418, 362]
+
+Start node: 160
+First nearest Hospital node: 152
+Path: [160, 203, 9, 311, 152]
+
+Start node: 478
+First nearest Hospital node: 152
+Path: [478, 160, 203, 9, 311, 152]
+
+Start node: 282
+First nearest Hospital node: 152
+Path: [282, 161, 9, 311, 152]
+
+Start node: 414
+First nearest Hospital node: 149
+Path: [414, 495, 125, 91, 149]
+
+Start node: 253
+First nearest Hospital node: 253
+Path: [253]
+
+Start node: 381
+First nearest Hospital node: 253
+Path: [381, 163, 253]
+
+Start node: 164
+First nearest Hospital node: 253
+Path: [164, 181, 297, 470, 73, 345, 253]
+
+Start node: 165
+First nearest Hospital node: 3
+Path: [165, 396, 231, 268, 403, 3]
+
+Start node: 171
+First nearest Hospital node: 3
+Path: [171, 165, 396, 231, 268, 403, 3]
+
+Start node: 272
+First nearest Hospital node: 3
+Path: [272, 165, 396, 231, 268, 403, 3]
+
+Start node: 294
+First nearest Hospital node: 3
+Path: [294, 165, 396, 231, 268, 403, 3]
+
+Start node: 392
+First nearest Hospital node: 377
+Path: [392, 322, 486, 413, 377]
+
+Start node: 456
+First nearest Hospital node: 149
+Path: [456, 376, 142, 149]
+
+Start node: 167
+First nearest Hospital node: 440
+Path: [167, 397, 411, 440]
+
+Start node: 397
+First nearest Hospital node: 440
+Path: [397, 411, 440]
+
+Start node: 366
+First nearest Hospital node: 443
+Path: [366, 344, 443]
+
+Start node: 384
+First nearest Hospital node: 149
+Path: [384, 376, 142, 149]
+
+Start node: 480
+First nearest Hospital node: 78
+Path: [480, 168, 78]
+
+Start node: 358
+First nearest Hospital node: 78
+Path: [358, 168, 78]
+
+Start node: 336
+First nearest Hospital node: 78
+Path: [336, 168, 78]
+
+Start node: 170
+First nearest Hospital node: 314
+Path: [170, 421, 349, 314]
+
+Start node: 237
+First nearest Hospital node: 399
+Path: [237, 454, 236, 399]
+
+Start node: 194
+First nearest Hospital node: 314
+Path: [194, 170, 421, 349, 314]
+
+Start node: 404
+First nearest Hospital node: 314
+Path: [404, 170, 421, 349, 314]
+
+Start node: 421
+First nearest Hospital node: 314
+Path: [421, 349, 314]
+
+Start node: 262
+First nearest Hospital node: 362
+Path: [262, 172, 357, 337, 418, 362]
+
+Start node: 174
+First nearest Hospital node: 3
+Path: [174, 396, 231, 268, 403, 3]
+
+Start node: 251
+First nearest Hospital node: 3
+Path: [251, 174, 396, 231, 268, 403, 3]
+
+Start node: 175
+First nearest Hospital node: 440
+Path: [175, 180, 58, 54, 368, 245, 468, 440]
+
+Start node: 176
+First nearest Hospital node: 362
+Path: [176, 308, 337, 418, 362]
+
+Start node: 177
+First nearest Hospital node: 253
+Path: [177, 253]
+
+Start node: 348
+First nearest Hospital node: 253
+Path: [348, 177, 253]
+
+Start node: 179
+First nearest Hospital node: 377
+Path: [179, 346, 322, 486, 413, 377]
+
+Start node: 346
+First nearest Hospital node: 377
+Path: [346, 322, 486, 413, 377]
+
+Start node: 182
+First nearest Hospital node: 152
+Path: [182, 386, 37, 161, 9, 311, 152]
+
+Start node: 183
+First nearest Hospital node: 440
+Path: [183, 196, 233, 245, 468, 440]
+
+Start node: 196
+First nearest Hospital node: 440
+Path: [196, 233, 245, 468, 440]
+
+Start node: 476
+First nearest Hospital node: 129
+Path: [476, 184, 157, 324, 244, 71, 129]
+
+Start node: 186
+First nearest Hospital node: 362
+Path: [186, 255, 362]
+
+Start node: 255
+First nearest Hospital node: 362
+Path: [255, 362]
+
+Start node: 330
+First nearest Hospital node: 330
+Path: [330]
+
+Start node: 188
+First nearest Hospital node: 443
+Path: [188, 216, 443]
+
+Start node: 189
+First nearest Hospital node: 199
+Path: [189, 199]
+
+Start node: 199
+First nearest Hospital node: 199
+Path: [199]
+
+Start node: 191
+First nearest Hospital node: 318
+Path: [191, 351, 469, 307, 318]
+
+Start node: 474
+First nearest Hospital node: 318
+Path: [474, 191, 351, 469, 307, 318]
+
+Start node: 436
+First nearest Hospital node: 286
+Path: [436, 193, 32, 150, 286]
+
+Start node: 233
+First nearest Hospital node: 440
+Path: [233, 245, 468, 440]
+
+Start node: 499
+First nearest Hospital node: 149
+Path: [499, 409, 495, 125, 91, 149]
+
+Start node: 202
+First nearest Hospital node: 362
+Path: [202, 210, 102, 308, 337, 418, 362]
+
+Start node: 204
+First nearest Hospital node: 314
+Path: [204, 333, 349, 314]
+
+Start node: 333
+First nearest Hospital node: 314
+Path: [333, 349, 314]
+
+Start node: 494
+First nearest Hospital node: 314
+Path: [494, 204, 333, 349, 314]
+
+Start node: 205
+First nearest Hospital node: 440
+Path: [205, 468, 440]
+
+Start node: 468
+First nearest Hospital node: 440
+Path: [468, 440]
+
+Start node: 372
+First nearest Hospital node: 440
+Path: [372, 205, 468, 440]
+
+Start node: 318
+First nearest Hospital node: 318
+Path: [318]
+
+Start node: 236
+First nearest Hospital node: 399
+Path: [236, 399]
+
+Start node: 209
+First nearest Hospital node: 79
+Path: [209, 374, 99, 422, 243, 383, 79]
+
+Start node: 322
+First nearest Hospital node: 377
+Path: [322, 486, 413, 377]
+
+Start node: 212
+First nearest Hospital node: 79
+Path: [212, 380, 225, 47, 79]
+
+Start node: 283
+First nearest Hospital node: 79
+Path: [283, 212, 380, 225, 47, 79]
+
+Start node: 213
+First nearest Hospital node: 253
+Path: [213, 218, 325, 253]
+
+Start node: 214
+First nearest Hospital node: 362
+Path: [214, 263, 429, 312, 255, 362]
+
+Start node: 263
+First nearest Hospital node: 362
+Path: [263, 429, 312, 255, 362]
+
+Start node: 215
+First nearest Hospital node: 149
+Path: [215, 327, 384, 376, 142, 149]
+
+Start node: 327
+First nearest Hospital node: 149
+Path: [327, 384, 376, 142, 149]
+
+Start node: 319
+First nearest Hospital node: 443
+Path: [319, 216, 443]
+
+Start node: 217
+First nearest Hospital node: 399
+Path: [217, 389, 56, 399]
+
+Start node: 450
+First nearest Hospital node: 399
+Path: [450, 217, 389, 56, 399]
+
+Start node: 325
+First nearest Hospital node: 253
+Path: [325, 253]
+
+Start node: 355
+First nearest Hospital node: 362
+Path: [355, 219, 159, 147, 342, 255, 362]
+
+Start node: 252
+First nearest Hospital node: 253
+Path: [252, 221, 8, 52, 332, 253]
+
+Start node: 390
+First nearest Hospital node: 377
+Path: [390, 339, 104, 145, 377]
+
+Start node: 222
+First nearest Hospital node: 3
+Path: [222, 272, 165, 396, 231, 268, 403, 3]
+
+Start node: 224
+First nearest Hospital node: 253
+Path: [224, 445, 36, 163, 253]
+
+Start node: 226
+First nearest Hospital node: 330
+Path: [226, 369, 107, 18, 187, 330]
+
+Start node: 431
+First nearest Hospital node: 330
+Path: [431, 226, 369, 107, 18, 187, 330]
+
+Start node: 228
+First nearest Hospital node: 3
+Path: [228, 281, 3]
+
+Start node: 364
+First nearest Hospital node: 3
+Path: [364, 228, 281, 3]
+
+Start node: 230
+First nearest Hospital node: 377
+Path: [230, 277, 136, 413, 377]
+
+Start node: 231
+First nearest Hospital node: 3
+Path: [231, 268, 403, 3]
+
+Start node: 234
+First nearest Hospital node: 440
+Path: [234, 370, 411, 440]
+
+Start node: 484
+First nearest Hospital node: 440
+Path: [484, 234, 370, 411, 440]
+
+Start node: 238
+First nearest Hospital node: 89
+Path: [238, 261, 493, 1, 89]
+
+Start node: 261
+First nearest Hospital node: 89
+Path: [261, 493, 1, 89]
+
+Start node: 310
+First nearest Hospital node: 88
+Path: [310, 420, 306, 120, 382, 88]
+
+Start node: 243
+First nearest Hospital node: 79
+Path: [243, 383, 79]
+
+Start node: 483
+First nearest Hospital node: 129
+Path: [483, 244, 71, 129]
+
+Start node: 329
+First nearest Hospital node: 440
+Path: [329, 245, 468, 440]
+
+Start node: 439
+First nearest Hospital node: 152
+Path: [439, 246, 152]
+
+Start node: 247
+First nearest Hospital node: 253
+Path: [247, 479, 218, 325, 253]
+
+Start node: 249
+First nearest Hospital node: 253
+Path: [249, 273, 275, 325, 253]
+
+Start node: 273
+First nearest Hospital node: 253
+Path: [273, 275, 325, 253]
+
+Start node: 250
+First nearest Hospital node: 440
+Path: [250, 411, 440]
+
+Start node: 415
+First nearest Hospital node: 253
+Path: [415, 253]
+
+Start node: 312
+First nearest Hospital node: 362
+Path: [312, 255, 362]
+
+Start node: 488
+First nearest Hospital node: 362
+Path: [488, 255, 362]
+
+Start node: 393
+First nearest Hospital node: 440
+Path: [393, 257, 329, 245, 468, 440]
+
+Start node: 259
+First nearest Hospital node: 362
+Path: [259, 312, 255, 362]
+
+Start node: 292
+First nearest Hospital node: 362
+Path: [292, 262, 172, 357, 337, 418, 362]
+
+Start node: 429
+First nearest Hospital node: 362
+Path: [429, 312, 255, 362]
+
+Start node: 266
+First nearest Hospital node: 153
+Path: [266, 467, 153]
+
+Start node: 274
+First nearest Hospital node: 153
+Path: [274, 264, 266, 467, 153]
+
+Start node: 267
+First nearest Hospital node: 78
+Path: [267, 480, 168, 78]
+
+Start node: 271
+First nearest Hospital node: 78
+Path: [271, 267, 480, 168, 78]
+
+Start node: 363
+First nearest Hospital node: 78
+Path: [363, 267, 480, 168, 78]
+
+Start node: 460
+First nearest Hospital node: 253
+Path: [460, 269, 309, 415, 253]
+
+Start node: 270
+First nearest Hospital node: 440
+Path: [270, 320, 276, 338, 440]
+
+Start node: 320
+First nearest Hospital node: 440
+Path: [320, 276, 338, 440]
+
+Start node: 275
+First nearest Hospital node: 253
+Path: [275, 325, 253]
+
+Start node: 441
+First nearest Hospital node: 253
+Path: [441, 275, 325, 253]
+
+Start node: 284
+First nearest Hospital node: 443
+Path: [284, 366, 344, 443]
+
+Start node: 285
+First nearest Hospital node: 443
+Path: [285, 300, 169, 216, 443]
+
+Start node: 287
+First nearest Hospital node: 88
+Path: [287, 359, 420, 306, 120, 382, 88]
+
+Start node: 359
+First nearest Hospital node: 88
+Path: [359, 420, 306, 120, 382, 88]
+
+Start node: 289
+First nearest Hospital node: 253
+Path: [289, 428, 299, 445, 36, 163, 253]
+
+Start node: 290
+First nearest Hospital node: 78
+Path: [290, 425, 173, 78]
+
+Start node: 296
+First nearest Hospital node: 330
+Path: [296, 401, 6, 449, 77, 111, 400, 330]
+
+Start node: 299
+First nearest Hospital node: 253
+Path: [299, 445, 36, 163, 253]
+
+Start node: 301
+First nearest Hospital node: 149
+Path: [301, 409, 495, 125, 91, 149]
+
+Start node: 409
+First nearest Hospital node: 149
+Path: [409, 495, 125, 91, 149]
+
+Start node: 303
+First nearest Hospital node: 318
+Path: [303, 365, 469, 307, 318]
+
+Start node: 419
+First nearest Hospital node: 318
+Path: [419, 303, 365, 469, 307, 318]
+
+Start node: 402
+First nearest Hospital node: 88
+Path: [402, 306, 120, 382, 88]
+
+Start node: 337
+First nearest Hospital node: 362
+Path: [337, 418, 362]
+
+Start node: 356
+First nearest Hospital node: 152
+Path: [356, 311, 152]
+
+Start node: 475
+First nearest Hospital node: 362
+Path: [475, 312, 255, 362]
+
+Start node: 317
+First nearest Hospital node: 443
+Path: [317, 319, 216, 443]
+
+Start node: 472
+First nearest Hospital node: 443
+Path: [472, 319, 216, 443]
+
+Start node: 440
+First nearest Hospital node: 440
+Path: [440]
+
+Start node: 492
+First nearest Hospital node: 253
+Path: [492, 340, 36, 163, 253]
+
+Start node: 341
+First nearest Hospital node: 149
+Path: [341, 388, 142, 149]
+
+Start node: 496
+First nearest Hospital node: 149
+Path: [496, 341, 388, 142, 149]
+
+Start node: 398
+First nearest Hospital node: 314
+Path: [398, 463, 421, 349, 314]
+
+Start node: 464
+First nearest Hospital node: 314
+Path: [464, 349, 314]
+
+Start node: 438
+First nearest Hospital node: 152
+Path: [438, 356, 311, 152]
+
+Start node: 435
+First nearest Hospital node: 435
+Path: [435]
+
+Start node: 463
+First nearest Hospital node: 314
+Path: [463, 421, 349, 314]
+
+Start node: 465
+First nearest Hospital node: 152
+Path: [465, 386, 37, 161, 9, 311, 152]
+
+Start node: 448
+First nearest Hospital node: 79
+Path: [448, 391, 79]
+
+Start node: 482
+First nearest Hospital node: 3
+Path: [482, 403, 3]
+
+Start node: 437
+First nearest Hospital node: 362
+Path: [437, 418, 362]
+
+Start node: 477
+First nearest Hospital node: 440
+Path: [477, 426, 234, 370, 411, 440]
+
+Start node: 432
+First nearest Hospital node: 362
+Path: [432, 487, 471, 75, 76, 357, 337, 418, 362]
+
+Start node: 487
+First nearest Hospital node: 362
+Path: [487, 471, 75, 76, 357, 337, 418, 362]
+
+Start node: 444
+First nearest Hospital node: 253
+Path: [444, 473, 124, 218, 325, 253]
+
+Start node: 497
+First nearest Hospital node: 286
+Path: [497, 446, 423, 150, 286]
+

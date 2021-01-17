@@ -1,0 +1,5002 @@
+### Paths to 3 nearest hospitals
+
+Start node: 362
+Nearest Hospital number 1: 362
+Path 1: [362]
+
+Nearest Hospital number 2: 314
+Path 2: [362, 418, 119, 314]
+
+Nearest Hospital number 3: 88
+Path 3: [362, 418, 382, 88]
+
+Start node: 257
+Nearest Hospital number 1: 440
+Path 1: [257, 329, 245, 468, 440]
+
+Nearest Hospital number 2: 253
+Path 2: [257, 221, 8, 52, 332, 253]
+
+Nearest Hospital number 3: 55
+Path 3: [257, 221, 417, 59, 433, 55]
+
+Start node: 413
+Nearest Hospital number 1: 377
+Path 1: [413, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [413, 377, 199]
+
+Nearest Hospital number 3: 253
+Path 3: [413, 136, 447, 275, 325, 253]
+
+Start node: 130
+Nearest Hospital number 1: 443
+Path 1: [130, 169, 216, 443]
+
+Nearest Hospital number 2: 440
+Path 2: [130, 169, 300, 285, 372, 205, 468, 440]
+
+Nearest Hospital number 3: 253
+Path 3: [130, 169, 216, 319, 470, 73, 345, 253]
+
+Start node: 38
+Nearest Hospital number 1: 362
+Path 1: [38, 291, 255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [38, 291, 255, 186, 400, 330]
+
+Nearest Hospital number 3: 314
+Path 3: [38, 291, 255, 362, 418, 119, 314]
+
+Start node: 368
+Nearest Hospital number 1: 440
+Path 1: [368, 245, 468, 440]
+
+Nearest Hospital number 2: 330
+Path 2: [368, 107, 18, 187, 330]
+
+Nearest Hospital number 3: 318
+Path 3: [368, 107, 18, 395, 451, 318]
+
+Start node: 256
+Nearest Hospital number 1: 399
+Path 1: [256, 57, 235, 237, 454, 236, 399]
+
+Nearest Hospital number 2: 314
+Path 2: [256, 57, 235, 237, 170, 421, 349, 314]
+
+Nearest Hospital number 3: 253
+Path 3: [256, 57, 235, 237, 347, 101, 121, 345, 253]
+
+Start node: 146
+Nearest Hospital number 1: 78
+Path 1: [146, 425, 173, 78]
+
+Nearest Hospital number 2: 149
+Path 2: [146, 425, 254, 495, 125, 91, 149]
+
+Nearest Hospital number 3: 377
+Path 3: [146, 313, 211, 322, 486, 413, 377]
+
+Start node: 447
+Nearest Hospital number 1: 377
+Path 1: [447, 136, 413, 377]
+
+Nearest Hospital number 2: 253
+Path 2: [447, 275, 325, 253]
+
+Nearest Hospital number 3: 199
+Path 3: [447, 136, 413, 377, 199]
+
+Start node: 470
+Nearest Hospital number 1: 253
+Path 1: [470, 73, 345, 253]
+
+Nearest Hospital number 2: 443
+Path 2: [470, 319, 216, 443]
+
+Nearest Hospital number 3: 152
+Path 3: [470, 73, 345, 9, 311, 152]
+
+Start node: 465
+Nearest Hospital number 1: 152
+Path 1: [465, 386, 37, 161, 9, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [465, 386, 37, 161, 9, 345, 253]
+
+Nearest Hospital number 3: 55
+Path 3: [465, 386, 37, 269, 309, 94, 433, 55]
+
+Start node: 53
+Nearest Hospital number 1: 199
+Path 1: [53, 407, 189, 199]
+
+Nearest Hospital number 2: 79
+Path 2: [53, 407, 383, 79]
+
+Nearest Hospital number 3: 286
+Path 3: [53, 446, 423, 150, 286]
+
+Start node: 58
+Nearest Hospital number 1: 440
+Path 1: [58, 54, 368, 245, 468, 440]
+
+Nearest Hospital number 2: 330
+Path 2: [58, 54, 368, 107, 18, 187, 330]
+
+Nearest Hospital number 3: 318
+Path 3: [58, 54, 368, 107, 18, 395, 451, 318]
+
+Start node: 438
+Nearest Hospital number 1: 152
+Path 1: [438, 356, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [438, 356, 311, 9, 345, 253]
+
+Nearest Hospital number 3: 286
+Path 3: [438, 356, 311, 9, 203, 423, 150, 286]
+
+Start node: 341
+Nearest Hospital number 1: 149
+Path 1: [341, 388, 142, 149]
+
+Nearest Hospital number 2: 399
+Path 2: [341, 388, 142, 466, 399]
+
+Nearest Hospital number 3: 330
+Path 3: [341, 388, 77, 111, 400, 330]
+
+Start node: 352
+Nearest Hospital number 1: 253
+Path 1: [352, 224, 445, 36, 163, 253]
+
+Nearest Hospital number 2: 149
+Path 2: [352, 127, 166, 456, 376, 142, 149]
+
+Nearest Hospital number 3: 152
+Path 3: [352, 127, 315, 430, 69, 311, 152]
+
+Start node: 12
+Nearest Hospital number 1: 377
+Path 1: [12, 242, 211, 322, 486, 413, 377]
+
+Nearest Hospital number 2: 253
+Path 2: [12, 242, 211, 322, 273, 275, 325, 253]
+
+Nearest Hospital number 3: 199
+Path 3: [12, 242, 211, 322, 486, 413, 377, 199]
+
+Start node: 421
+Nearest Hospital number 1: 314
+Path 1: [421, 349, 314]
+
+Nearest Hospital number 2: 318
+Path 2: [421, 334, 44, 307, 318]
+
+Nearest Hospital number 3: 3
+Path 3: [421, 349, 314, 403, 3]
+
+Start node: 189
+Nearest Hospital number 1: 199
+Path 1: [189, 199]
+
+Nearest Hospital number 2: 377
+Path 2: [189, 199, 377]
+
+Nearest Hospital number 3: 79
+Path 3: [189, 407, 383, 79]
+
+Start node: 289
+Nearest Hospital number 1: 253
+Path 1: [289, 428, 299, 445, 36, 163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [289, 428, 299, 445, 36, 331, 112, 119, 314]
+
+Nearest Hospital number 3: 152
+Path 3: [289, 428, 465, 386, 37, 161, 9, 311, 152]
+
+Start node: 464
+Nearest Hospital number 1: 314
+Path 1: [464, 349, 314]
+
+Nearest Hospital number 2: 3
+Path 2: [464, 349, 314, 403, 3]
+
+Nearest Hospital number 3: 362
+Path 3: [464, 349, 22, 394, 418, 362]
+
+Start node: 338
+Nearest Hospital number 1: 440
+Path 1: [338, 440]
+
+Nearest Hospital number 2: 318
+Path 2: [338, 276, 457, 206, 318]
+
+Nearest Hospital number 3: 79
+Path 3: [338, 0, 33, 225, 47, 79]
+
+Start node: 46
+Nearest Hospital number 1: 78
+Path 1: [46, 427, 336, 168, 78]
+
+Nearest Hospital number 2: 79
+Path 2: [46, 248, 361, 156, 391, 79]
+
+Nearest Hospital number 3: 149
+Path 3: [46, 378, 414, 495, 125, 91, 149]
+
+Start node: 137
+Nearest Hospital number 1: 440
+Path 1: [137, 70, 321, 370, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [137, 70, 321, 317, 319, 216, 443]
+
+Nearest Hospital number 3: 3
+Path 3: [137, 70, 321, 370, 411, 412, 403, 3]
+
+Start node: 312
+Nearest Hospital number 1: 362
+Path 1: [312, 255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [312, 255, 186, 400, 330]
+
+Nearest Hospital number 3: 314
+Path 3: [312, 255, 362, 418, 119, 314]
+
+Start node: 284
+Nearest Hospital number 1: 443
+Path 1: [284, 366, 344, 443]
+
+Nearest Hospital number 2: 440
+Path 2: [284, 366, 167, 397, 411, 440]
+
+Nearest Hospital number 3: 149
+Path 3: [284, 366, 167, 384, 376, 142, 149]
+
+Start node: 202
+Nearest Hospital number 1: 362
+Path 1: [202, 210, 102, 308, 337, 418, 362]
+
+Nearest Hospital number 2: 314
+Path 2: [202, 210, 102, 308, 337, 418, 119, 314]
+
+Nearest Hospital number 3: 88
+Path 3: [202, 210, 102, 308, 337, 418, 382, 88]
+
+Start node: 144
+Nearest Hospital number 1: 253
+Path 1: [144, 428, 299, 445, 36, 163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [144, 428, 299, 445, 36, 331, 112, 119, 314]
+
+Nearest Hospital number 3: 152
+Path 3: [144, 428, 465, 386, 37, 161, 9, 311, 152]
+
+Start node: 290
+Nearest Hospital number 1: 78
+Path 1: [290, 425, 173, 78]
+
+Nearest Hospital number 2: 149
+Path 2: [290, 425, 254, 495, 125, 91, 149]
+
+Nearest Hospital number 3: 253
+Path 3: [290, 425, 254, 7, 461, 381, 163, 253]
+
+Start node: 350
+Nearest Hospital number 1: 253
+Path 1: [350, 101, 121, 345, 253]
+
+Nearest Hospital number 2: 377
+Path 2: [350, 101, 87, 136, 413, 377]
+
+Nearest Hospital number 3: 129
+Path 3: [350, 101, 121, 43, 354, 129]
+
+Start node: 299
+Nearest Hospital number 1: 253
+Path 1: [299, 445, 36, 163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [299, 445, 36, 331, 112, 119, 314]
+
+Nearest Hospital number 3: 362
+Path 3: [299, 445, 36, 331, 112, 119, 418, 362]
+
+Start node: 254
+Nearest Hospital number 1: 78
+Path 1: [254, 425, 173, 78]
+
+Nearest Hospital number 2: 149
+Path 2: [254, 495, 125, 91, 149]
+
+Nearest Hospital number 3: 253
+Path 3: [254, 7, 461, 381, 163, 253]
+
+Start node: 197
+Nearest Hospital number 1: 440
+Path 1: [197, 41, 276, 338, 440]
+
+Nearest Hospital number 2: 318
+Path 2: [197, 41, 103, 469, 307, 318]
+
+Nearest Hospital number 3: 55
+Path 3: [197, 41, 103, 223, 95, 192, 55]
+
+Start node: 266
+Nearest Hospital number 1: 153
+Path 1: [266, 467, 153]
+
+Nearest Hospital number 2: 318
+Path 2: [266, 467, 451, 318]
+
+Nearest Hospital number 3: 330
+Path 3: [266, 264, 123, 77, 111, 400, 330]
+
+Start node: 83
+Nearest Hospital number 1: 399
+Path 1: [83, 454, 236, 399]
+
+Nearest Hospital number 2: 362
+Path 2: [83, 454, 236, 208, 394, 418, 362]
+
+Nearest Hospital number 3: 79
+Path 3: [83, 454, 236, 399, 56, 391, 79]
+
+Start node: 179
+Nearest Hospital number 1: 377
+Path 1: [179, 346, 322, 486, 413, 377]
+
+Nearest Hospital number 2: 253
+Path 2: [179, 346, 322, 273, 275, 325, 253]
+
+Nearest Hospital number 3: 199
+Path 3: [179, 346, 322, 486, 413, 377, 199]
+
+Start node: 479
+Nearest Hospital number 1: 253
+Path 1: [479, 218, 325, 253]
+
+Nearest Hospital number 2: 3
+Path 2: [479, 247, 364, 228, 281, 3]
+
+Nearest Hospital number 3: 55
+Path 3: [479, 118, 326, 415, 309, 94, 433, 55]
+
+Start node: 165
+Nearest Hospital number 1: 3
+Path 1: [165, 396, 231, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [165, 396, 231, 268, 403, 314]
+
+Nearest Hospital number 3: 362
+Path 3: [165, 471, 75, 76, 357, 337, 418, 362]
+
+Start node: 236
+Nearest Hospital number 1: 399
+Path 1: [236, 399]
+
+Nearest Hospital number 2: 362
+Path 2: [236, 208, 394, 418, 362]
+
+Nearest Hospital number 3: 79
+Path 3: [236, 399, 56, 391, 79]
+
+Start node: 253
+Nearest Hospital number 1: 253
+Path 1: [253]
+
+Nearest Hospital number 2: 55
+Path 2: [253, 177, 348, 192, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [253, 345, 9, 311, 152]
+
+Start node: 369
+Nearest Hospital number 1: 330
+Path 1: [369, 107, 18, 187, 330]
+
+Nearest Hospital number 2: 253
+Path 2: [369, 331, 36, 163, 253]
+
+Nearest Hospital number 3: 314
+Path 3: [369, 331, 112, 119, 314]
+
+Start node: 93
+Nearest Hospital number 1: 362
+Path 1: [93, 481, 66, 362]
+
+Nearest Hospital number 2: 318
+Path 2: [93, 424, 451, 318]
+
+Nearest Hospital number 3: 55
+Path 3: [93, 481, 95, 192, 55]
+
+Start node: 484
+Nearest Hospital number 1: 440
+Path 1: [484, 234, 370, 411, 440]
+
+Nearest Hospital number 2: 362
+Path 2: [484, 475, 312, 255, 362]
+
+Nearest Hospital number 3: 3
+Path 3: [484, 234, 370, 411, 412, 403, 3]
+
+Start node: 307
+Nearest Hospital number 1: 318
+Path 1: [307, 318]
+
+Nearest Hospital number 2: 153
+Path 2: [307, 318, 451, 467, 153]
+
+Nearest Hospital number 3: 314
+Path 3: [307, 44, 334, 421, 349, 314]
+
+Start node: 151
+Nearest Hospital number 1: 443
+Path 1: [151, 360, 284, 366, 344, 443]
+
+Nearest Hospital number 2: 362
+Path 2: [151, 410, 262, 172, 357, 337, 418, 362]
+
+Nearest Hospital number 3: 149
+Path 3: [151, 201, 499, 409, 495, 125, 91, 149]
+
+Start node: 97
+Nearest Hospital number 1: 377
+Path 1: [97, 211, 322, 486, 413, 377]
+
+Nearest Hospital number 2: 253
+Path 2: [97, 211, 322, 273, 275, 325, 253]
+
+Nearest Hospital number 3: 199
+Path 3: [97, 211, 322, 486, 413, 377, 199]
+
+Start node: 432
+Nearest Hospital number 1: 362
+Path 1: [432, 487, 471, 75, 76, 357, 337, 418, 362]
+
+Nearest Hospital number 2: 3
+Path 2: [432, 487, 471, 165, 396, 231, 268, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [432, 487, 471, 165, 396, 231, 268, 403, 314]
+
+Start node: 313
+Nearest Hospital number 1: 78
+Path 1: [313, 146, 425, 173, 78]
+
+Nearest Hospital number 2: 377
+Path 2: [313, 211, 322, 486, 413, 377]
+
+Nearest Hospital number 3: 253
+Path 3: [313, 211, 322, 273, 275, 325, 253]
+
+Start node: 102
+Nearest Hospital number 1: 362
+Path 1: [102, 308, 337, 418, 362]
+
+Nearest Hospital number 2: 314
+Path 2: [102, 308, 337, 418, 119, 314]
+
+Nearest Hospital number 3: 88
+Path 3: [102, 308, 337, 418, 382, 88]
+
+Start node: 342
+Nearest Hospital number 1: 362
+Path 1: [342, 255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [342, 255, 186, 400, 330]
+
+Nearest Hospital number 3: 3
+Path 3: [342, 147, 85, 412, 403, 3]
+
+Start node: 420
+Nearest Hospital number 1: 88
+Path 1: [420, 306, 120, 382, 88]
+
+Nearest Hospital number 2: 362
+Path 2: [420, 429, 312, 255, 362]
+
+Nearest Hospital number 3: 440
+Path 3: [420, 126, 321, 370, 411, 440]
+
+Start node: 335
+Nearest Hospital number 1: 253
+Path 1: [335, 331, 36, 163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [335, 331, 112, 119, 314]
+
+Nearest Hospital number 3: 79
+Path 3: [335, 380, 225, 47, 79]
+
+Start node: 57
+Nearest Hospital number 1: 399
+Path 1: [57, 235, 237, 454, 236, 399]
+
+Nearest Hospital number 2: 314
+Path 2: [57, 235, 237, 170, 421, 349, 314]
+
+Nearest Hospital number 3: 253
+Path 3: [57, 235, 237, 347, 101, 121, 345, 253]
+
+Start node: 78
+Nearest Hospital number 1: 78
+Path 1: [78]
+
+Nearest Hospital number 2: 149
+Path 2: [78, 173, 425, 254, 495, 125, 91, 149]
+
+Nearest Hospital number 3: 253
+Path 3: [78, 173, 425, 254, 7, 461, 381, 163, 253]
+
+Start node: 79
+Nearest Hospital number 1: 79
+Path 1: [79]
+
+Nearest Hospital number 2: 399
+Path 2: [79, 383, 466, 399]
+
+Nearest Hospital number 3: 149
+Path 3: [79, 383, 466, 142, 149]
+
+Start node: 424
+Nearest Hospital number 1: 318
+Path 1: [424, 451, 318]
+
+Nearest Hospital number 2: 153
+Path 2: [424, 451, 467, 153]
+
+Nearest Hospital number 3: 362
+Path 3: [424, 93, 481, 66, 362]
+
+Start node: 393
+Nearest Hospital number 1: 440
+Path 1: [393, 257, 329, 245, 468, 440]
+
+Nearest Hospital number 2: 253
+Path 2: [393, 257, 221, 8, 52, 332, 253]
+
+Nearest Hospital number 3: 55
+Path 3: [393, 257, 221, 417, 59, 433, 55]
+
+Start node: 112
+Nearest Hospital number 1: 314
+Path 1: [112, 119, 314]
+
+Nearest Hospital number 2: 362
+Path 2: [112, 119, 418, 362]
+
+Nearest Hospital number 3: 253
+Path 3: [112, 331, 36, 163, 253]
+
+Start node: 15
+Nearest Hospital number 1: 440
+Path 1: [15, 370, 411, 440]
+
+Nearest Hospital number 2: 3
+Path 2: [15, 370, 411, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [15, 370, 411, 412, 403, 314]
+
+Start node: 486
+Nearest Hospital number 1: 377
+Path 1: [486, 413, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [486, 413, 377, 199]
+
+Nearest Hospital number 3: 443
+Path 3: [486, 51, 405, 319, 216, 443]
+
+Start node: 240
+Nearest Hospital number 1: 152
+Path 1: [240, 69, 311, 152]
+
+Nearest Hospital number 2: 440
+Path 2: [240, 233, 245, 468, 440]
+
+Nearest Hospital number 3: 253
+Path 3: [240, 69, 311, 9, 345, 253]
+
+Start node: 64
+Nearest Hospital number 1: 318
+Path 1: [64, 457, 206, 318]
+
+Nearest Hospital number 2: 440
+Path 2: [64, 457, 276, 338, 440]
+
+Nearest Hospital number 3: 435
+Path 3: [64, 457, 206, 98, 367, 435]
+
+Start node: 210
+Nearest Hospital number 1: 362
+Path 1: [210, 102, 308, 337, 418, 362]
+
+Nearest Hospital number 2: 314
+Path 2: [210, 102, 308, 337, 418, 119, 314]
+
+Nearest Hospital number 3: 88
+Path 3: [210, 102, 308, 337, 418, 382, 88]
+
+Start node: 481
+Nearest Hospital number 1: 362
+Path 1: [481, 66, 362]
+
+Nearest Hospital number 2: 55
+Path 2: [481, 95, 192, 55]
+
+Nearest Hospital number 3: 318
+Path 3: [481, 93, 424, 451, 318]
+
+Start node: 71
+Nearest Hospital number 1: 129
+Path 1: [71, 129]
+
+Nearest Hospital number 2: 149
+Path 2: [71, 353, 142, 149]
+
+Nearest Hospital number 3: 399
+Path 3: [71, 353, 142, 466, 399]
+
+Start node: 59
+Nearest Hospital number 1: 55
+Path 1: [59, 433, 55]
+
+Nearest Hospital number 2: 253
+Path 2: [59, 433, 94, 309, 415, 253]
+
+Nearest Hospital number 3: 435
+Path 3: [59, 433, 55, 192, 280, 367, 435]
+
+Start node: 230
+Nearest Hospital number 1: 377
+Path 1: [230, 277, 136, 413, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [230, 277, 136, 413, 377, 199]
+
+Nearest Hospital number 3: 253
+Path 3: [230, 277, 136, 447, 275, 325, 253]
+
+Start node: 439
+Nearest Hospital number 1: 152
+Path 1: [439, 246, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [439, 246, 152, 311, 9, 345, 253]
+
+Nearest Hospital number 3: 286
+Path 3: [439, 246, 152, 311, 9, 203, 423, 150, 286]
+
+Start node: 227
+Nearest Hospital number 1: 55
+Path 1: [227, 55]
+
+Nearest Hospital number 2: 435
+Path 2: [227, 55, 192, 280, 367, 435]
+
+Nearest Hospital number 3: 3
+Path 3: [227, 55, 192, 280, 403, 3]
+
+Start node: 321
+Nearest Hospital number 1: 440
+Path 1: [321, 370, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [321, 317, 319, 216, 443]
+
+Nearest Hospital number 3: 3
+Path 3: [321, 370, 411, 412, 403, 3]
+
+Start node: 495
+Nearest Hospital number 1: 149
+Path 1: [495, 125, 91, 149]
+
+Nearest Hospital number 2: 78
+Path 2: [495, 254, 425, 173, 78]
+
+Nearest Hospital number 3: 88
+Path 3: [495, 125, 90, 306, 120, 382, 88]
+
+Start node: 489
+Nearest Hospital number 1: 377
+Path 1: [489, 322, 486, 413, 377]
+
+Nearest Hospital number 2: 318
+Path 2: [489, 60, 351, 469, 307, 318]
+
+Nearest Hospital number 3: 253
+Path 3: [489, 322, 273, 275, 325, 253]
+
+Start node: 395
+Nearest Hospital number 1: 318
+Path 1: [395, 451, 318]
+
+Nearest Hospital number 2: 330
+Path 2: [395, 18, 187, 330]
+
+Nearest Hospital number 3: 153
+Path 3: [395, 451, 467, 153]
+
+Start node: 241
+Nearest Hospital number 1: 362
+Path 1: [241, 108, 172, 357, 337, 418, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [241, 108, 328, 369, 107, 18, 187, 330]
+
+Nearest Hospital number 3: 253
+Path 3: [241, 108, 328, 369, 331, 36, 163, 253]
+
+Start node: 114
+Nearest Hospital number 1: 440
+Path 1: [114, 245, 468, 440]
+
+Nearest Hospital number 2: 152
+Path 2: [114, 245, 233, 240, 69, 311, 152]
+
+Nearest Hospital number 3: 330
+Path 3: [114, 245, 368, 107, 18, 187, 330]
+
+Start node: 388
+Nearest Hospital number 1: 149
+Path 1: [388, 142, 149]
+
+Nearest Hospital number 2: 399
+Path 2: [388, 142, 466, 399]
+
+Nearest Hospital number 3: 330
+Path 3: [388, 77, 111, 400, 330]
+
+Start node: 245
+Nearest Hospital number 1: 440
+Path 1: [245, 468, 440]
+
+Nearest Hospital number 2: 152
+Path 2: [245, 233, 240, 69, 311, 152]
+
+Nearest Hospital number 3: 330
+Path 3: [245, 368, 107, 18, 187, 330]
+
+Start node: 497
+Nearest Hospital number 1: 286
+Path 1: [497, 446, 423, 150, 286]
+
+Nearest Hospital number 2: 199
+Path 2: [497, 446, 53, 407, 189, 199]
+
+Nearest Hospital number 3: 79
+Path 3: [497, 446, 53, 407, 383, 79]
+
+Start node: 168
+Nearest Hospital number 1: 78
+Path 1: [168, 78]
+
+Nearest Hospital number 2: 149
+Path 2: [168, 480, 267, 271, 384, 376, 142, 149]
+
+Nearest Hospital number 3: 440
+Path 3: [168, 480, 267, 271, 384, 167, 397, 411, 440]
+
+Start node: 69
+Nearest Hospital number 1: 152
+Path 1: [69, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [69, 311, 9, 345, 253]
+
+Nearest Hospital number 3: 440
+Path 3: [69, 240, 233, 245, 468, 440]
+
+Start node: 492
+Nearest Hospital number 1: 253
+Path 1: [492, 340, 36, 163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [492, 340, 36, 331, 112, 119, 314]
+
+Nearest Hospital number 3: 362
+Path 3: [492, 340, 36, 331, 112, 119, 418, 362]
+
+Start node: 441
+Nearest Hospital number 1: 253
+Path 1: [441, 275, 325, 253]
+
+Nearest Hospital number 2: 440
+Path 2: [441, 320, 276, 338, 440]
+
+Nearest Hospital number 3: 377
+Path 3: [441, 275, 447, 136, 413, 377]
+
+Start node: 334
+Nearest Hospital number 1: 318
+Path 1: [334, 44, 307, 318]
+
+Nearest Hospital number 2: 314
+Path 2: [334, 421, 349, 314]
+
+Nearest Hospital number 3: 440
+Path 3: [334, 11, 371, 250, 411, 440]
+
+Start node: 133
+Nearest Hospital number 1: 440
+Path 1: [133, 257, 329, 245, 468, 440]
+
+Nearest Hospital number 2: 253
+Path 2: [133, 257, 221, 8, 52, 332, 253]
+
+Nearest Hospital number 3: 55
+Path 3: [133, 257, 221, 417, 59, 433, 55]
+
+Start node: 154
+Nearest Hospital number 1: 330
+Path 1: [154, 401, 6, 449, 77, 111, 400, 330]
+
+Nearest Hospital number 2: 149
+Path 2: [154, 401, 6, 449, 77, 388, 142, 149]
+
+Nearest Hospital number 3: 399
+Path 3: [154, 401, 6, 449, 77, 388, 142, 466, 399]
+
+Start node: 229
+Nearest Hospital number 1: 318
+Path 1: [229, 190, 60, 351, 469, 307, 318]
+
+Nearest Hospital number 2: 377
+Path 2: [229, 190, 60, 489, 322, 486, 413, 377]
+
+Nearest Hospital number 3: 253
+Path 3: [229, 190, 60, 489, 322, 273, 275, 325, 253]
+
+Start node: 172
+Nearest Hospital number 1: 362
+Path 1: [172, 357, 337, 418, 362]
+
+Nearest Hospital number 2: 152
+Path 2: [172, 13, 379, 356, 311, 152]
+
+Nearest Hospital number 3: 253
+Path 3: [172, 357, 273, 275, 325, 253]
+
+Start node: 330
+Nearest Hospital number 1: 330
+Path 1: [330]
+
+Nearest Hospital number 2: 362
+Path 2: [330, 400, 186, 255, 362]
+
+Nearest Hospital number 3: 318
+Path 3: [330, 187, 18, 395, 451, 318]
+
+Start node: 62
+Nearest Hospital number 1: 253
+Path 1: [62, 473, 124, 218, 325, 253]
+
+Nearest Hospital number 2: 443
+Path 2: [62, 181, 297, 470, 319, 216, 443]
+
+Nearest Hospital number 3: 440
+Path 3: [62, 181, 297, 126, 321, 370, 411, 440]
+
+Start node: 248
+Nearest Hospital number 1: 79
+Path 1: [248, 361, 156, 391, 79]
+
+Nearest Hospital number 2: 78
+Path 2: [248, 46, 427, 336, 168, 78]
+
+Nearest Hospital number 3: 89
+Path 3: [248, 238, 261, 493, 1, 89]
+
+Start node: 292
+Nearest Hospital number 1: 362
+Path 1: [292, 262, 172, 357, 337, 418, 362]
+
+Nearest Hospital number 2: 152
+Path 2: [292, 262, 172, 13, 379, 356, 311, 152]
+
+Nearest Hospital number 3: 253
+Path 3: [292, 262, 172, 357, 273, 275, 325, 253]
+
+Start node: 103
+Nearest Hospital number 1: 318
+Path 1: [103, 469, 307, 318]
+
+Nearest Hospital number 2: 440
+Path 2: [103, 41, 276, 338, 440]
+
+Nearest Hospital number 3: 55
+Path 3: [103, 223, 95, 192, 55]
+
+Start node: 475
+Nearest Hospital number 1: 362
+Path 1: [475, 312, 255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [475, 312, 255, 186, 400, 330]
+
+Nearest Hospital number 3: 440
+Path 3: [475, 484, 234, 370, 411, 440]
+
+Start node: 142
+Nearest Hospital number 1: 149
+Path 1: [142, 149]
+
+Nearest Hospital number 2: 399
+Path 2: [142, 466, 399]
+
+Nearest Hospital number 3: 79
+Path 3: [142, 466, 383, 79]
+
+Start node: 258
+Nearest Hospital number 1: 314
+Path 1: [258, 22, 349, 314]
+
+Nearest Hospital number 2: 362
+Path 2: [258, 22, 394, 418, 362]
+
+Nearest Hospital number 3: 3
+Path 3: [258, 22, 349, 314, 403, 3]
+
+Start node: 269
+Nearest Hospital number 1: 253
+Path 1: [269, 309, 415, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [269, 309, 94, 433, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [269, 37, 161, 9, 311, 152]
+
+Start node: 242
+Nearest Hospital number 1: 377
+Path 1: [242, 211, 322, 486, 413, 377]
+
+Nearest Hospital number 2: 253
+Path 2: [242, 211, 322, 273, 275, 325, 253]
+
+Nearest Hospital number 3: 199
+Path 3: [242, 211, 322, 486, 413, 377, 199]
+
+Start node: 13
+Nearest Hospital number 1: 152
+Path 1: [13, 379, 356, 311, 152]
+
+Nearest Hospital number 2: 318
+Path 2: [13, 11, 334, 44, 307, 318]
+
+Nearest Hospital number 3: 314
+Path 3: [13, 11, 334, 421, 349, 314]
+
+Start node: 308
+Nearest Hospital number 1: 362
+Path 1: [308, 337, 418, 362]
+
+Nearest Hospital number 2: 314
+Path 2: [308, 337, 418, 119, 314]
+
+Nearest Hospital number 3: 88
+Path 3: [308, 337, 418, 382, 88]
+
+Start node: 268
+Nearest Hospital number 1: 3
+Path 1: [268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [268, 403, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [268, 403, 280, 192, 55]
+
+Start node: 42
+Nearest Hospital number 1: 314
+Path 1: [42, 112, 119, 314]
+
+Nearest Hospital number 2: 362
+Path 2: [42, 112, 119, 418, 362]
+
+Nearest Hospital number 3: 253
+Path 3: [42, 112, 331, 36, 163, 253]
+
+Start node: 414
+Nearest Hospital number 1: 149
+Path 1: [414, 495, 125, 91, 149]
+
+Nearest Hospital number 2: 129
+Path 2: [414, 162, 122, 375, 354, 129]
+
+Nearest Hospital number 3: 443
+Path 3: [414, 285, 300, 169, 216, 443]
+
+Start node: 347
+Nearest Hospital number 1: 253
+Path 1: [347, 101, 121, 345, 253]
+
+Nearest Hospital number 2: 399
+Path 2: [347, 237, 454, 236, 399]
+
+Nearest Hospital number 3: 377
+Path 3: [347, 101, 87, 136, 413, 377]
+
+Start node: 251
+Nearest Hospital number 1: 3
+Path 1: [251, 174, 396, 231, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [251, 174, 396, 231, 268, 403, 314]
+
+Nearest Hospital number 3: 152
+Path 3: [251, 174, 282, 161, 9, 311, 152]
+
+Start node: 17
+Nearest Hospital number 1: 443
+Path 1: [17, 443]
+
+Nearest Hospital number 2: 377
+Path 2: [17, 443, 344, 139, 104, 145, 377]
+
+Nearest Hospital number 3: 253
+Path 3: [17, 443, 216, 319, 470, 73, 345, 253]
+
+Start node: 357
+Nearest Hospital number 1: 362
+Path 1: [357, 337, 418, 362]
+
+Nearest Hospital number 2: 253
+Path 2: [357, 273, 275, 325, 253]
+
+Nearest Hospital number 3: 88
+Path 3: [357, 306, 120, 382, 88]
+
+Start node: 440
+Nearest Hospital number 1: 440
+Path 1: [440]
+
+Nearest Hospital number 2: 3
+Path 2: [440, 411, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [440, 411, 412, 403, 314]
+
+Start node: 234
+Nearest Hospital number 1: 440
+Path 1: [234, 370, 411, 440]
+
+Nearest Hospital number 2: 362
+Path 2: [234, 484, 475, 312, 255, 362]
+
+Nearest Hospital number 3: 3
+Path 3: [234, 370, 411, 412, 403, 3]
+
+Start node: 374
+Nearest Hospital number 1: 79
+Path 1: [374, 99, 422, 243, 383, 79]
+
+Nearest Hospital number 2: 314
+Path 2: [374, 99, 422, 333, 349, 314]
+
+Nearest Hospital number 3: 78
+Path 3: [374, 99, 4, 427, 336, 168, 78]
+
+Start node: 209
+Nearest Hospital number 1: 79
+Path 1: [209, 374, 99, 422, 243, 383, 79]
+
+Nearest Hospital number 2: 314
+Path 2: [209, 374, 99, 422, 333, 349, 314]
+
+Nearest Hospital number 3: 78
+Path 3: [209, 374, 99, 4, 427, 336, 168, 78]
+
+Start node: 410
+Nearest Hospital number 1: 443
+Path 1: [410, 151, 360, 284, 366, 344, 443]
+
+Nearest Hospital number 2: 362
+Path 2: [410, 262, 172, 357, 337, 418, 362]
+
+Nearest Hospital number 3: 152
+Path 3: [410, 262, 172, 13, 379, 356, 311, 152]
+
+Start node: 315
+Nearest Hospital number 1: 152
+Path 1: [315, 430, 69, 311, 152]
+
+Nearest Hospital number 2: 149
+Path 2: [315, 127, 166, 456, 376, 142, 149]
+
+Nearest Hospital number 3: 253
+Path 3: [315, 430, 69, 311, 9, 345, 253]
+
+Start node: 359
+Nearest Hospital number 1: 88
+Path 1: [359, 420, 306, 120, 382, 88]
+
+Nearest Hospital number 2: 362
+Path 2: [359, 420, 429, 312, 255, 362]
+
+Nearest Hospital number 3: 440
+Path 3: [359, 420, 126, 321, 370, 411, 440]
+
+Start node: 238
+Nearest Hospital number 1: 89
+Path 1: [238, 261, 493, 1, 89]
+
+Nearest Hospital number 2: 79
+Path 2: [238, 248, 361, 156, 391, 79]
+
+Nearest Hospital number 3: 3
+Path 3: [238, 261, 493, 412, 403, 3]
+
+Start node: 90
+Nearest Hospital number 1: 149
+Path 1: [90, 125, 91, 149]
+
+Nearest Hospital number 2: 88
+Path 2: [90, 306, 120, 382, 88]
+
+Nearest Hospital number 3: 362
+Path 3: [90, 306, 120, 382, 418, 362]
+
+Start node: 87
+Nearest Hospital number 1: 377
+Path 1: [87, 136, 413, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [87, 136, 413, 377, 199]
+
+Nearest Hospital number 3: 253
+Path 3: [87, 101, 121, 345, 253]
+
+Start node: 344
+Nearest Hospital number 1: 443
+Path 1: [344, 443]
+
+Nearest Hospital number 2: 377
+Path 2: [344, 139, 104, 145, 377]
+
+Nearest Hospital number 3: 199
+Path 3: [344, 139, 104, 145, 377, 199]
+
+Start node: 126
+Nearest Hospital number 1: 440
+Path 1: [126, 321, 370, 411, 440]
+
+Nearest Hospital number 2: 253
+Path 2: [126, 297, 470, 73, 345, 253]
+
+Nearest Hospital number 3: 443
+Path 3: [126, 297, 470, 319, 216, 443]
+
+Start node: 270
+Nearest Hospital number 1: 440
+Path 1: [270, 320, 276, 338, 440]
+
+Nearest Hospital number 2: 318
+Path 2: [270, 320, 276, 457, 206, 318]
+
+Nearest Hospital number 3: 253
+Path 3: [270, 320, 441, 275, 325, 253]
+
+Start node: 327
+Nearest Hospital number 1: 149
+Path 1: [327, 384, 376, 142, 149]
+
+Nearest Hospital number 2: 440
+Path 2: [327, 384, 167, 397, 411, 440]
+
+Nearest Hospital number 3: 443
+Path 3: [327, 384, 167, 366, 344, 443]
+
+Start node: 329
+Nearest Hospital number 1: 440
+Path 1: [329, 245, 468, 440]
+
+Nearest Hospital number 2: 152
+Path 2: [329, 245, 233, 240, 69, 311, 152]
+
+Nearest Hospital number 3: 330
+Path 3: [329, 245, 368, 107, 18, 187, 330]
+
+Start node: 296
+Nearest Hospital number 1: 330
+Path 1: [296, 401, 6, 449, 77, 111, 400, 330]
+
+Nearest Hospital number 2: 149
+Path 2: [296, 401, 6, 449, 77, 388, 142, 149]
+
+Nearest Hospital number 3: 399
+Path 3: [296, 401, 6, 449, 77, 388, 142, 466, 399]
+
+Start node: 285
+Nearest Hospital number 1: 443
+Path 1: [285, 300, 169, 216, 443]
+
+Nearest Hospital number 2: 440
+Path 2: [285, 372, 205, 468, 440]
+
+Nearest Hospital number 3: 149
+Path 3: [285, 414, 495, 125, 91, 149]
+
+Start node: 134
+Nearest Hospital number 1: 362
+Path 1: [134, 219, 159, 147, 342, 255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [134, 328, 369, 107, 18, 187, 330]
+
+Nearest Hospital number 3: 253
+Path 3: [134, 328, 369, 331, 36, 163, 253]
+
+Start node: 336
+Nearest Hospital number 1: 78
+Path 1: [336, 168, 78]
+
+Nearest Hospital number 2: 79
+Path 2: [336, 427, 4, 99, 422, 243, 383, 79]
+
+Nearest Hospital number 3: 314
+Path 3: [336, 427, 4, 99, 422, 333, 349, 314]
+
+Start node: 426
+Nearest Hospital number 1: 440
+Path 1: [426, 234, 370, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [426, 96, 300, 169, 216, 443]
+
+Nearest Hospital number 3: 318
+Path 3: [426, 96, 26, 365, 469, 307, 318]
+
+Start node: 404
+Nearest Hospital number 1: 314
+Path 1: [404, 170, 421, 349, 314]
+
+Nearest Hospital number 2: 399
+Path 2: [404, 170, 237, 454, 236, 399]
+
+Nearest Hospital number 3: 318
+Path 3: [404, 170, 421, 334, 44, 307, 318]
+
+Start node: 365
+Nearest Hospital number 1: 318
+Path 1: [365, 469, 307, 318]
+
+Nearest Hospital number 2: 443
+Path 2: [365, 26, 96, 300, 169, 216, 443]
+
+Nearest Hospital number 3: 440
+Path 3: [365, 469, 103, 41, 276, 338, 440]
+
+Start node: 72
+Nearest Hospital number 1: 362
+Path 1: [72, 10, 308, 337, 418, 362]
+
+Nearest Hospital number 2: 253
+Path 2: [72, 10, 335, 331, 36, 163, 253]
+
+Nearest Hospital number 3: 314
+Path 3: [72, 10, 335, 331, 112, 119, 314]
+
+Start node: 26
+Nearest Hospital number 1: 318
+Path 1: [26, 365, 469, 307, 318]
+
+Nearest Hospital number 2: 443
+Path 2: [26, 96, 300, 169, 216, 443]
+
+Nearest Hospital number 3: 440
+Path 3: [26, 96, 426, 234, 370, 411, 440]
+
+Start node: 149
+Nearest Hospital number 1: 149
+Path 1: [149]
+
+Nearest Hospital number 2: 399
+Path 2: [149, 142, 466, 399]
+
+Nearest Hospital number 3: 79
+Path 3: [149, 142, 466, 383, 79]
+
+Start node: 105
+Nearest Hospital number 1: 286
+Path 1: [105, 148, 32, 150, 286]
+
+Nearest Hospital number 2: 152
+Path 2: [105, 148, 32, 150, 423, 203, 9, 311, 152]
+
+Nearest Hospital number 3: 253
+Path 3: [105, 148, 32, 150, 423, 203, 9, 345, 253]
+
+Start node: 360
+Nearest Hospital number 1: 443
+Path 1: [360, 284, 366, 344, 443]
+
+Nearest Hospital number 2: 440
+Path 2: [360, 284, 366, 167, 397, 411, 440]
+
+Nearest Hospital number 3: 149
+Path 3: [360, 284, 366, 167, 384, 376, 142, 149]
+
+Start node: 125
+Nearest Hospital number 1: 149
+Path 1: [125, 91, 149]
+
+Nearest Hospital number 2: 88
+Path 2: [125, 90, 306, 120, 382, 88]
+
+Nearest Hospital number 3: 399
+Path 3: [125, 91, 149, 142, 466, 399]
+
+Start node: 422
+Nearest Hospital number 1: 79
+Path 1: [422, 243, 383, 79]
+
+Nearest Hospital number 2: 314
+Path 2: [422, 333, 349, 314]
+
+Nearest Hospital number 3: 399
+Path 3: [422, 243, 383, 466, 399]
+
+Start node: 283
+Nearest Hospital number 1: 79
+Path 1: [283, 212, 380, 225, 47, 79]
+
+Nearest Hospital number 2: 440
+Path 2: [283, 406, 33, 0, 338, 440]
+
+Nearest Hospital number 3: 314
+Path 3: [283, 406, 398, 463, 421, 349, 314]
+
+Start node: 259
+Nearest Hospital number 1: 362
+Path 1: [259, 312, 255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [259, 312, 255, 186, 400, 330]
+
+Nearest Hospital number 3: 314
+Path 3: [259, 312, 255, 362, 418, 119, 314]
+
+Start node: 145
+Nearest Hospital number 1: 377
+Path 1: [145, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [145, 377, 199]
+
+Nearest Hospital number 3: 443
+Path 3: [145, 104, 139, 344, 443]
+
+Start node: 143
+Nearest Hospital number 1: 440
+Path 1: [143, 411, 440]
+
+Nearest Hospital number 2: 3
+Path 2: [143, 411, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [143, 411, 412, 403, 314]
+
+Start node: 32
+Nearest Hospital number 1: 286
+Path 1: [32, 150, 286]
+
+Nearest Hospital number 2: 152
+Path 2: [32, 150, 423, 203, 9, 311, 152]
+
+Nearest Hospital number 3: 253
+Path 3: [32, 150, 423, 203, 9, 345, 253]
+
+Start node: 392
+Nearest Hospital number 1: 377
+Path 1: [392, 322, 486, 413, 377]
+
+Nearest Hospital number 2: 362
+Path 2: [392, 357, 337, 418, 362]
+
+Nearest Hospital number 3: 149
+Path 3: [392, 166, 456, 376, 142, 149]
+
+Start node: 201
+Nearest Hospital number 1: 443
+Path 1: [201, 151, 360, 284, 366, 344, 443]
+
+Nearest Hospital number 2: 149
+Path 2: [201, 499, 409, 495, 125, 91, 149]
+
+Nearest Hospital number 3: 78
+Path 3: [201, 499, 409, 495, 254, 425, 173, 78]
+
+Start node: 161
+Nearest Hospital number 1: 152
+Path 1: [161, 9, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [161, 9, 345, 253]
+
+Nearest Hospital number 3: 286
+Path 3: [161, 9, 203, 423, 150, 286]
+
+Start node: 452
+Nearest Hospital number 1: 440
+Path 1: [452, 426, 234, 370, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [452, 426, 96, 300, 169, 216, 443]
+
+Nearest Hospital number 3: 362
+Path 3: [452, 134, 219, 159, 147, 342, 255, 362]
+
+Start node: 54
+Nearest Hospital number 1: 440
+Path 1: [54, 368, 245, 468, 440]
+
+Nearest Hospital number 2: 330
+Path 2: [54, 368, 107, 18, 187, 330]
+
+Nearest Hospital number 3: 318
+Path 3: [54, 368, 107, 18, 395, 451, 318]
+
+Start node: 160
+Nearest Hospital number 1: 152
+Path 1: [160, 203, 9, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [160, 203, 9, 345, 253]
+
+Nearest Hospital number 3: 286
+Path 3: [160, 203, 423, 150, 286]
+
+Start node: 448
+Nearest Hospital number 1: 79
+Path 1: [448, 391, 79]
+
+Nearest Hospital number 2: 399
+Path 2: [448, 391, 56, 399]
+
+Nearest Hospital number 3: 199
+Path 3: [448, 391, 56, 389, 407, 189, 199]
+
+Start node: 412
+Nearest Hospital number 1: 3
+Path 1: [412, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [412, 403, 314]
+
+Nearest Hospital number 3: 440
+Path 3: [412, 411, 440]
+
+Start node: 196
+Nearest Hospital number 1: 440
+Path 1: [196, 233, 245, 468, 440]
+
+Nearest Hospital number 2: 152
+Path 2: [196, 233, 240, 69, 311, 152]
+
+Nearest Hospital number 3: 330
+Path 3: [196, 233, 245, 368, 107, 18, 187, 330]
+
+Start node: 188
+Nearest Hospital number 1: 443
+Path 1: [188, 216, 443]
+
+Nearest Hospital number 2: 253
+Path 2: [188, 216, 319, 470, 73, 345, 253]
+
+Nearest Hospital number 3: 129
+Path 3: [188, 216, 319, 324, 244, 71, 129]
+
+Start node: 401
+Nearest Hospital number 1: 330
+Path 1: [401, 6, 449, 77, 111, 400, 330]
+
+Nearest Hospital number 2: 149
+Path 2: [401, 6, 449, 77, 388, 142, 149]
+
+Nearest Hospital number 3: 399
+Path 3: [401, 6, 449, 77, 388, 142, 466, 399]
+
+Start node: 468
+Nearest Hospital number 1: 440
+Path 1: [468, 440]
+
+Nearest Hospital number 2: 3
+Path 2: [468, 440, 411, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [468, 440, 411, 412, 403, 314]
+
+Start node: 216
+Nearest Hospital number 1: 443
+Path 1: [216, 443]
+
+Nearest Hospital number 2: 253
+Path 2: [216, 319, 470, 73, 345, 253]
+
+Nearest Hospital number 3: 129
+Path 3: [216, 319, 324, 244, 71, 129]
+
+Start node: 272
+Nearest Hospital number 1: 3
+Path 1: [272, 165, 396, 231, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [272, 165, 396, 231, 268, 403, 314]
+
+Nearest Hospital number 3: 362
+Path 3: [272, 165, 471, 75, 76, 357, 337, 418, 362]
+
+Start node: 455
+Nearest Hospital number 1: 79
+Path 1: [455, 14, 304, 391, 79]
+
+Nearest Hospital number 2: 253
+Path 2: [455, 101, 121, 345, 253]
+
+Nearest Hospital number 3: 399
+Path 3: [455, 14, 304, 391, 56, 399]
+
+Start node: 162
+Nearest Hospital number 1: 129
+Path 1: [162, 122, 375, 354, 129]
+
+Nearest Hospital number 2: 149
+Path 2: [162, 414, 495, 125, 91, 149]
+
+Nearest Hospital number 3: 443
+Path 3: [162, 414, 285, 300, 169, 216, 443]
+
+Start node: 491
+Nearest Hospital number 1: 443
+Path 1: [491, 139, 344, 443]
+
+Nearest Hospital number 2: 377
+Path 2: [491, 139, 104, 145, 377]
+
+Nearest Hospital number 3: 199
+Path 3: [491, 139, 104, 145, 377, 199]
+
+Start node: 287
+Nearest Hospital number 1: 88
+Path 1: [287, 359, 420, 306, 120, 382, 88]
+
+Nearest Hospital number 2: 362
+Path 2: [287, 359, 420, 429, 312, 255, 362]
+
+Nearest Hospital number 3: 440
+Path 3: [287, 462, 34, 70, 321, 370, 411, 440]
+
+Start node: 291
+Nearest Hospital number 1: 362
+Path 1: [291, 255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [291, 255, 186, 400, 330]
+
+Nearest Hospital number 3: 314
+Path 3: [291, 255, 362, 418, 119, 314]
+
+Start node: 99
+Nearest Hospital number 1: 79
+Path 1: [99, 422, 243, 383, 79]
+
+Nearest Hospital number 2: 314
+Path 2: [99, 422, 333, 349, 314]
+
+Nearest Hospital number 3: 78
+Path 3: [99, 4, 427, 336, 168, 78]
+
+Start node: 337
+Nearest Hospital number 1: 362
+Path 1: [337, 418, 362]
+
+Nearest Hospital number 2: 314
+Path 2: [337, 418, 119, 314]
+
+Nearest Hospital number 3: 88
+Path 3: [337, 418, 382, 88]
+
+Start node: 333
+Nearest Hospital number 1: 314
+Path 1: [333, 349, 314]
+
+Nearest Hospital number 2: 3
+Path 2: [333, 349, 314, 403, 3]
+
+Nearest Hospital number 3: 79
+Path 3: [333, 422, 243, 383, 79]
+
+Start node: 6
+Nearest Hospital number 1: 330
+Path 1: [6, 449, 77, 111, 400, 330]
+
+Nearest Hospital number 2: 149
+Path 2: [6, 449, 77, 388, 142, 149]
+
+Nearest Hospital number 3: 399
+Path 3: [6, 449, 77, 388, 142, 466, 399]
+
+Start node: 173
+Nearest Hospital number 1: 78
+Path 1: [173, 78]
+
+Nearest Hospital number 2: 149
+Path 2: [173, 425, 254, 495, 125, 91, 149]
+
+Nearest Hospital number 3: 253
+Path 3: [173, 425, 254, 7, 461, 381, 163, 253]
+
+Start node: 328
+Nearest Hospital number 1: 330
+Path 1: [328, 369, 107, 18, 187, 330]
+
+Nearest Hospital number 2: 253
+Path 2: [328, 369, 331, 36, 163, 253]
+
+Nearest Hospital number 3: 314
+Path 3: [328, 369, 331, 112, 119, 314]
+
+Start node: 81
+Nearest Hospital number 1: 362
+Path 1: [81, 200, 293, 10, 308, 337, 418, 362]
+
+Nearest Hospital number 2: 149
+Path 2: [81, 200, 293, 327, 384, 376, 142, 149]
+
+Nearest Hospital number 3: 253
+Path 3: [81, 200, 293, 10, 335, 331, 36, 163, 253]
+
+Start node: 150
+Nearest Hospital number 1: 286
+Path 1: [150, 286]
+
+Nearest Hospital number 2: 152
+Path 2: [150, 423, 203, 9, 311, 152]
+
+Nearest Hospital number 3: 253
+Path 3: [150, 423, 203, 9, 345, 253]
+
+Start node: 127
+Nearest Hospital number 1: 149
+Path 1: [127, 166, 456, 376, 142, 149]
+
+Nearest Hospital number 2: 152
+Path 2: [127, 315, 430, 69, 311, 152]
+
+Nearest Hospital number 3: 377
+Path 3: [127, 166, 392, 322, 486, 413, 377]
+
+Start node: 183
+Nearest Hospital number 1: 440
+Path 1: [183, 196, 233, 245, 468, 440]
+
+Nearest Hospital number 2: 152
+Path 2: [183, 196, 233, 240, 69, 311, 152]
+
+Nearest Hospital number 3: 330
+Path 3: [183, 196, 233, 245, 368, 107, 18, 187, 330]
+
+Start node: 409
+Nearest Hospital number 1: 149
+Path 1: [409, 495, 125, 91, 149]
+
+Nearest Hospital number 2: 78
+Path 2: [409, 495, 254, 425, 173, 78]
+
+Nearest Hospital number 3: 399
+Path 3: [409, 499, 496, 341, 388, 142, 466, 399]
+
+Start node: 148
+Nearest Hospital number 1: 286
+Path 1: [148, 32, 150, 286]
+
+Nearest Hospital number 2: 152
+Path 2: [148, 32, 150, 423, 203, 9, 311, 152]
+
+Nearest Hospital number 3: 253
+Path 3: [148, 32, 150, 423, 203, 9, 345, 253]
+
+Start node: 61
+Nearest Hospital number 1: 253
+Path 1: [61, 269, 309, 415, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [61, 269, 309, 94, 433, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [61, 269, 37, 161, 9, 311, 152]
+
+Start node: 361
+Nearest Hospital number 1: 79
+Path 1: [361, 156, 391, 79]
+
+Nearest Hospital number 2: 399
+Path 2: [361, 156, 391, 56, 399]
+
+Nearest Hospital number 3: 362
+Path 3: [361, 373, 337, 418, 362]
+
+Start node: 18
+Nearest Hospital number 1: 330
+Path 1: [18, 187, 330]
+
+Nearest Hospital number 2: 318
+Path 2: [18, 395, 451, 318]
+
+Nearest Hospital number 3: 153
+Path 3: [18, 395, 451, 467, 153]
+
+Start node: 451
+Nearest Hospital number 1: 318
+Path 1: [451, 318]
+
+Nearest Hospital number 2: 153
+Path 2: [451, 467, 153]
+
+Nearest Hospital number 3: 330
+Path 3: [451, 395, 18, 187, 330]
+
+Start node: 14
+Nearest Hospital number 1: 79
+Path 1: [14, 304, 391, 79]
+
+Nearest Hospital number 2: 399
+Path 2: [14, 304, 391, 56, 399]
+
+Nearest Hospital number 3: 253
+Path 3: [14, 455, 101, 121, 345, 253]
+
+Start node: 21
+Nearest Hospital number 1: 377
+Path 1: [21, 316, 104, 145, 377]
+
+Nearest Hospital number 2: 440
+Path 2: [21, 185, 15, 370, 411, 440]
+
+Nearest Hospital number 3: 199
+Path 3: [21, 316, 104, 145, 377, 199]
+
+Start node: 50
+Nearest Hospital number 1: 3
+Path 1: [50, 442, 2, 74, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [50, 442, 2, 74, 268, 403, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [50, 442, 2, 74, 268, 403, 280, 192, 55]
+
+Start node: 34
+Nearest Hospital number 1: 440
+Path 1: [34, 70, 321, 370, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [34, 70, 321, 317, 319, 216, 443]
+
+Nearest Hospital number 3: 3
+Path 3: [34, 70, 321, 370, 411, 412, 403, 3]
+
+Start node: 184
+Nearest Hospital number 1: 129
+Path 1: [184, 157, 324, 244, 71, 129]
+
+Nearest Hospital number 2: 443
+Path 2: [184, 157, 324, 319, 216, 443]
+
+Nearest Hospital number 3: 149
+Path 3: [184, 157, 324, 244, 71, 353, 142, 149]
+
+Start node: 68
+Nearest Hospital number 1: 79
+Path 1: [68, 380, 225, 47, 79]
+
+Nearest Hospital number 2: 440
+Path 2: [68, 380, 225, 33, 0, 338, 440]
+
+Nearest Hospital number 3: 253
+Path 3: [68, 380, 335, 331, 36, 163, 253]
+
+Start node: 163
+Nearest Hospital number 1: 253
+Path 1: [163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [163, 36, 331, 112, 119, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [163, 253, 177, 348, 192, 55]
+
+Start node: 139
+Nearest Hospital number 1: 443
+Path 1: [139, 344, 443]
+
+Nearest Hospital number 2: 377
+Path 2: [139, 104, 145, 377]
+
+Nearest Hospital number 3: 199
+Path 3: [139, 104, 145, 377, 199]
+
+Start node: 96
+Nearest Hospital number 1: 443
+Path 1: [96, 300, 169, 216, 443]
+
+Nearest Hospital number 2: 318
+Path 2: [96, 26, 365, 469, 307, 318]
+
+Nearest Hospital number 3: 440
+Path 3: [96, 426, 234, 370, 411, 440]
+
+Start node: 320
+Nearest Hospital number 1: 440
+Path 1: [320, 276, 338, 440]
+
+Nearest Hospital number 2: 318
+Path 2: [320, 276, 457, 206, 318]
+
+Nearest Hospital number 3: 253
+Path 3: [320, 441, 275, 325, 253]
+
+Start node: 442
+Nearest Hospital number 1: 3
+Path 1: [442, 2, 74, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [442, 2, 74, 268, 403, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [442, 2, 74, 268, 403, 280, 192, 55]
+
+Start node: 40
+Nearest Hospital number 1: 440
+Path 1: [40, 426, 234, 370, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [40, 426, 96, 300, 169, 216, 443]
+
+Nearest Hospital number 3: 78
+Path 3: [40, 378, 46, 427, 336, 168, 78]
+
+Start node: 255
+Nearest Hospital number 1: 362
+Path 1: [255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [255, 186, 400, 330]
+
+Nearest Hospital number 3: 314
+Path 3: [255, 362, 418, 119, 314]
+
+Start node: 449
+Nearest Hospital number 1: 330
+Path 1: [449, 77, 111, 400, 330]
+
+Nearest Hospital number 2: 149
+Path 2: [449, 77, 388, 142, 149]
+
+Nearest Hospital number 3: 399
+Path 3: [449, 77, 388, 142, 466, 399]
+
+Start node: 1
+Nearest Hospital number 1: 89
+Path 1: [1, 89]
+
+Nearest Hospital number 2: 3
+Path 2: [1, 493, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [1, 493, 412, 403, 314]
+
+Start node: 98
+Nearest Hospital number 1: 318
+Path 1: [98, 206, 318]
+
+Nearest Hospital number 2: 435
+Path 2: [98, 367, 435]
+
+Nearest Hospital number 3: 55
+Path 3: [98, 367, 280, 192, 55]
+
+Start node: 48
+Nearest Hospital number 1: 253
+Path 1: [48, 36, 163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [48, 36, 331, 112, 119, 314]
+
+Nearest Hospital number 3: 362
+Path 3: [48, 36, 331, 112, 119, 418, 362]
+
+Start node: 39
+Nearest Hospital number 1: 443
+Path 1: [39, 216, 443]
+
+Nearest Hospital number 2: 253
+Path 2: [39, 216, 319, 470, 73, 345, 253]
+
+Nearest Hospital number 3: 129
+Path 3: [39, 216, 319, 324, 244, 71, 129]
+
+Start node: 243
+Nearest Hospital number 1: 79
+Path 1: [243, 383, 79]
+
+Nearest Hospital number 2: 399
+Path 2: [243, 383, 466, 399]
+
+Nearest Hospital number 3: 149
+Path 3: [243, 383, 466, 142, 149]
+
+Start node: 275
+Nearest Hospital number 1: 253
+Path 1: [275, 325, 253]
+
+Nearest Hospital number 2: 377
+Path 2: [275, 447, 136, 413, 377]
+
+Nearest Hospital number 3: 362
+Path 3: [275, 273, 357, 337, 418, 362]
+
+Start node: 398
+Nearest Hospital number 1: 314
+Path 1: [398, 463, 421, 349, 314]
+
+Nearest Hospital number 2: 377
+Path 2: [398, 346, 322, 486, 413, 377]
+
+Nearest Hospital number 3: 149
+Path 3: [398, 463, 384, 376, 142, 149]
+
+Start node: 176
+Nearest Hospital number 1: 362
+Path 1: [176, 308, 337, 418, 362]
+
+Nearest Hospital number 2: 314
+Path 2: [176, 308, 337, 418, 119, 314]
+
+Nearest Hospital number 3: 88
+Path 3: [176, 308, 337, 418, 382, 88]
+
+Start node: 346
+Nearest Hospital number 1: 377
+Path 1: [346, 322, 486, 413, 377]
+
+Nearest Hospital number 2: 253
+Path 2: [346, 322, 273, 275, 325, 253]
+
+Nearest Hospital number 3: 199
+Path 3: [346, 322, 486, 413, 377, 199]
+
+Start node: 471
+Nearest Hospital number 1: 362
+Path 1: [471, 75, 76, 357, 337, 418, 362]
+
+Nearest Hospital number 2: 3
+Path 2: [471, 165, 396, 231, 268, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [471, 165, 396, 231, 268, 403, 314]
+
+Start node: 16
+Nearest Hospital number 1: 55
+Path 1: [16, 280, 192, 55]
+
+Nearest Hospital number 2: 435
+Path 2: [16, 280, 367, 435]
+
+Nearest Hospital number 3: 3
+Path 3: [16, 280, 403, 3]
+
+Start node: 425
+Nearest Hospital number 1: 78
+Path 1: [425, 173, 78]
+
+Nearest Hospital number 2: 149
+Path 2: [425, 254, 495, 125, 91, 149]
+
+Nearest Hospital number 3: 253
+Path 3: [425, 254, 7, 461, 381, 163, 253]
+
+Start node: 10
+Nearest Hospital number 1: 362
+Path 1: [10, 308, 337, 418, 362]
+
+Nearest Hospital number 2: 253
+Path 2: [10, 335, 331, 36, 163, 253]
+
+Nearest Hospital number 3: 314
+Path 3: [10, 335, 331, 112, 119, 314]
+
+Start node: 181
+Nearest Hospital number 1: 253
+Path 1: [181, 297, 470, 73, 345, 253]
+
+Nearest Hospital number 2: 443
+Path 2: [181, 297, 470, 319, 216, 443]
+
+Nearest Hospital number 3: 440
+Path 3: [181, 297, 126, 321, 370, 411, 440]
+
+Start node: 317
+Nearest Hospital number 1: 443
+Path 1: [317, 319, 216, 443]
+
+Nearest Hospital number 2: 440
+Path 2: [317, 321, 370, 411, 440]
+
+Nearest Hospital number 3: 253
+Path 3: [317, 319, 470, 73, 345, 253]
+
+Start node: 95
+Nearest Hospital number 1: 55
+Path 1: [95, 192, 55]
+
+Nearest Hospital number 2: 362
+Path 2: [95, 481, 66, 362]
+
+Nearest Hospital number 3: 435
+Path 3: [95, 192, 280, 367, 435]
+
+Start node: 218
+Nearest Hospital number 1: 253
+Path 1: [218, 325, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [218, 325, 253, 177, 348, 192, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [218, 325, 253, 345, 9, 311, 152]
+
+Start node: 366
+Nearest Hospital number 1: 443
+Path 1: [366, 344, 443]
+
+Nearest Hospital number 2: 440
+Path 2: [366, 167, 397, 411, 440]
+
+Nearest Hospital number 3: 149
+Path 3: [366, 167, 384, 376, 142, 149]
+
+Start node: 263
+Nearest Hospital number 1: 362
+Path 1: [263, 429, 312, 255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [263, 429, 312, 255, 186, 400, 330]
+
+Nearest Hospital number 3: 88
+Path 3: [263, 429, 420, 306, 120, 382, 88]
+
+Start node: 407
+Nearest Hospital number 1: 199
+Path 1: [407, 189, 199]
+
+Nearest Hospital number 2: 79
+Path 2: [407, 383, 79]
+
+Nearest Hospital number 3: 377
+Path 3: [407, 189, 199, 377]
+
+Start node: 157
+Nearest Hospital number 1: 129
+Path 1: [157, 324, 244, 71, 129]
+
+Nearest Hospital number 2: 443
+Path 2: [157, 324, 319, 216, 443]
+
+Nearest Hospital number 3: 149
+Path 3: [157, 324, 244, 71, 353, 142, 149]
+
+Start node: 411
+Nearest Hospital number 1: 440
+Path 1: [411, 440]
+
+Nearest Hospital number 2: 3
+Path 2: [411, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [411, 412, 403, 314]
+
+Start node: 498
+Nearest Hospital number 1: 362
+Path 1: [498, 38, 291, 255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [498, 38, 291, 255, 186, 400, 330]
+
+Nearest Hospital number 3: 314
+Path 3: [498, 38, 291, 255, 362, 418, 119, 314]
+
+Start node: 261
+Nearest Hospital number 1: 89
+Path 1: [261, 493, 1, 89]
+
+Nearest Hospital number 2: 3
+Path 2: [261, 493, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [261, 493, 412, 403, 314]
+
+Start node: 265
+Nearest Hospital number 1: 318
+Path 1: [265, 60, 351, 469, 307, 318]
+
+Nearest Hospital number 2: 377
+Path 2: [265, 60, 489, 322, 486, 413, 377]
+
+Nearest Hospital number 3: 440
+Path 3: [265, 393, 257, 329, 245, 468, 440]
+
+Start node: 231
+Nearest Hospital number 1: 3
+Path 1: [231, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [231, 268, 403, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [231, 268, 403, 280, 192, 55]
+
+Start node: 476
+Nearest Hospital number 1: 129
+Path 1: [476, 184, 157, 324, 244, 71, 129]
+
+Nearest Hospital number 2: 443
+Path 2: [476, 184, 157, 324, 319, 216, 443]
+
+Nearest Hospital number 3: 149
+Path 3: [476, 184, 157, 324, 244, 71, 353, 142, 149]
+
+Start node: 113
+Nearest Hospital number 1: 3
+Path 1: [113, 50, 442, 2, 74, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [113, 50, 442, 2, 74, 268, 403, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [113, 50, 442, 2, 74, 268, 403, 280, 192, 55]
+
+Start node: 473
+Nearest Hospital number 1: 253
+Path 1: [473, 124, 218, 325, 253]
+
+Nearest Hospital number 2: 443
+Path 2: [473, 62, 181, 297, 470, 319, 216, 443]
+
+Nearest Hospital number 3: 314
+Path 3: [473, 124, 323, 494, 204, 333, 349, 314]
+
+Start node: 23
+Nearest Hospital number 1: 318
+Path 1: [23, 229, 190, 60, 351, 469, 307, 318]
+
+Nearest Hospital number 2: 377
+Path 2: [23, 229, 190, 60, 489, 322, 486, 413, 377]
+
+Nearest Hospital number 3: 253
+Path 3: [23, 229, 190, 60, 489, 322, 273, 275, 325, 253]
+
+Start node: 4
+Nearest Hospital number 1: 78
+Path 1: [4, 427, 336, 168, 78]
+
+Nearest Hospital number 2: 79
+Path 2: [4, 99, 422, 243, 383, 79]
+
+Nearest Hospital number 3: 314
+Path 3: [4, 99, 422, 333, 349, 314]
+
+Start node: 211
+Nearest Hospital number 1: 377
+Path 1: [211, 322, 486, 413, 377]
+
+Nearest Hospital number 2: 253
+Path 2: [211, 322, 273, 275, 325, 253]
+
+Nearest Hospital number 3: 199
+Path 3: [211, 322, 486, 413, 377, 199]
+
+Start node: 314
+Nearest Hospital number 1: 314
+Path 1: [314]
+
+Nearest Hospital number 2: 3
+Path 2: [314, 403, 3]
+
+Nearest Hospital number 3: 362
+Path 3: [314, 119, 418, 362]
+
+Start node: 41
+Nearest Hospital number 1: 440
+Path 1: [41, 276, 338, 440]
+
+Nearest Hospital number 2: 318
+Path 2: [41, 103, 469, 307, 318]
+
+Nearest Hospital number 3: 55
+Path 3: [41, 103, 223, 95, 192, 55]
+
+Start node: 349
+Nearest Hospital number 1: 314
+Path 1: [349, 314]
+
+Nearest Hospital number 2: 3
+Path 2: [349, 314, 403, 3]
+
+Nearest Hospital number 3: 362
+Path 3: [349, 22, 394, 418, 362]
+
+Start node: 462
+Nearest Hospital number 1: 440
+Path 1: [462, 34, 70, 321, 370, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [462, 34, 70, 321, 317, 319, 216, 443]
+
+Nearest Hospital number 3: 88
+Path 3: [462, 287, 359, 420, 306, 120, 382, 88]
+
+Start node: 310
+Nearest Hospital number 1: 88
+Path 1: [310, 420, 306, 120, 382, 88]
+
+Nearest Hospital number 2: 362
+Path 2: [310, 420, 429, 312, 255, 362]
+
+Nearest Hospital number 3: 314
+Path 3: [310, 404, 170, 421, 349, 314]
+
+Start node: 276
+Nearest Hospital number 1: 440
+Path 1: [276, 338, 440]
+
+Nearest Hospital number 2: 318
+Path 2: [276, 457, 206, 318]
+
+Nearest Hospital number 3: 253
+Path 3: [276, 320, 441, 275, 325, 253]
+
+Start node: 319
+Nearest Hospital number 1: 443
+Path 1: [319, 216, 443]
+
+Nearest Hospital number 2: 253
+Path 2: [319, 470, 73, 345, 253]
+
+Nearest Hospital number 3: 129
+Path 3: [319, 324, 244, 71, 129]
+
+Start node: 458
+Nearest Hospital number 1: 377
+Path 1: [458, 87, 136, 413, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [458, 87, 136, 413, 377, 199]
+
+Nearest Hospital number 3: 253
+Path 3: [458, 87, 101, 121, 345, 253]
+
+Start node: 75
+Nearest Hospital number 1: 362
+Path 1: [75, 76, 357, 337, 418, 362]
+
+Nearest Hospital number 2: 253
+Path 2: [75, 76, 357, 273, 275, 325, 253]
+
+Nearest Hospital number 3: 88
+Path 3: [75, 76, 357, 306, 120, 382, 88]
+
+Start node: 408
+Nearest Hospital number 1: 79
+Path 1: [408, 79]
+
+Nearest Hospital number 2: 399
+Path 2: [408, 389, 56, 399]
+
+Nearest Hospital number 3: 199
+Path 3: [408, 389, 407, 189, 199]
+
+Start node: 166
+Nearest Hospital number 1: 149
+Path 1: [166, 456, 376, 142, 149]
+
+Nearest Hospital number 2: 377
+Path 2: [166, 392, 322, 486, 413, 377]
+
+Nearest Hospital number 3: 362
+Path 3: [166, 392, 357, 337, 418, 362]
+
+Start node: 311
+Nearest Hospital number 1: 152
+Path 1: [311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [311, 9, 345, 253]
+
+Nearest Hospital number 3: 286
+Path 3: [311, 9, 203, 423, 150, 286]
+
+Start node: 324
+Nearest Hospital number 1: 129
+Path 1: [324, 244, 71, 129]
+
+Nearest Hospital number 2: 443
+Path 2: [324, 319, 216, 443]
+
+Nearest Hospital number 3: 149
+Path 3: [324, 244, 71, 353, 142, 149]
+
+Start node: 485
+Nearest Hospital number 1: 314
+Path 1: [485, 421, 349, 314]
+
+Nearest Hospital number 2: 330
+Path 2: [485, 5, 30, 187, 330]
+
+Nearest Hospital number 3: 318
+Path 3: [485, 421, 334, 44, 307, 318]
+
+Start node: 372
+Nearest Hospital number 1: 440
+Path 1: [372, 205, 468, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [372, 285, 300, 169, 216, 443]
+
+Nearest Hospital number 3: 149
+Path 3: [372, 285, 414, 495, 125, 91, 149]
+
+Start node: 417
+Nearest Hospital number 1: 55
+Path 1: [417, 59, 433, 55]
+
+Nearest Hospital number 2: 253
+Path 2: [417, 221, 8, 52, 332, 253]
+
+Nearest Hospital number 3: 440
+Path 3: [417, 221, 257, 329, 245, 468, 440]
+
+Start node: 466
+Nearest Hospital number 1: 399
+Path 1: [466, 399]
+
+Nearest Hospital number 2: 149
+Path 2: [466, 142, 149]
+
+Nearest Hospital number 3: 79
+Path 3: [466, 383, 79]
+
+Start node: 29
+Nearest Hospital number 1: 443
+Path 1: [29, 360, 284, 366, 344, 443]
+
+Nearest Hospital number 2: 440
+Path 2: [29, 360, 284, 366, 167, 397, 411, 440]
+
+Nearest Hospital number 3: 149
+Path 3: [29, 360, 284, 366, 167, 384, 376, 142, 149]
+
+Start node: 397
+Nearest Hospital number 1: 440
+Path 1: [397, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [397, 167, 366, 344, 443]
+
+Nearest Hospital number 3: 3
+Path 3: [397, 411, 412, 403, 3]
+
+Start node: 483
+Nearest Hospital number 1: 129
+Path 1: [483, 244, 71, 129]
+
+Nearest Hospital number 2: 149
+Path 2: [483, 244, 71, 353, 142, 149]
+
+Nearest Hospital number 3: 443
+Path 3: [483, 244, 324, 319, 216, 443]
+
+Start node: 378
+Nearest Hospital number 1: 78
+Path 1: [378, 46, 427, 336, 168, 78]
+
+Nearest Hospital number 2: 149
+Path 2: [378, 414, 495, 125, 91, 149]
+
+Nearest Hospital number 3: 440
+Path 3: [378, 40, 426, 234, 370, 411, 440]
+
+Start node: 153
+Nearest Hospital number 1: 153
+Path 1: [153]
+
+Nearest Hospital number 2: 318
+Path 2: [153, 467, 451, 318]
+
+Nearest Hospital number 3: 330
+Path 3: [153, 467, 451, 395, 18, 187, 330]
+
+Start node: 494
+Nearest Hospital number 1: 314
+Path 1: [494, 204, 333, 349, 314]
+
+Nearest Hospital number 2: 377
+Path 2: [494, 204, 339, 104, 145, 377]
+
+Nearest Hospital number 3: 253
+Path 3: [494, 323, 124, 218, 325, 253]
+
+Start node: 203
+Nearest Hospital number 1: 152
+Path 1: [203, 9, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [203, 9, 345, 253]
+
+Nearest Hospital number 3: 286
+Path 3: [203, 423, 150, 286]
+
+Start node: 31
+Nearest Hospital number 1: 377
+Path 1: [31, 277, 136, 413, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [31, 277, 136, 413, 377, 199]
+
+Nearest Hospital number 3: 253
+Path 3: [31, 277, 136, 447, 275, 325, 253]
+
+Start node: 351
+Nearest Hospital number 1: 318
+Path 1: [351, 469, 307, 318]
+
+Nearest Hospital number 2: 377
+Path 2: [351, 60, 489, 322, 486, 413, 377]
+
+Nearest Hospital number 3: 440
+Path 3: [351, 469, 103, 41, 276, 338, 440]
+
+Start node: 107
+Nearest Hospital number 1: 330
+Path 1: [107, 18, 187, 330]
+
+Nearest Hospital number 2: 318
+Path 2: [107, 18, 395, 451, 318]
+
+Nearest Hospital number 3: 440
+Path 3: [107, 368, 245, 468, 440]
+
+Start node: 399
+Nearest Hospital number 1: 399
+Path 1: [399]
+
+Nearest Hospital number 2: 79
+Path 2: [399, 56, 391, 79]
+
+Nearest Hospital number 3: 149
+Path 3: [399, 466, 142, 149]
+
+Start node: 186
+Nearest Hospital number 1: 362
+Path 1: [186, 255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [186, 400, 330]
+
+Nearest Hospital number 3: 314
+Path 3: [186, 255, 362, 418, 119, 314]
+
+Start node: 60
+Nearest Hospital number 1: 318
+Path 1: [60, 351, 469, 307, 318]
+
+Nearest Hospital number 2: 377
+Path 2: [60, 489, 322, 486, 413, 377]
+
+Nearest Hospital number 3: 253
+Path 3: [60, 489, 322, 273, 275, 325, 253]
+
+Start node: 170
+Nearest Hospital number 1: 314
+Path 1: [170, 421, 349, 314]
+
+Nearest Hospital number 2: 399
+Path 2: [170, 237, 454, 236, 399]
+
+Nearest Hospital number 3: 318
+Path 3: [170, 421, 334, 44, 307, 318]
+
+Start node: 88
+Nearest Hospital number 1: 88
+Path 1: [88]
+
+Nearest Hospital number 2: 362
+Path 2: [88, 382, 418, 362]
+
+Nearest Hospital number 3: 314
+Path 3: [88, 382, 418, 119, 314]
+
+Start node: 0
+Nearest Hospital number 1: 440
+Path 1: [0, 338, 440]
+
+Nearest Hospital number 2: 79
+Path 2: [0, 33, 225, 47, 79]
+
+Nearest Hospital number 3: 318
+Path 3: [0, 338, 276, 457, 206, 318]
+
+Start node: 226
+Nearest Hospital number 1: 330
+Path 1: [226, 369, 107, 18, 187, 330]
+
+Nearest Hospital number 2: 253
+Path 2: [226, 369, 331, 36, 163, 253]
+
+Nearest Hospital number 3: 314
+Path 3: [226, 369, 331, 112, 119, 314]
+
+Start node: 375
+Nearest Hospital number 1: 129
+Path 1: [375, 354, 129]
+
+Nearest Hospital number 2: 253
+Path 2: [375, 354, 43, 121, 345, 253]
+
+Nearest Hospital number 3: 149
+Path 3: [375, 354, 129, 71, 353, 142, 149]
+
+Start node: 104
+Nearest Hospital number 1: 377
+Path 1: [104, 145, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [104, 145, 377, 199]
+
+Nearest Hospital number 3: 443
+Path 3: [104, 139, 344, 443]
+
+Start node: 20
+Nearest Hospital number 1: 253
+Path 1: [20, 221, 8, 52, 332, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [20, 221, 417, 59, 433, 55]
+
+Nearest Hospital number 3: 440
+Path 3: [20, 221, 257, 329, 245, 468, 440]
+
+Start node: 499
+Nearest Hospital number 1: 149
+Path 1: [499, 409, 495, 125, 91, 149]
+
+Nearest Hospital number 2: 78
+Path 2: [499, 409, 495, 254, 425, 173, 78]
+
+Nearest Hospital number 3: 399
+Path 3: [499, 496, 341, 388, 142, 466, 399]
+
+Start node: 295
+Nearest Hospital number 1: 253
+Path 1: [295, 82, 309, 415, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [295, 82, 309, 94, 433, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [295, 82, 309, 269, 37, 161, 9, 311, 152]
+
+Start node: 472
+Nearest Hospital number 1: 443
+Path 1: [472, 319, 216, 443]
+
+Nearest Hospital number 2: 253
+Path 2: [472, 319, 470, 73, 345, 253]
+
+Nearest Hospital number 3: 129
+Path 3: [472, 319, 324, 244, 71, 129]
+
+Start node: 110
+Nearest Hospital number 1: 79
+Path 1: [110, 383, 79]
+
+Nearest Hospital number 2: 399
+Path 2: [110, 383, 466, 399]
+
+Nearest Hospital number 3: 149
+Path 3: [110, 383, 466, 142, 149]
+
+Start node: 228
+Nearest Hospital number 1: 3
+Path 1: [228, 281, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [228, 281, 3, 403, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [228, 281, 3, 403, 280, 192, 55]
+
+Start node: 49
+Nearest Hospital number 1: 330
+Path 1: [49, 111, 400, 330]
+
+Nearest Hospital number 2: 149
+Path 2: [49, 111, 77, 388, 142, 149]
+
+Nearest Hospital number 3: 362
+Path 3: [49, 111, 400, 186, 255, 362]
+
+Start node: 124
+Nearest Hospital number 1: 253
+Path 1: [124, 218, 325, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [124, 323, 494, 204, 333, 349, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [124, 218, 325, 253, 177, 348, 192, 55]
+
+Start node: 118
+Nearest Hospital number 1: 253
+Path 1: [118, 326, 415, 253]
+
+Nearest Hospital number 2: 3
+Path 2: [118, 479, 247, 364, 228, 281, 3]
+
+Nearest Hospital number 3: 55
+Path 3: [118, 326, 415, 309, 94, 433, 55]
+
+Start node: 22
+Nearest Hospital number 1: 314
+Path 1: [22, 349, 314]
+
+Nearest Hospital number 2: 362
+Path 2: [22, 394, 418, 362]
+
+Nearest Hospital number 3: 3
+Path 3: [22, 349, 314, 403, 3]
+
+Start node: 434
+Nearest Hospital number 1: 362
+Path 1: [434, 134, 219, 159, 147, 342, 255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [434, 134, 328, 369, 107, 18, 187, 330]
+
+Nearest Hospital number 3: 253
+Path 3: [434, 134, 328, 369, 331, 36, 163, 253]
+
+Start node: 477
+Nearest Hospital number 1: 440
+Path 1: [477, 426, 234, 370, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [477, 426, 96, 300, 169, 216, 443]
+
+Nearest Hospital number 3: 318
+Path 3: [477, 426, 96, 26, 365, 469, 307, 318]
+
+Start node: 387
+Nearest Hospital number 1: 440
+Path 1: [387, 15, 370, 411, 440]
+
+Nearest Hospital number 2: 253
+Path 2: [387, 441, 275, 325, 253]
+
+Nearest Hospital number 3: 3
+Path 3: [387, 15, 370, 411, 412, 403, 3]
+
+Start node: 286
+Nearest Hospital number 1: 286
+Path 1: [286]
+
+Nearest Hospital number 2: 152
+Path 2: [286, 150, 423, 203, 9, 311, 152]
+
+Nearest Hospital number 3: 253
+Path 3: [286, 150, 423, 203, 9, 345, 253]
+
+Start node: 158
+Nearest Hospital number 1: 362
+Path 1: [158, 373, 337, 418, 362]
+
+Nearest Hospital number 2: 314
+Path 2: [158, 373, 337, 418, 119, 314]
+
+Nearest Hospital number 3: 88
+Path 3: [158, 373, 337, 418, 382, 88]
+
+Start node: 277
+Nearest Hospital number 1: 377
+Path 1: [277, 136, 413, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [277, 136, 413, 377, 199]
+
+Nearest Hospital number 3: 253
+Path 3: [277, 136, 447, 275, 325, 253]
+
+Start node: 496
+Nearest Hospital number 1: 149
+Path 1: [496, 341, 388, 142, 149]
+
+Nearest Hospital number 2: 399
+Path 2: [496, 341, 388, 142, 466, 399]
+
+Nearest Hospital number 3: 330
+Path 3: [496, 341, 388, 77, 111, 400, 330]
+
+Start node: 232
+Nearest Hospital number 1: 253
+Path 1: [232, 121, 345, 253]
+
+Nearest Hospital number 2: 129
+Path 2: [232, 121, 43, 354, 129]
+
+Nearest Hospital number 3: 152
+Path 3: [232, 121, 345, 9, 311, 152]
+
+Start node: 443
+Nearest Hospital number 1: 443
+Path 1: [443]
+
+Nearest Hospital number 2: 377
+Path 2: [443, 344, 139, 104, 145, 377]
+
+Nearest Hospital number 3: 253
+Path 3: [443, 216, 319, 470, 73, 345, 253]
+
+Start node: 5
+Nearest Hospital number 1: 330
+Path 1: [5, 30, 187, 330]
+
+Nearest Hospital number 2: 314
+Path 2: [5, 485, 421, 349, 314]
+
+Nearest Hospital number 3: 318
+Path 3: [5, 485, 421, 334, 44, 307, 318]
+
+Start node: 115
+Nearest Hospital number 1: 152
+Path 1: [115, 69, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [115, 69, 311, 9, 345, 253]
+
+Nearest Hospital number 3: 330
+Path 3: [115, 123, 77, 111, 400, 330]
+
+Start node: 89
+Nearest Hospital number 1: 89
+Path 1: [89]
+
+Nearest Hospital number 2: 3
+Path 2: [89, 1, 493, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [89, 1, 493, 412, 403, 314]
+
+Start node: 488
+Nearest Hospital number 1: 362
+Path 1: [488, 255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [488, 255, 186, 400, 330]
+
+Nearest Hospital number 3: 314
+Path 3: [488, 255, 362, 418, 119, 314]
+
+Start node: 419
+Nearest Hospital number 1: 318
+Path 1: [419, 303, 365, 469, 307, 318]
+
+Nearest Hospital number 2: 330
+Path 2: [419, 449, 77, 111, 400, 330]
+
+Nearest Hospital number 3: 149
+Path 3: [419, 449, 77, 388, 142, 149]
+
+Start node: 385
+Nearest Hospital number 1: 314
+Path 1: [385, 22, 349, 314]
+
+Nearest Hospital number 2: 362
+Path 2: [385, 22, 394, 418, 362]
+
+Nearest Hospital number 3: 149
+Path 3: [385, 456, 376, 142, 149]
+
+Start node: 100
+Nearest Hospital number 1: 440
+Path 1: [100, 321, 370, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [100, 321, 317, 319, 216, 443]
+
+Nearest Hospital number 3: 3
+Path 3: [100, 321, 370, 411, 412, 403, 3]
+
+Start node: 297
+Nearest Hospital number 1: 253
+Path 1: [297, 470, 73, 345, 253]
+
+Nearest Hospital number 2: 443
+Path 2: [297, 470, 319, 216, 443]
+
+Nearest Hospital number 3: 440
+Path 3: [297, 126, 321, 370, 411, 440]
+
+Start node: 119
+Nearest Hospital number 1: 314
+Path 1: [119, 314]
+
+Nearest Hospital number 2: 362
+Path 2: [119, 418, 362]
+
+Nearest Hospital number 3: 3
+Path 3: [119, 314, 403, 3]
+
+Start node: 260
+Nearest Hospital number 1: 440
+Path 1: [260, 33, 0, 338, 440]
+
+Nearest Hospital number 2: 79
+Path 2: [260, 33, 225, 47, 79]
+
+Nearest Hospital number 3: 318
+Path 3: [260, 33, 0, 338, 276, 457, 206, 318]
+
+Start node: 73
+Nearest Hospital number 1: 253
+Path 1: [73, 345, 253]
+
+Nearest Hospital number 2: 152
+Path 2: [73, 345, 9, 311, 152]
+
+Nearest Hospital number 3: 443
+Path 3: [73, 470, 319, 216, 443]
+
+Start node: 316
+Nearest Hospital number 1: 377
+Path 1: [316, 104, 145, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [316, 104, 145, 377, 199]
+
+Nearest Hospital number 3: 443
+Path 3: [316, 104, 139, 344, 443]
+
+Start node: 66
+Nearest Hospital number 1: 362
+Path 1: [66, 362]
+
+Nearest Hospital number 2: 55
+Path 2: [66, 481, 95, 192, 55]
+
+Nearest Hospital number 3: 314
+Path 3: [66, 362, 418, 119, 314]
+
+Start node: 264
+Nearest Hospital number 1: 153
+Path 1: [264, 266, 467, 153]
+
+Nearest Hospital number 2: 318
+Path 2: [264, 266, 467, 451, 318]
+
+Nearest Hospital number 3: 330
+Path 3: [264, 123, 77, 111, 400, 330]
+
+Start node: 94
+Nearest Hospital number 1: 55
+Path 1: [94, 433, 55]
+
+Nearest Hospital number 2: 253
+Path 2: [94, 309, 415, 253]
+
+Nearest Hospital number 3: 435
+Path 3: [94, 433, 55, 192, 280, 367, 435]
+
+Start node: 453
+Nearest Hospital number 1: 399
+Path 1: [453, 28, 235, 237, 454, 236, 399]
+
+Nearest Hospital number 2: 314
+Path 2: [453, 28, 235, 237, 170, 421, 349, 314]
+
+Nearest Hospital number 3: 253
+Path 3: [453, 28, 235, 237, 347, 101, 121, 345, 253]
+
+Start node: 65
+Nearest Hospital number 1: 253
+Path 1: [65, 470, 73, 345, 253]
+
+Nearest Hospital number 2: 443
+Path 2: [65, 470, 319, 216, 443]
+
+Nearest Hospital number 3: 152
+Path 3: [65, 470, 73, 345, 9, 311, 152]
+
+Start node: 326
+Nearest Hospital number 1: 253
+Path 1: [326, 415, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [326, 415, 309, 94, 433, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [326, 415, 253, 345, 9, 311, 152]
+
+Start node: 383
+Nearest Hospital number 1: 79
+Path 1: [383, 79]
+
+Nearest Hospital number 2: 399
+Path 2: [383, 466, 399]
+
+Nearest Hospital number 3: 149
+Path 3: [383, 466, 142, 149]
+
+Start node: 169
+Nearest Hospital number 1: 443
+Path 1: [169, 216, 443]
+
+Nearest Hospital number 2: 440
+Path 2: [169, 300, 285, 372, 205, 468, 440]
+
+Nearest Hospital number 3: 253
+Path 3: [169, 216, 319, 470, 73, 345, 253]
+
+Start node: 446
+Nearest Hospital number 1: 286
+Path 1: [446, 423, 150, 286]
+
+Nearest Hospital number 2: 199
+Path 2: [446, 53, 407, 189, 199]
+
+Nearest Hospital number 3: 79
+Path 3: [446, 53, 407, 383, 79]
+
+Start node: 454
+Nearest Hospital number 1: 399
+Path 1: [454, 236, 399]
+
+Nearest Hospital number 2: 362
+Path 2: [454, 236, 208, 394, 418, 362]
+
+Nearest Hospital number 3: 79
+Path 3: [454, 236, 399, 56, 391, 79]
+
+Start node: 433
+Nearest Hospital number 1: 55
+Path 1: [433, 55]
+
+Nearest Hospital number 2: 253
+Path 2: [433, 94, 309, 415, 253]
+
+Nearest Hospital number 3: 435
+Path 3: [433, 55, 192, 280, 367, 435]
+
+Start node: 52
+Nearest Hospital number 1: 253
+Path 1: [52, 332, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [52, 8, 221, 417, 59, 433, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [52, 332, 253, 345, 9, 311, 152]
+
+Start node: 30
+Nearest Hospital number 1: 330
+Path 1: [30, 187, 330]
+
+Nearest Hospital number 2: 314
+Path 2: [30, 5, 485, 421, 349, 314]
+
+Nearest Hospital number 3: 318
+Path 3: [30, 187, 18, 395, 451, 318]
+
+Start node: 224
+Nearest Hospital number 1: 253
+Path 1: [224, 445, 36, 163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [224, 445, 36, 331, 112, 119, 314]
+
+Nearest Hospital number 3: 362
+Path 3: [224, 445, 36, 331, 112, 119, 418, 362]
+
+Start node: 135
+Nearest Hospital number 1: 79
+Path 1: [135, 79]
+
+Nearest Hospital number 2: 399
+Path 2: [135, 79, 383, 466, 399]
+
+Nearest Hospital number 3: 149
+Path 3: [135, 79, 383, 466, 142, 149]
+
+Start node: 117
+Nearest Hospital number 1: 399
+Path 1: [117, 208, 236, 399]
+
+Nearest Hospital number 2: 362
+Path 2: [117, 208, 394, 418, 362]
+
+Nearest Hospital number 3: 314
+Path 3: [117, 208, 394, 22, 349, 314]
+
+Start node: 435
+Nearest Hospital number 1: 435
+Path 1: [435]
+
+Nearest Hospital number 2: 318
+Path 2: [435, 367, 98, 206, 318]
+
+Nearest Hospital number 3: 55
+Path 3: [435, 367, 280, 192, 55]
+
+Start node: 8
+Nearest Hospital number 1: 253
+Path 1: [8, 52, 332, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [8, 221, 417, 59, 433, 55]
+
+Nearest Hospital number 3: 440
+Path 3: [8, 221, 257, 329, 245, 468, 440]
+
+Start node: 44
+Nearest Hospital number 1: 318
+Path 1: [44, 307, 318]
+
+Nearest Hospital number 2: 314
+Path 2: [44, 334, 421, 349, 314]
+
+Nearest Hospital number 3: 153
+Path 3: [44, 307, 318, 451, 467, 153]
+
+Start node: 406
+Nearest Hospital number 1: 440
+Path 1: [406, 33, 0, 338, 440]
+
+Nearest Hospital number 2: 79
+Path 2: [406, 33, 225, 47, 79]
+
+Nearest Hospital number 3: 314
+Path 3: [406, 398, 463, 421, 349, 314]
+
+Start node: 155
+Nearest Hospital number 1: 440
+Path 1: [155, 338, 440]
+
+Nearest Hospital number 2: 318
+Path 2: [155, 338, 276, 457, 206, 318]
+
+Nearest Hospital number 3: 79
+Path 3: [155, 338, 0, 33, 225, 47, 79]
+
+Start node: 11
+Nearest Hospital number 1: 318
+Path 1: [11, 334, 44, 307, 318]
+
+Nearest Hospital number 2: 314
+Path 2: [11, 334, 421, 349, 314]
+
+Nearest Hospital number 3: 440
+Path 3: [11, 371, 250, 411, 440]
+
+Start node: 467
+Nearest Hospital number 1: 153
+Path 1: [467, 153]
+
+Nearest Hospital number 2: 318
+Path 2: [467, 451, 318]
+
+Nearest Hospital number 3: 330
+Path 3: [467, 451, 395, 18, 187, 330]
+
+Start node: 423
+Nearest Hospital number 1: 286
+Path 1: [423, 150, 286]
+
+Nearest Hospital number 2: 152
+Path 2: [423, 203, 9, 311, 152]
+
+Nearest Hospital number 3: 253
+Path 3: [423, 203, 9, 345, 253]
+
+Start node: 80
+Nearest Hospital number 1: 129
+Path 1: [80, 25, 71, 129]
+
+Nearest Hospital number 2: 88
+Path 2: [80, 120, 382, 88]
+
+Nearest Hospital number 3: 362
+Path 3: [80, 120, 382, 418, 362]
+
+Start node: 429
+Nearest Hospital number 1: 362
+Path 1: [429, 312, 255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [429, 312, 255, 186, 400, 330]
+
+Nearest Hospital number 3: 88
+Path 3: [429, 420, 306, 120, 382, 88]
+
+Start node: 101
+Nearest Hospital number 1: 253
+Path 1: [101, 121, 345, 253]
+
+Nearest Hospital number 2: 377
+Path 2: [101, 87, 136, 413, 377]
+
+Nearest Hospital number 3: 129
+Path 3: [101, 121, 43, 354, 129]
+
+Start node: 244
+Nearest Hospital number 1: 129
+Path 1: [244, 71, 129]
+
+Nearest Hospital number 2: 149
+Path 2: [244, 71, 353, 142, 149]
+
+Nearest Hospital number 3: 443
+Path 3: [244, 324, 319, 216, 443]
+
+Start node: 262
+Nearest Hospital number 1: 362
+Path 1: [262, 172, 357, 337, 418, 362]
+
+Nearest Hospital number 2: 152
+Path 2: [262, 172, 13, 379, 356, 311, 152]
+
+Nearest Hospital number 3: 253
+Path 3: [262, 172, 357, 273, 275, 325, 253]
+
+Start node: 459
+Nearest Hospital number 1: 286
+Path 1: [459, 105, 148, 32, 150, 286]
+
+Nearest Hospital number 2: 152
+Path 2: [459, 105, 148, 32, 150, 423, 203, 9, 311, 152]
+
+Nearest Hospital number 3: 253
+Path 3: [459, 105, 148, 32, 150, 423, 203, 9, 345, 253]
+
+Start node: 129
+Nearest Hospital number 1: 129
+Path 1: [129]
+
+Nearest Hospital number 2: 149
+Path 2: [129, 71, 353, 142, 149]
+
+Nearest Hospital number 3: 399
+Path 3: [129, 71, 353, 142, 466, 399]
+
+Start node: 246
+Nearest Hospital number 1: 152
+Path 1: [246, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [246, 152, 311, 9, 345, 253]
+
+Nearest Hospital number 3: 286
+Path 3: [246, 152, 311, 9, 203, 423, 150, 286]
+
+Start node: 389
+Nearest Hospital number 1: 399
+Path 1: [389, 56, 399]
+
+Nearest Hospital number 2: 79
+Path 2: [389, 408, 79]
+
+Nearest Hospital number 3: 199
+Path 3: [389, 407, 189, 199]
+
+Start node: 303
+Nearest Hospital number 1: 318
+Path 1: [303, 365, 469, 307, 318]
+
+Nearest Hospital number 2: 330
+Path 2: [303, 419, 449, 77, 111, 400, 330]
+
+Nearest Hospital number 3: 149
+Path 3: [303, 419, 449, 77, 388, 142, 149]
+
+Start node: 36
+Nearest Hospital number 1: 253
+Path 1: [36, 163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [36, 331, 112, 119, 314]
+
+Nearest Hospital number 3: 362
+Path 3: [36, 331, 112, 119, 418, 362]
+
+Start node: 63
+Nearest Hospital number 1: 330
+Path 1: [63, 45, 107, 18, 187, 330]
+
+Nearest Hospital number 2: 318
+Path 2: [63, 45, 107, 18, 395, 451, 318]
+
+Nearest Hospital number 3: 440
+Path 3: [63, 45, 107, 368, 245, 468, 440]
+
+Start node: 120
+Nearest Hospital number 1: 88
+Path 1: [120, 382, 88]
+
+Nearest Hospital number 2: 362
+Path 2: [120, 382, 418, 362]
+
+Nearest Hospital number 3: 129
+Path 3: [120, 80, 25, 71, 129]
+
+Start node: 469
+Nearest Hospital number 1: 318
+Path 1: [469, 307, 318]
+
+Nearest Hospital number 2: 440
+Path 2: [469, 103, 41, 276, 338, 440]
+
+Nearest Hospital number 3: 55
+Path 3: [469, 103, 223, 95, 192, 55]
+
+Start node: 436
+Nearest Hospital number 1: 286
+Path 1: [436, 193, 32, 150, 286]
+
+Nearest Hospital number 2: 152
+Path 2: [436, 193, 32, 150, 423, 203, 9, 311, 152]
+
+Nearest Hospital number 3: 253
+Path 3: [436, 193, 32, 150, 423, 203, 9, 345, 253]
+
+Start node: 207
+Nearest Hospital number 1: 440
+Path 1: [207, 34, 70, 321, 370, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [207, 34, 70, 321, 317, 319, 216, 443]
+
+Nearest Hospital number 3: 3
+Path 3: [207, 34, 70, 321, 370, 411, 412, 403, 3]
+
+Start node: 402
+Nearest Hospital number 1: 88
+Path 1: [402, 306, 120, 382, 88]
+
+Nearest Hospital number 2: 149
+Path 2: [402, 306, 90, 125, 91, 149]
+
+Nearest Hospital number 3: 362
+Path 3: [402, 306, 120, 382, 418, 362]
+
+Start node: 108
+Nearest Hospital number 1: 362
+Path 1: [108, 172, 357, 337, 418, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [108, 328, 369, 107, 18, 187, 330]
+
+Nearest Hospital number 3: 253
+Path 3: [108, 328, 369, 331, 36, 163, 253]
+
+Start node: 76
+Nearest Hospital number 1: 362
+Path 1: [76, 357, 337, 418, 362]
+
+Nearest Hospital number 2: 253
+Path 2: [76, 357, 273, 275, 325, 253]
+
+Nearest Hospital number 3: 88
+Path 3: [76, 357, 306, 120, 382, 88]
+
+Start node: 343
+Nearest Hospital number 1: 440
+Path 1: [343, 167, 397, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [343, 167, 366, 344, 443]
+
+Nearest Hospital number 3: 253
+Path 3: [343, 331, 36, 163, 253]
+
+Start node: 480
+Nearest Hospital number 1: 78
+Path 1: [480, 168, 78]
+
+Nearest Hospital number 2: 149
+Path 2: [480, 267, 271, 384, 376, 142, 149]
+
+Nearest Hospital number 3: 440
+Path 3: [480, 267, 271, 384, 167, 397, 411, 440]
+
+Start node: 306
+Nearest Hospital number 1: 88
+Path 1: [306, 120, 382, 88]
+
+Nearest Hospital number 2: 149
+Path 2: [306, 90, 125, 91, 149]
+
+Nearest Hospital number 3: 362
+Path 3: [306, 120, 382, 418, 362]
+
+Start node: 358
+Nearest Hospital number 1: 78
+Path 1: [358, 168, 78]
+
+Nearest Hospital number 2: 149
+Path 2: [358, 290, 425, 254, 495, 125, 91, 149]
+
+Nearest Hospital number 3: 253
+Path 3: [358, 290, 425, 254, 7, 461, 381, 163, 253]
+
+Start node: 428
+Nearest Hospital number 1: 253
+Path 1: [428, 299, 445, 36, 163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [428, 299, 445, 36, 331, 112, 119, 314]
+
+Nearest Hospital number 3: 152
+Path 3: [428, 465, 386, 37, 161, 9, 311, 152]
+
+Start node: 235
+Nearest Hospital number 1: 399
+Path 1: [235, 237, 454, 236, 399]
+
+Nearest Hospital number 2: 314
+Path 2: [235, 237, 170, 421, 349, 314]
+
+Nearest Hospital number 3: 253
+Path 3: [235, 237, 347, 101, 121, 345, 253]
+
+Start node: 354
+Nearest Hospital number 1: 129
+Path 1: [354, 129]
+
+Nearest Hospital number 2: 253
+Path 2: [354, 43, 121, 345, 253]
+
+Nearest Hospital number 3: 149
+Path 3: [354, 129, 71, 353, 142, 149]
+
+Start node: 300
+Nearest Hospital number 1: 443
+Path 1: [300, 169, 216, 443]
+
+Nearest Hospital number 2: 440
+Path 2: [300, 285, 372, 205, 468, 440]
+
+Nearest Hospital number 3: 318
+Path 3: [300, 96, 26, 365, 469, 307, 318]
+
+Start node: 91
+Nearest Hospital number 1: 149
+Path 1: [91, 149]
+
+Nearest Hospital number 2: 399
+Path 2: [91, 149, 142, 466, 399]
+
+Nearest Hospital number 3: 79
+Path 3: [91, 149, 142, 466, 383, 79]
+
+Start node: 164
+Nearest Hospital number 1: 253
+Path 1: [164, 181, 297, 470, 73, 345, 253]
+
+Nearest Hospital number 2: 443
+Path 2: [164, 181, 297, 470, 319, 216, 443]
+
+Nearest Hospital number 3: 440
+Path 3: [164, 181, 297, 126, 321, 370, 411, 440]
+
+Start node: 356
+Nearest Hospital number 1: 152
+Path 1: [356, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [356, 311, 9, 345, 253]
+
+Nearest Hospital number 3: 286
+Path 3: [356, 311, 9, 203, 423, 150, 286]
+
+Start node: 198
+Nearest Hospital number 1: 440
+Path 1: [198, 70, 321, 370, 411, 440]
+
+Nearest Hospital number 2: 253
+Path 2: [198, 138, 340, 36, 163, 253]
+
+Nearest Hospital number 3: 443
+Path 3: [198, 70, 321, 317, 319, 216, 443]
+
+Start node: 456
+Nearest Hospital number 1: 149
+Path 1: [456, 376, 142, 149]
+
+Nearest Hospital number 2: 399
+Path 2: [456, 376, 142, 466, 399]
+
+Nearest Hospital number 3: 314
+Path 3: [456, 385, 22, 349, 314]
+
+Start node: 482
+Nearest Hospital number 1: 3
+Path 1: [482, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [482, 403, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [482, 403, 280, 192, 55]
+
+Start node: 280
+Nearest Hospital number 1: 55
+Path 1: [280, 192, 55]
+
+Nearest Hospital number 2: 435
+Path 2: [280, 367, 435]
+
+Nearest Hospital number 3: 3
+Path 3: [280, 403, 3]
+
+Start node: 332
+Nearest Hospital number 1: 253
+Path 1: [332, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [332, 253, 177, 348, 192, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [332, 253, 345, 9, 311, 152]
+
+Start node: 431
+Nearest Hospital number 1: 330
+Path 1: [431, 226, 369, 107, 18, 187, 330]
+
+Nearest Hospital number 2: 253
+Path 2: [431, 226, 369, 331, 36, 163, 253]
+
+Nearest Hospital number 3: 314
+Path 3: [431, 226, 369, 331, 112, 119, 314]
+
+Start node: 364
+Nearest Hospital number 1: 3
+Path 1: [364, 228, 281, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [364, 228, 281, 3, 403, 314]
+
+Nearest Hospital number 3: 253
+Path 3: [364, 247, 479, 218, 325, 253]
+
+Start node: 233
+Nearest Hospital number 1: 440
+Path 1: [233, 245, 468, 440]
+
+Nearest Hospital number 2: 152
+Path 2: [233, 240, 69, 311, 152]
+
+Nearest Hospital number 3: 330
+Path 3: [233, 245, 368, 107, 18, 187, 330]
+
+Start node: 322
+Nearest Hospital number 1: 377
+Path 1: [322, 486, 413, 377]
+
+Nearest Hospital number 2: 253
+Path 2: [322, 273, 275, 325, 253]
+
+Nearest Hospital number 3: 199
+Path 3: [322, 486, 413, 377, 199]
+
+Start node: 35
+Nearest Hospital number 1: 253
+Path 1: [35, 144, 428, 299, 445, 36, 163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [35, 144, 428, 299, 445, 36, 331, 112, 119, 314]
+
+Nearest Hospital number 3: 152
+Path 3: [35, 144, 428, 465, 386, 37, 161, 9, 311, 152]
+
+Start node: 200
+Nearest Hospital number 1: 362
+Path 1: [200, 293, 10, 308, 337, 418, 362]
+
+Nearest Hospital number 2: 149
+Path 2: [200, 293, 327, 384, 376, 142, 149]
+
+Nearest Hospital number 3: 253
+Path 3: [200, 293, 10, 335, 331, 36, 163, 253]
+
+Start node: 194
+Nearest Hospital number 1: 314
+Path 1: [194, 170, 421, 349, 314]
+
+Nearest Hospital number 2: 399
+Path 2: [194, 170, 237, 454, 236, 399]
+
+Nearest Hospital number 3: 318
+Path 3: [194, 170, 421, 334, 44, 307, 318]
+
+Start node: 281
+Nearest Hospital number 1: 3
+Path 1: [281, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [281, 3, 403, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [281, 3, 403, 280, 192, 55]
+
+Start node: 122
+Nearest Hospital number 1: 129
+Path 1: [122, 375, 354, 129]
+
+Nearest Hospital number 2: 149
+Path 2: [122, 162, 414, 495, 125, 91, 149]
+
+Nearest Hospital number 3: 253
+Path 3: [122, 375, 354, 43, 121, 345, 253]
+
+Start node: 373
+Nearest Hospital number 1: 362
+Path 1: [373, 337, 418, 362]
+
+Nearest Hospital number 2: 314
+Path 2: [373, 337, 418, 119, 314]
+
+Nearest Hospital number 3: 88
+Path 3: [373, 337, 418, 382, 88]
+
+Start node: 191
+Nearest Hospital number 1: 318
+Path 1: [191, 351, 469, 307, 318]
+
+Nearest Hospital number 2: 88
+Path 2: [191, 474, 310, 420, 306, 120, 382, 88]
+
+Nearest Hospital number 3: 362
+Path 3: [191, 474, 310, 420, 429, 312, 255, 362]
+
+Start node: 305
+Nearest Hospital number 1: 318
+Path 1: [305, 60, 351, 469, 307, 318]
+
+Nearest Hospital number 2: 253
+Path 2: [305, 335, 331, 36, 163, 253]
+
+Nearest Hospital number 3: 314
+Path 3: [305, 335, 331, 112, 119, 314]
+
+Start node: 493
+Nearest Hospital number 1: 89
+Path 1: [493, 1, 89]
+
+Nearest Hospital number 2: 3
+Path 2: [493, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [493, 412, 403, 314]
+
+Start node: 367
+Nearest Hospital number 1: 435
+Path 1: [367, 435]
+
+Nearest Hospital number 2: 318
+Path 2: [367, 98, 206, 318]
+
+Nearest Hospital number 3: 55
+Path 3: [367, 280, 192, 55]
+
+Start node: 339
+Nearest Hospital number 1: 377
+Path 1: [339, 104, 145, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [339, 104, 145, 377, 199]
+
+Nearest Hospital number 3: 443
+Path 3: [339, 104, 139, 344, 443]
+
+Start node: 214
+Nearest Hospital number 1: 362
+Path 1: [214, 263, 429, 312, 255, 362]
+
+Nearest Hospital number 2: 330
+Path 2: [214, 263, 429, 312, 255, 186, 400, 330]
+
+Nearest Hospital number 3: 88
+Path 3: [214, 263, 429, 420, 306, 120, 382, 88]
+
+Start node: 128
+Nearest Hospital number 1: 440
+Path 1: [128, 106, 343, 167, 397, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [128, 106, 343, 167, 366, 344, 443]
+
+Nearest Hospital number 3: 253
+Path 3: [128, 106, 343, 331, 36, 163, 253]
+
+Start node: 331
+Nearest Hospital number 1: 253
+Path 1: [331, 36, 163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [331, 112, 119, 314]
+
+Nearest Hospital number 3: 362
+Path 3: [331, 112, 119, 418, 362]
+
+Start node: 220
+Nearest Hospital number 1: 253
+Path 1: [220, 101, 121, 345, 253]
+
+Nearest Hospital number 2: 377
+Path 2: [220, 101, 87, 136, 413, 377]
+
+Nearest Hospital number 3: 129
+Path 3: [220, 101, 121, 43, 354, 129]
+
+Start node: 370
+Nearest Hospital number 1: 440
+Path 1: [370, 411, 440]
+
+Nearest Hospital number 2: 3
+Path 2: [370, 411, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [370, 411, 412, 403, 314]
+
+Start node: 288
+Nearest Hospital number 1: 377
+Path 1: [288, 136, 413, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [288, 136, 413, 377, 199]
+
+Nearest Hospital number 3: 253
+Path 3: [288, 136, 447, 275, 325, 253]
+
+Start node: 205
+Nearest Hospital number 1: 440
+Path 1: [205, 468, 440]
+
+Nearest Hospital number 2: 3
+Path 2: [205, 468, 440, 411, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [205, 468, 440, 411, 412, 403, 314]
+
+Start node: 217
+Nearest Hospital number 1: 399
+Path 1: [217, 389, 56, 399]
+
+Nearest Hospital number 2: 79
+Path 2: [217, 389, 408, 79]
+
+Nearest Hospital number 3: 199
+Path 3: [217, 389, 407, 189, 199]
+
+Start node: 437
+Nearest Hospital number 1: 362
+Path 1: [437, 418, 362]
+
+Nearest Hospital number 2: 314
+Path 2: [437, 418, 119, 314]
+
+Nearest Hospital number 3: 88
+Path 3: [437, 418, 382, 88]
+
+Start node: 131
+Nearest Hospital number 1: 79
+Path 1: [131, 79]
+
+Nearest Hospital number 2: 399
+Path 2: [131, 79, 383, 466, 399]
+
+Nearest Hospital number 3: 149
+Path 3: [131, 79, 383, 466, 142, 149]
+
+Start node: 208
+Nearest Hospital number 1: 399
+Path 1: [208, 236, 399]
+
+Nearest Hospital number 2: 362
+Path 2: [208, 394, 418, 362]
+
+Nearest Hospital number 3: 314
+Path 3: [208, 394, 22, 349, 314]
+
+Start node: 33
+Nearest Hospital number 1: 440
+Path 1: [33, 0, 338, 440]
+
+Nearest Hospital number 2: 79
+Path 2: [33, 225, 47, 79]
+
+Nearest Hospital number 3: 318
+Path 3: [33, 0, 338, 276, 457, 206, 318]
+
+Start node: 273
+Nearest Hospital number 1: 253
+Path 1: [273, 275, 325, 253]
+
+Nearest Hospital number 2: 362
+Path 2: [273, 357, 337, 418, 362]
+
+Nearest Hospital number 3: 377
+Path 3: [273, 322, 486, 413, 377]
+
+Start node: 302
+Nearest Hospital number 1: 330
+Path 1: [302, 111, 400, 330]
+
+Nearest Hospital number 2: 149
+Path 2: [302, 111, 77, 388, 142, 149]
+
+Nearest Hospital number 3: 362
+Path 3: [302, 111, 400, 186, 255, 362]
+
+Start node: 171
+Nearest Hospital number 1: 3
+Path 1: [171, 165, 396, 231, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [171, 165, 396, 231, 268, 403, 314]
+
+Nearest Hospital number 3: 362
+Path 3: [171, 165, 471, 75, 76, 357, 337, 418, 362]
+
+Start node: 400
+Nearest Hospital number 1: 330
+Path 1: [400, 330]
+
+Nearest Hospital number 2: 362
+Path 2: [400, 186, 255, 362]
+
+Nearest Hospital number 3: 149
+Path 3: [400, 111, 77, 388, 142, 149]
+
+Start node: 363
+Nearest Hospital number 1: 78
+Path 1: [363, 267, 480, 168, 78]
+
+Nearest Hospital number 2: 253
+Path 2: [363, 335, 331, 36, 163, 253]
+
+Nearest Hospital number 3: 314
+Path 3: [363, 335, 331, 112, 119, 314]
+
+Start node: 221
+Nearest Hospital number 1: 253
+Path 1: [221, 8, 52, 332, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [221, 417, 59, 433, 55]
+
+Nearest Hospital number 3: 440
+Path 3: [221, 257, 329, 245, 468, 440]
+
+Start node: 427
+Nearest Hospital number 1: 78
+Path 1: [427, 336, 168, 78]
+
+Nearest Hospital number 2: 79
+Path 2: [427, 4, 99, 422, 243, 383, 79]
+
+Nearest Hospital number 3: 314
+Path 3: [427, 4, 99, 422, 333, 349, 314]
+
+Start node: 86
+Nearest Hospital number 1: 152
+Path 1: [86, 430, 69, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [86, 430, 69, 311, 9, 345, 253]
+
+Nearest Hospital number 3: 440
+Path 3: [86, 430, 69, 240, 233, 245, 468, 440]
+
+Start node: 67
+Nearest Hospital number 1: 377
+Path 1: [67, 458, 87, 136, 413, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [67, 458, 87, 136, 413, 377, 199]
+
+Nearest Hospital number 3: 253
+Path 3: [67, 458, 87, 101, 121, 345, 253]
+
+Start node: 247
+Nearest Hospital number 1: 253
+Path 1: [247, 479, 218, 325, 253]
+
+Nearest Hospital number 2: 3
+Path 2: [247, 364, 228, 281, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [247, 364, 228, 281, 3, 403, 314]
+
+Start node: 430
+Nearest Hospital number 1: 152
+Path 1: [430, 69, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [430, 69, 311, 9, 345, 253]
+
+Nearest Hospital number 3: 440
+Path 3: [430, 69, 240, 233, 245, 468, 440]
+
+Start node: 24
+Nearest Hospital number 1: 253
+Path 1: [24, 269, 309, 415, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [24, 269, 309, 94, 433, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [24, 269, 37, 161, 9, 311, 152]
+
+Start node: 418
+Nearest Hospital number 1: 362
+Path 1: [418, 362]
+
+Nearest Hospital number 2: 314
+Path 2: [418, 119, 314]
+
+Nearest Hospital number 3: 88
+Path 3: [418, 382, 88]
+
+Start node: 74
+Nearest Hospital number 1: 3
+Path 1: [74, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [74, 268, 403, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [74, 268, 403, 280, 192, 55]
+
+Start node: 82
+Nearest Hospital number 1: 253
+Path 1: [82, 309, 415, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [82, 309, 94, 433, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [82, 309, 269, 37, 161, 9, 311, 152]
+
+Start node: 249
+Nearest Hospital number 1: 253
+Path 1: [249, 273, 275, 325, 253]
+
+Nearest Hospital number 2: 362
+Path 2: [249, 273, 357, 337, 418, 362]
+
+Nearest Hospital number 3: 377
+Path 3: [249, 273, 322, 486, 413, 377]
+
+Start node: 239
+Nearest Hospital number 1: 362
+Path 1: [239, 75, 76, 357, 337, 418, 362]
+
+Nearest Hospital number 2: 253
+Path 2: [239, 75, 76, 357, 273, 275, 325, 253]
+
+Nearest Hospital number 3: 88
+Path 3: [239, 75, 76, 357, 306, 120, 382, 88]
+
+Start node: 348
+Nearest Hospital number 1: 253
+Path 1: [348, 177, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [348, 192, 55]
+
+Nearest Hospital number 3: 435
+Path 3: [348, 192, 280, 367, 435]
+
+Start node: 237
+Nearest Hospital number 1: 399
+Path 1: [237, 454, 236, 399]
+
+Nearest Hospital number 2: 314
+Path 2: [237, 170, 421, 349, 314]
+
+Nearest Hospital number 3: 253
+Path 3: [237, 347, 101, 121, 345, 253]
+
+Start node: 460
+Nearest Hospital number 1: 253
+Path 1: [460, 269, 309, 415, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [460, 269, 309, 94, 433, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [460, 269, 37, 161, 9, 311, 152]
+
+Start node: 84
+Nearest Hospital number 1: 78
+Path 1: [84, 427, 336, 168, 78]
+
+Nearest Hospital number 2: 79
+Path 2: [84, 427, 4, 99, 422, 243, 383, 79]
+
+Nearest Hospital number 3: 314
+Path 3: [84, 427, 4, 99, 422, 333, 349, 314]
+
+Start node: 178
+Nearest Hospital number 1: 362
+Path 1: [178, 93, 481, 66, 362]
+
+Nearest Hospital number 2: 318
+Path 2: [178, 93, 424, 451, 318]
+
+Nearest Hospital number 3: 55
+Path 3: [178, 93, 481, 95, 192, 55]
+
+Start node: 182
+Nearest Hospital number 1: 152
+Path 1: [182, 386, 37, 161, 9, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [182, 386, 37, 161, 9, 345, 253]
+
+Nearest Hospital number 3: 55
+Path 3: [182, 386, 37, 269, 309, 94, 433, 55]
+
+Start node: 212
+Nearest Hospital number 1: 79
+Path 1: [212, 380, 225, 47, 79]
+
+Nearest Hospital number 2: 440
+Path 2: [212, 283, 406, 33, 0, 338, 440]
+
+Nearest Hospital number 3: 253
+Path 3: [212, 380, 335, 331, 36, 163, 253]
+
+Start node: 192
+Nearest Hospital number 1: 55
+Path 1: [192, 55]
+
+Nearest Hospital number 2: 435
+Path 2: [192, 280, 367, 435]
+
+Nearest Hospital number 3: 3
+Path 3: [192, 280, 403, 3]
+
+Start node: 141
+Nearest Hospital number 1: 362
+Path 1: [141, 308, 337, 418, 362]
+
+Nearest Hospital number 2: 152
+Path 2: [141, 379, 356, 311, 152]
+
+Nearest Hospital number 3: 314
+Path 3: [141, 308, 337, 418, 119, 314]
+
+Start node: 106
+Nearest Hospital number 1: 440
+Path 1: [106, 343, 167, 397, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [106, 343, 167, 366, 344, 443]
+
+Nearest Hospital number 3: 253
+Path 3: [106, 343, 331, 36, 163, 253]
+
+Start node: 190
+Nearest Hospital number 1: 318
+Path 1: [190, 60, 351, 469, 307, 318]
+
+Nearest Hospital number 2: 377
+Path 2: [190, 60, 489, 322, 486, 413, 377]
+
+Nearest Hospital number 3: 253
+Path 3: [190, 60, 489, 322, 273, 275, 325, 253]
+
+Start node: 215
+Nearest Hospital number 1: 149
+Path 1: [215, 327, 384, 376, 142, 149]
+
+Nearest Hospital number 2: 440
+Path 2: [215, 327, 384, 167, 397, 411, 440]
+
+Nearest Hospital number 3: 443
+Path 3: [215, 327, 384, 167, 366, 344, 443]
+
+Start node: 199
+Nearest Hospital number 1: 199
+Path 1: [199]
+
+Nearest Hospital number 2: 377
+Path 2: [199, 377]
+
+Nearest Hospital number 3: 79
+Path 3: [199, 189, 407, 383, 79]
+
+Start node: 274
+Nearest Hospital number 1: 153
+Path 1: [274, 264, 266, 467, 153]
+
+Nearest Hospital number 2: 286
+Path 2: [274, 446, 423, 150, 286]
+
+Nearest Hospital number 3: 318
+Path 3: [274, 264, 266, 467, 451, 318]
+
+Start node: 25
+Nearest Hospital number 1: 129
+Path 1: [25, 71, 129]
+
+Nearest Hospital number 2: 88
+Path 2: [25, 80, 120, 382, 88]
+
+Nearest Hospital number 3: 149
+Path 3: [25, 71, 353, 142, 149]
+
+Start node: 140
+Nearest Hospital number 1: 330
+Path 1: [140, 401, 6, 449, 77, 111, 400, 330]
+
+Nearest Hospital number 2: 149
+Path 2: [140, 401, 6, 449, 77, 388, 142, 149]
+
+Nearest Hospital number 3: 399
+Path 3: [140, 401, 6, 449, 77, 388, 142, 466, 399]
+
+Start node: 416
+Nearest Hospital number 1: 78
+Path 1: [416, 46, 427, 336, 168, 78]
+
+Nearest Hospital number 2: 79
+Path 2: [416, 455, 14, 304, 391, 79]
+
+Nearest Hospital number 3: 253
+Path 3: [416, 455, 101, 121, 345, 253]
+
+Start node: 457
+Nearest Hospital number 1: 318
+Path 1: [457, 206, 318]
+
+Nearest Hospital number 2: 440
+Path 2: [457, 276, 338, 440]
+
+Nearest Hospital number 3: 435
+Path 3: [457, 206, 98, 367, 435]
+
+Start node: 379
+Nearest Hospital number 1: 152
+Path 1: [379, 356, 311, 152]
+
+Nearest Hospital number 2: 362
+Path 2: [379, 141, 308, 337, 418, 362]
+
+Nearest Hospital number 3: 253
+Path 3: [379, 356, 311, 9, 345, 253]
+
+Start node: 415
+Nearest Hospital number 1: 253
+Path 1: [415, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [415, 309, 94, 433, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [415, 253, 345, 9, 311, 152]
+
+Start node: 109
+Nearest Hospital number 1: 3
+Path 1: [109, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [109, 403, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [109, 403, 280, 192, 55]
+
+Start node: 132
+Nearest Hospital number 1: 318
+Path 1: [132, 451, 318]
+
+Nearest Hospital number 2: 153
+Path 2: [132, 451, 467, 153]
+
+Nearest Hospital number 3: 330
+Path 3: [132, 451, 395, 18, 187, 330]
+
+Start node: 445
+Nearest Hospital number 1: 253
+Path 1: [445, 36, 163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [445, 36, 331, 112, 119, 314]
+
+Nearest Hospital number 3: 362
+Path 3: [445, 36, 331, 112, 119, 418, 362]
+
+Start node: 309
+Nearest Hospital number 1: 253
+Path 1: [309, 415, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [309, 94, 433, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [309, 269, 37, 161, 9, 311, 152]
+
+Start node: 219
+Nearest Hospital number 1: 362
+Path 1: [219, 159, 147, 342, 255, 362]
+
+Nearest Hospital number 2: 3
+Path 2: [219, 159, 147, 85, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [219, 159, 147, 85, 412, 403, 314]
+
+Start node: 377
+Nearest Hospital number 1: 377
+Path 1: [377]
+
+Nearest Hospital number 2: 199
+Path 2: [377, 199]
+
+Nearest Hospital number 3: 443
+Path 3: [377, 145, 104, 139, 344, 443]
+
+Start node: 323
+Nearest Hospital number 1: 253
+Path 1: [323, 124, 218, 325, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [323, 494, 204, 333, 349, 314]
+
+Nearest Hospital number 3: 377
+Path 3: [323, 494, 204, 339, 104, 145, 377]
+
+Start node: 474
+Nearest Hospital number 1: 318
+Path 1: [474, 191, 351, 469, 307, 318]
+
+Nearest Hospital number 2: 88
+Path 2: [474, 310, 420, 306, 120, 382, 88]
+
+Nearest Hospital number 3: 362
+Path 3: [474, 310, 420, 429, 312, 255, 362]
+
+Start node: 37
+Nearest Hospital number 1: 152
+Path 1: [37, 161, 9, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [37, 161, 9, 345, 253]
+
+Nearest Hospital number 3: 55
+Path 3: [37, 269, 309, 94, 433, 55]
+
+Start node: 353
+Nearest Hospital number 1: 129
+Path 1: [353, 71, 129]
+
+Nearest Hospital number 2: 149
+Path 2: [353, 142, 149]
+
+Nearest Hospital number 3: 399
+Path 3: [353, 142, 466, 399]
+
+Start node: 487
+Nearest Hospital number 1: 362
+Path 1: [487, 471, 75, 76, 357, 337, 418, 362]
+
+Nearest Hospital number 2: 3
+Path 2: [487, 471, 165, 396, 231, 268, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [487, 471, 165, 396, 231, 268, 403, 314]
+
+Start node: 180
+Nearest Hospital number 1: 440
+Path 1: [180, 58, 54, 368, 245, 468, 440]
+
+Nearest Hospital number 2: 330
+Path 2: [180, 58, 54, 368, 107, 18, 187, 330]
+
+Nearest Hospital number 3: 318
+Path 3: [180, 58, 54, 368, 107, 18, 395, 451, 318]
+
+Start node: 136
+Nearest Hospital number 1: 377
+Path 1: [136, 413, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [136, 413, 377, 199]
+
+Nearest Hospital number 3: 253
+Path 3: [136, 447, 275, 325, 253]
+
+Start node: 278
+Nearest Hospital number 1: 79
+Path 1: [278, 135, 79]
+
+Nearest Hospital number 2: 399
+Path 2: [278, 135, 79, 383, 466, 399]
+
+Nearest Hospital number 3: 149
+Path 3: [278, 135, 79, 383, 466, 142, 149]
+
+Start node: 43
+Nearest Hospital number 1: 129
+Path 1: [43, 354, 129]
+
+Nearest Hospital number 2: 253
+Path 2: [43, 121, 345, 253]
+
+Nearest Hospital number 3: 152
+Path 3: [43, 121, 345, 9, 311, 152]
+
+Start node: 121
+Nearest Hospital number 1: 253
+Path 1: [121, 345, 253]
+
+Nearest Hospital number 2: 129
+Path 2: [121, 43, 354, 129]
+
+Nearest Hospital number 3: 152
+Path 3: [121, 345, 9, 311, 152]
+
+Start node: 461
+Nearest Hospital number 1: 253
+Path 1: [461, 381, 163, 253]
+
+Nearest Hospital number 2: 78
+Path 2: [461, 7, 254, 425, 173, 78]
+
+Nearest Hospital number 3: 149
+Path 3: [461, 7, 254, 495, 125, 91, 149]
+
+Start node: 298
+Nearest Hospital number 1: 286
+Path 1: [298, 148, 32, 150, 286]
+
+Nearest Hospital number 2: 152
+Path 2: [298, 148, 32, 150, 423, 203, 9, 311, 152]
+
+Nearest Hospital number 3: 253
+Path 3: [298, 148, 32, 150, 423, 203, 9, 345, 253]
+
+Start node: 92
+Nearest Hospital number 1: 440
+Path 1: [92, 15, 370, 411, 440]
+
+Nearest Hospital number 2: 3
+Path 2: [92, 15, 370, 411, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [92, 15, 370, 411, 412, 403, 314]
+
+Start node: 282
+Nearest Hospital number 1: 152
+Path 1: [282, 161, 9, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [282, 161, 9, 345, 253]
+
+Nearest Hospital number 3: 286
+Path 3: [282, 161, 9, 203, 423, 150, 286]
+
+Start node: 204
+Nearest Hospital number 1: 314
+Path 1: [204, 333, 349, 314]
+
+Nearest Hospital number 2: 377
+Path 2: [204, 339, 104, 145, 377]
+
+Nearest Hospital number 3: 3
+Path 3: [204, 333, 349, 314, 403, 3]
+
+Start node: 222
+Nearest Hospital number 1: 3
+Path 1: [222, 272, 165, 396, 231, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [222, 272, 165, 396, 231, 268, 403, 314]
+
+Nearest Hospital number 3: 362
+Path 3: [222, 272, 165, 471, 75, 76, 357, 337, 418, 362]
+
+Start node: 371
+Nearest Hospital number 1: 440
+Path 1: [371, 250, 411, 440]
+
+Nearest Hospital number 2: 318
+Path 2: [371, 11, 334, 44, 307, 318]
+
+Nearest Hospital number 3: 314
+Path 3: [371, 11, 334, 421, 349, 314]
+
+Start node: 450
+Nearest Hospital number 1: 399
+Path 1: [450, 217, 389, 56, 399]
+
+Nearest Hospital number 2: 79
+Path 2: [450, 217, 389, 408, 79]
+
+Nearest Hospital number 3: 199
+Path 3: [450, 217, 389, 407, 189, 199]
+
+Start node: 380
+Nearest Hospital number 1: 79
+Path 1: [380, 225, 47, 79]
+
+Nearest Hospital number 2: 440
+Path 2: [380, 225, 33, 0, 338, 440]
+
+Nearest Hospital number 3: 253
+Path 3: [380, 335, 331, 36, 163, 253]
+
+Start node: 318
+Nearest Hospital number 1: 318
+Path 1: [318]
+
+Nearest Hospital number 2: 153
+Path 2: [318, 451, 467, 153]
+
+Nearest Hospital number 3: 435
+Path 3: [318, 206, 98, 367, 435]
+
+Start node: 77
+Nearest Hospital number 1: 330
+Path 1: [77, 111, 400, 330]
+
+Nearest Hospital number 2: 149
+Path 2: [77, 388, 142, 149]
+
+Nearest Hospital number 3: 399
+Path 3: [77, 388, 142, 466, 399]
+
+Start node: 252
+Nearest Hospital number 1: 253
+Path 1: [252, 221, 8, 52, 332, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [252, 221, 417, 59, 433, 55]
+
+Nearest Hospital number 3: 440
+Path 3: [252, 221, 257, 329, 245, 468, 440]
+
+Start node: 386
+Nearest Hospital number 1: 152
+Path 1: [386, 37, 161, 9, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [386, 37, 161, 9, 345, 253]
+
+Nearest Hospital number 3: 55
+Path 3: [386, 37, 269, 309, 94, 433, 55]
+
+Start node: 123
+Nearest Hospital number 1: 330
+Path 1: [123, 77, 111, 400, 330]
+
+Nearest Hospital number 2: 149
+Path 2: [123, 77, 388, 142, 149]
+
+Nearest Hospital number 3: 152
+Path 3: [123, 115, 69, 311, 152]
+
+Start node: 345
+Nearest Hospital number 1: 253
+Path 1: [345, 253]
+
+Nearest Hospital number 2: 152
+Path 2: [345, 9, 311, 152]
+
+Nearest Hospital number 3: 129
+Path 3: [345, 121, 43, 354, 129]
+
+Start node: 7
+Nearest Hospital number 1: 78
+Path 1: [7, 254, 425, 173, 78]
+
+Nearest Hospital number 2: 253
+Path 2: [7, 461, 381, 163, 253]
+
+Nearest Hospital number 3: 149
+Path 3: [7, 254, 495, 125, 91, 149]
+
+Start node: 391
+Nearest Hospital number 1: 79
+Path 1: [391, 79]
+
+Nearest Hospital number 2: 399
+Path 2: [391, 56, 399]
+
+Nearest Hospital number 3: 199
+Path 3: [391, 56, 389, 407, 189, 199]
+
+Start node: 390
+Nearest Hospital number 1: 377
+Path 1: [390, 339, 104, 145, 377]
+
+Nearest Hospital number 2: 253
+Path 2: [390, 221, 8, 52, 332, 253]
+
+Nearest Hospital number 3: 55
+Path 3: [390, 221, 417, 59, 433, 55]
+
+Start node: 267
+Nearest Hospital number 1: 78
+Path 1: [267, 480, 168, 78]
+
+Nearest Hospital number 2: 149
+Path 2: [267, 271, 384, 376, 142, 149]
+
+Nearest Hospital number 3: 440
+Path 3: [267, 271, 384, 167, 397, 411, 440]
+
+Start node: 152
+Nearest Hospital number 1: 152
+Path 1: [152]
+
+Nearest Hospital number 2: 253
+Path 2: [152, 311, 9, 345, 253]
+
+Nearest Hospital number 3: 286
+Path 3: [152, 311, 9, 203, 423, 150, 286]
+
+Start node: 2
+Nearest Hospital number 1: 3
+Path 1: [2, 74, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [2, 74, 268, 403, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [2, 74, 268, 403, 280, 192, 55]
+
+Start node: 355
+Nearest Hospital number 1: 362
+Path 1: [355, 219, 159, 147, 342, 255, 362]
+
+Nearest Hospital number 2: 3
+Path 2: [355, 219, 159, 147, 85, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [355, 219, 159, 147, 85, 412, 403, 314]
+
+Start node: 147
+Nearest Hospital number 1: 362
+Path 1: [147, 342, 255, 362]
+
+Nearest Hospital number 2: 3
+Path 2: [147, 85, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [147, 85, 412, 403, 314]
+
+Start node: 213
+Nearest Hospital number 1: 253
+Path 1: [213, 218, 325, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [213, 218, 325, 253, 177, 348, 192, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [213, 218, 325, 253, 345, 9, 311, 152]
+
+Start node: 167
+Nearest Hospital number 1: 440
+Path 1: [167, 397, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [167, 366, 344, 443]
+
+Nearest Hospital number 3: 149
+Path 3: [167, 384, 376, 142, 149]
+
+Start node: 444
+Nearest Hospital number 1: 253
+Path 1: [444, 473, 124, 218, 325, 253]
+
+Nearest Hospital number 2: 443
+Path 2: [444, 473, 62, 181, 297, 470, 319, 216, 443]
+
+Nearest Hospital number 3: 314
+Path 3: [444, 473, 124, 323, 494, 204, 333, 349, 314]
+
+Start node: 193
+Nearest Hospital number 1: 286
+Path 1: [193, 32, 150, 286]
+
+Nearest Hospital number 2: 152
+Path 2: [193, 32, 150, 423, 203, 9, 311, 152]
+
+Nearest Hospital number 3: 253
+Path 3: [193, 32, 150, 423, 203, 9, 345, 253]
+
+Start node: 271
+Nearest Hospital number 1: 78
+Path 1: [271, 267, 480, 168, 78]
+
+Nearest Hospital number 2: 149
+Path 2: [271, 384, 376, 142, 149]
+
+Nearest Hospital number 3: 440
+Path 3: [271, 384, 167, 397, 411, 440]
+
+Start node: 28
+Nearest Hospital number 1: 399
+Path 1: [28, 235, 237, 454, 236, 399]
+
+Nearest Hospital number 2: 314
+Path 2: [28, 235, 237, 170, 421, 349, 314]
+
+Nearest Hospital number 3: 253
+Path 3: [28, 235, 237, 347, 101, 121, 345, 253]
+
+Start node: 405
+Nearest Hospital number 1: 443
+Path 1: [405, 319, 216, 443]
+
+Nearest Hospital number 2: 377
+Path 2: [405, 51, 486, 413, 377]
+
+Nearest Hospital number 3: 199
+Path 3: [405, 51, 486, 413, 377, 199]
+
+Start node: 195
+Nearest Hospital number 1: 362
+Path 1: [195, 93, 481, 66, 362]
+
+Nearest Hospital number 2: 318
+Path 2: [195, 93, 424, 451, 318]
+
+Nearest Hospital number 3: 55
+Path 3: [195, 93, 481, 95, 192, 55]
+
+Start node: 206
+Nearest Hospital number 1: 318
+Path 1: [206, 318]
+
+Nearest Hospital number 2: 435
+Path 2: [206, 98, 367, 435]
+
+Nearest Hospital number 3: 440
+Path 3: [206, 457, 276, 338, 440]
+
+Start node: 478
+Nearest Hospital number 1: 152
+Path 1: [478, 160, 203, 9, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [478, 160, 203, 9, 345, 253]
+
+Nearest Hospital number 3: 286
+Path 3: [478, 160, 203, 423, 150, 286]
+
+Start node: 19
+Nearest Hospital number 1: 362
+Path 1: [19, 159, 147, 342, 255, 362]
+
+Nearest Hospital number 2: 3
+Path 2: [19, 159, 147, 85, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [19, 159, 147, 85, 412, 403, 314]
+
+Start node: 27
+Nearest Hospital number 1: 88
+Path 1: [27, 382, 88]
+
+Nearest Hospital number 2: 362
+Path 2: [27, 382, 418, 362]
+
+Nearest Hospital number 3: 314
+Path 3: [27, 382, 418, 119, 314]
+
+Start node: 9
+Nearest Hospital number 1: 152
+Path 1: [9, 311, 152]
+
+Nearest Hospital number 2: 253
+Path 2: [9, 345, 253]
+
+Nearest Hospital number 3: 286
+Path 3: [9, 203, 423, 150, 286]
+
+Start node: 403
+Nearest Hospital number 1: 3
+Path 1: [403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [403, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [403, 280, 192, 55]
+
+Start node: 51
+Nearest Hospital number 1: 377
+Path 1: [51, 486, 413, 377]
+
+Nearest Hospital number 2: 199
+Path 2: [51, 486, 413, 377, 199]
+
+Nearest Hospital number 3: 443
+Path 3: [51, 405, 319, 216, 443]
+
+Start node: 384
+Nearest Hospital number 1: 149
+Path 1: [384, 376, 142, 149]
+
+Nearest Hospital number 2: 440
+Path 2: [384, 167, 397, 411, 440]
+
+Nearest Hospital number 3: 443
+Path 3: [384, 167, 366, 344, 443]
+
+Start node: 70
+Nearest Hospital number 1: 440
+Path 1: [70, 321, 370, 411, 440]
+
+Nearest Hospital number 2: 443
+Path 2: [70, 321, 317, 319, 216, 443]
+
+Nearest Hospital number 3: 3
+Path 3: [70, 321, 370, 411, 412, 403, 3]
+
+Start node: 293
+Nearest Hospital number 1: 362
+Path 1: [293, 10, 308, 337, 418, 362]
+
+Nearest Hospital number 2: 149
+Path 2: [293, 327, 384, 376, 142, 149]
+
+Nearest Hospital number 3: 253
+Path 3: [293, 10, 335, 331, 36, 163, 253]
+
+Start node: 85
+Nearest Hospital number 1: 3
+Path 1: [85, 412, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [85, 412, 403, 314]
+
+Nearest Hospital number 3: 440
+Path 3: [85, 412, 411, 440]
+
+Start node: 223
+Nearest Hospital number 1: 55
+Path 1: [223, 95, 192, 55]
+
+Nearest Hospital number 2: 362
+Path 2: [223, 95, 481, 66, 362]
+
+Nearest Hospital number 3: 318
+Path 3: [223, 103, 469, 307, 318]
+
+Start node: 187
+Nearest Hospital number 1: 330
+Path 1: [187, 330]
+
+Nearest Hospital number 2: 318
+Path 2: [187, 18, 395, 451, 318]
+
+Nearest Hospital number 3: 153
+Path 3: [187, 18, 395, 451, 467, 153]
+
+Start node: 47
+Nearest Hospital number 1: 79
+Path 1: [47, 79]
+
+Nearest Hospital number 2: 399
+Path 2: [47, 79, 383, 466, 399]
+
+Nearest Hospital number 3: 440
+Path 3: [47, 225, 33, 0, 338, 440]
+
+Start node: 294
+Nearest Hospital number 1: 3
+Path 1: [294, 165, 396, 231, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [294, 165, 396, 231, 268, 403, 314]
+
+Nearest Hospital number 3: 362
+Path 3: [294, 165, 471, 75, 76, 357, 337, 418, 362]
+
+Start node: 394
+Nearest Hospital number 1: 362
+Path 1: [394, 418, 362]
+
+Nearest Hospital number 2: 314
+Path 2: [394, 22, 349, 314]
+
+Nearest Hospital number 3: 399
+Path 3: [394, 208, 236, 399]
+
+Start node: 185
+Nearest Hospital number 1: 440
+Path 1: [185, 15, 370, 411, 440]
+
+Nearest Hospital number 2: 377
+Path 2: [185, 21, 316, 104, 145, 377]
+
+Nearest Hospital number 3: 3
+Path 3: [185, 15, 370, 411, 412, 403, 3]
+
+Start node: 55
+Nearest Hospital number 1: 55
+Path 1: [55]
+
+Nearest Hospital number 2: 435
+Path 2: [55, 192, 280, 367, 435]
+
+Nearest Hospital number 3: 3
+Path 3: [55, 192, 280, 403, 3]
+
+Start node: 490
+Nearest Hospital number 1: 440
+Path 1: [490, 143, 411, 440]
+
+Nearest Hospital number 2: 3
+Path 2: [490, 143, 411, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [490, 143, 411, 412, 403, 314]
+
+Start node: 177
+Nearest Hospital number 1: 253
+Path 1: [177, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [177, 348, 192, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [177, 253, 345, 9, 311, 152]
+
+Start node: 174
+Nearest Hospital number 1: 3
+Path 1: [174, 396, 231, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [174, 396, 231, 268, 403, 314]
+
+Nearest Hospital number 3: 152
+Path 3: [174, 282, 161, 9, 311, 152]
+
+Start node: 250
+Nearest Hospital number 1: 440
+Path 1: [250, 411, 440]
+
+Nearest Hospital number 2: 3
+Path 2: [250, 411, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [250, 411, 412, 403, 314]
+
+Start node: 463
+Nearest Hospital number 1: 314
+Path 1: [463, 421, 349, 314]
+
+Nearest Hospital number 2: 149
+Path 2: [463, 384, 376, 142, 149]
+
+Nearest Hospital number 3: 440
+Path 3: [463, 384, 167, 397, 411, 440]
+
+Start node: 45
+Nearest Hospital number 1: 330
+Path 1: [45, 107, 18, 187, 330]
+
+Nearest Hospital number 2: 318
+Path 2: [45, 107, 18, 395, 451, 318]
+
+Nearest Hospital number 3: 440
+Path 3: [45, 107, 368, 245, 468, 440]
+
+Start node: 376
+Nearest Hospital number 1: 149
+Path 1: [376, 142, 149]
+
+Nearest Hospital number 2: 399
+Path 2: [376, 142, 466, 399]
+
+Nearest Hospital number 3: 79
+Path 3: [376, 142, 466, 383, 79]
+
+Start node: 56
+Nearest Hospital number 1: 399
+Path 1: [56, 399]
+
+Nearest Hospital number 2: 79
+Path 2: [56, 391, 79]
+
+Nearest Hospital number 3: 199
+Path 3: [56, 389, 407, 189, 199]
+
+Start node: 325
+Nearest Hospital number 1: 253
+Path 1: [325, 253]
+
+Nearest Hospital number 2: 55
+Path 2: [325, 253, 177, 348, 192, 55]
+
+Nearest Hospital number 3: 152
+Path 3: [325, 253, 345, 9, 311, 152]
+
+Start node: 304
+Nearest Hospital number 1: 79
+Path 1: [304, 391, 79]
+
+Nearest Hospital number 2: 399
+Path 2: [304, 391, 56, 399]
+
+Nearest Hospital number 3: 253
+Path 3: [304, 14, 455, 101, 121, 345, 253]
+
+Start node: 138
+Nearest Hospital number 1: 253
+Path 1: [138, 340, 36, 163, 253]
+
+Nearest Hospital number 2: 440
+Path 2: [138, 198, 70, 321, 370, 411, 440]
+
+Nearest Hospital number 3: 314
+Path 3: [138, 340, 36, 331, 112, 119, 314]
+
+Start node: 381
+Nearest Hospital number 1: 253
+Path 1: [381, 163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [381, 163, 36, 331, 112, 119, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [381, 163, 253, 177, 348, 192, 55]
+
+Start node: 116
+Nearest Hospital number 1: 3
+Path 1: [116, 396, 231, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [116, 396, 231, 268, 403, 314]
+
+Nearest Hospital number 3: 152
+Path 3: [116, 396, 174, 282, 161, 9, 311, 152]
+
+Start node: 340
+Nearest Hospital number 1: 253
+Path 1: [340, 36, 163, 253]
+
+Nearest Hospital number 2: 314
+Path 2: [340, 36, 331, 112, 119, 314]
+
+Nearest Hospital number 3: 362
+Path 3: [340, 36, 331, 112, 119, 418, 362]
+
+Start node: 175
+Nearest Hospital number 1: 440
+Path 1: [175, 180, 58, 54, 368, 245, 468, 440]
+
+Nearest Hospital number 2: 330
+Path 2: [175, 180, 58, 54, 368, 107, 18, 187, 330]
+
+Nearest Hospital number 3: 318
+Path 3: [175, 180, 58, 54, 368, 107, 18, 395, 451, 318]
+
+Start node: 225
+Nearest Hospital number 1: 79
+Path 1: [225, 47, 79]
+
+Nearest Hospital number 2: 440
+Path 2: [225, 33, 0, 338, 440]
+
+Nearest Hospital number 3: 399
+Path 3: [225, 47, 79, 383, 466, 399]
+
+Start node: 111
+Nearest Hospital number 1: 330
+Path 1: [111, 400, 330]
+
+Nearest Hospital number 2: 149
+Path 2: [111, 77, 388, 142, 149]
+
+Nearest Hospital number 3: 362
+Path 3: [111, 400, 186, 255, 362]
+
+Start node: 301
+Nearest Hospital number 1: 149
+Path 1: [301, 409, 495, 125, 91, 149]
+
+Nearest Hospital number 2: 78
+Path 2: [301, 409, 495, 254, 425, 173, 78]
+
+Nearest Hospital number 3: 399
+Path 3: [301, 409, 499, 496, 341, 388, 142, 466, 399]
+
+Start node: 159
+Nearest Hospital number 1: 362
+Path 1: [159, 147, 342, 255, 362]
+
+Nearest Hospital number 2: 3
+Path 2: [159, 147, 85, 412, 403, 3]
+
+Nearest Hospital number 3: 314
+Path 3: [159, 147, 85, 412, 403, 314]
+
+Start node: 396
+Nearest Hospital number 1: 3
+Path 1: [396, 231, 268, 403, 3]
+
+Nearest Hospital number 2: 314
+Path 2: [396, 231, 268, 403, 314]
+
+Nearest Hospital number 3: 152
+Path 3: [396, 174, 282, 161, 9, 311, 152]
+
+Start node: 279
+Nearest Hospital number 1: 440
+Path 1: [279, 250, 411, 440]
+
+Nearest Hospital number 2: 362
+Path 2: [279, 147, 342, 255, 362]
+
+Nearest Hospital number 3: 3
+Path 3: [279, 147, 85, 412, 403, 3]
+
+Start node: 3
+Nearest Hospital number 1: 3
+Path 1: [3]
+
+Nearest Hospital number 2: 314
+Path 2: [3, 403, 314]
+
+Nearest Hospital number 3: 55
+Path 3: [3, 403, 280, 192, 55]
+
+Start node: 382
+Nearest Hospital number 1: 88
+Path 1: [382, 88]
+
+Nearest Hospital number 2: 362
+Path 2: [382, 418, 362]
+
+Nearest Hospital number 3: 314
+Path 3: [382, 418, 119, 314]
+
+Start node: 156
+Nearest Hospital number 1: 79
+Path 1: [156, 391, 79]
+
+Nearest Hospital number 2: 399
+Path 2: [156, 391, 56, 399]
+
+Nearest Hospital number 3: 362
+Path 3: [156, 361, 373, 337, 418, 362]
+
