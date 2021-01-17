@@ -1,0 +1,15 @@
+mode 0
+definition "x=((cos(2*pi*u))*(4*w-8*w*cos(2*pi*u))-4)*sin(0.25*-v*pi+pi/2);
+			y=(sin(2*pi*u))*(4*w-8*w*cos(2*pi*u));
+			z=((cos(2*pi*u))*(4*w-8*w*cos(2*pi*u))-4)*cos(0.25*-v*pi+pi/2);
+			"
+parameters 0 1 0 1 0 1
+resolution 20 20 1
+diffuseColor 1 1 1
+backgroundColor 0.1 0.8 0.9
+axesColor 0.45 0.1 0.55
+SpecularColor 0.4 0.1 0.3
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
