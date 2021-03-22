@@ -1,0 +1,479 @@
+library(data.table)
+library(RColorBrewer)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(ggpubr)
+library(gridExtra)
+library(grid)
+library(caret)
+library(caTools)
+library(rpart)
+library(rpart.plot)   
+#library(car)
+#library(ROCR)
+
+setwd("~/Desktop/AY2020sem1 CBA")
+data1 <- fread("AHD.csv", stringsAsFactors=T, header = T)
+
+
+head(data1)  # see first 6 rows
+summary(data1)
+dim(data1)
+## 303 rows of data (excl. header) and 14 columns.
+
+#===================================================Factoring of Variables ==================================================================== 
+data1$Sex <- factor(data1$Sex)
+data1$ChestPain <- factor(data1$ChestPain)
+data1$Fbs <- factor(data1$Fbs)
+data1$RestECG <- factor(data1$RestECG)
+data1$ExAng <- factor(data1$ExAng)
+data1$Slope <- factor(data1$Slope)
+data1$Ca <- factor(data1$Ca)
+data1$Thal <- factor(data1$Thal)
+
+#Check that desired data types have been achieved
+sapply(data1,class)
+lapply(data1, unique)
+
+#===================================================Renaming of Factors for Easier Understanding =================================================
+levels(data1$Sex) <- c("Female","Male")
+levels(data1$ChestPain) <- c("Asymptomatic","Non-Anginal Pain","Atypical Angina","Typical Angina")
+levels(data1$Fbs) <- c("FBS < 120 mg/dl (Normal)", "FBS > 120 mg/dl (High)")
+levels(data1$RestECG) <- c("Normal", "ST-T Wave Abnormality", "Left Ventricular Hypertrophy")
+levels(data1$ExAng) <- c("No Exercise Induced Angina", "Exercise Induced Angina Present")
+levels(data1$Slope) <- c("Upsloping", "Flat", "Downsloping")
+
+#------------------------------------------------------------------------------------------------------------------#
+                                                #DATA CLEANING
+#------------------------------------------------------------------------------------------------------------------#
+sum(is.na(data1)) # 6 NAs in dataset
+sapply(data1, function(x) sum(is.na(x)))
+## Able to observe that the 4 NAs occured in Ca and Thal
+#which(is.na(data1))  ## That one NA is in row 6 [i.e. value coded: NA]
+
+#Self Defined Functions
+mode <- function(v) {
+  uniqv <- unique(v)
+  uniqv[which.max(tabulate(match(v, uniqv)))]
+}
+
+#===================================================Cleaning NAs in CA and Thal ================================================= 
+mode(data1$Ca) #The most common value in the dataset is 0, we can use this to replace the NA values
+data1[is.na(Ca), Ca:= mode(data1$Ca)]
+#Verify that the values have been correctly replaced in the dataset
+sapply(data1, function(x) sum(is.na(x))) #0 NAs remaining in Ca
+
+mode(data1$Thal) #The most common value in Thal is "normal"
+data1[is.na(Thal), Thal:= mode(data1$Thal)]
+#Verify that the values have been correctly replaced in the dataset.
+sapply(data1, function(x) sum(is.na(x))) #0 NAs remaining in Thal
+
+#============================= Checking for abnormalities/outliers and removing them when necessary ================================
+colours <-rgb(0.8,0.1,0.3,0.6)
+boxplot(data1$Age, axes = FALSE, staplewex = 1, main = "Age",  col = colours)
+text(y = boxplot.stats(data1$Age)$stats, labels = boxplot.stats(data1$Age)$stats, x = 1.25)
+
+boxplot(data1$RestBP, axes = FALSE, staplewex = 1, main = "Resting Blood Pressure",  col = colours)
+text(y = boxplot.stats(data1$RestBP)$stats, labels = boxplot.stats(data1$RestBP)$stats, x = 1.25)
+## There are several outliers, where patients had blood pressure of more than 170. 
+## It's not representative of the entire population as one with RestBP >170 are perpetually are at risk of hypertensive crisis and might get a stroke anytime
+data1 <- data1[data1$RestBP>= 94.0  & data1$RestBP<=170] # remove outliers of RestBP
+
+
+boxplot(data1$Chol, axes = FALSE, staplewex = 1, main = "Serum Cholesterol in mg/dl", col = colours)
+text(y = boxplot.stats(data1$Chol)$stats, labels = boxplot.stats(data1$Chol)$stats, x = 1.25)
+Q1 <- quantile(data1$Chol)[[2]]
+Q3 <- quantile(data1$Chol)[[4]]
+LL <- max(Q1-1.5*IQR(data1$Chol),min(data1$Chol))
+UL <- min(Q3+1.5*(Q3-Q1),max(data1$Chol))
+
+boxplot(data1$MaxHR, axes = FALSE, staplewex = 1, main = "Maximum Heart Rate achieved", col = colours)
+text(y = boxplot.stats(data1$MaxHR)$stats, labels = boxplot.stats(data1$MaxHR)$stats, x = 1.25)
+## No outliers shall be remove. It's entirely possible for max heart rate to be less than 88 especially in very fit atheletes
+
+boxplot(data1$Oldpeak, axes = FALSE, staplewex = 1, main = "Old Peak", col = colours)
+text(y = boxplot.stats(data1$Oldpeak)$stats, labels = boxplot.stats(data1$Oldpeak)$stats, x = 1.25) 
+## No outliers removed
+
+#------------------------------------------------------------------------------------------------------------------#
+                                                    #Exploratory Analysis
+#------------------------------------------------------------------------------------------------------------------#
+
+#=================================================1. Univariate Analysis ==========================================
+#Distribution of Age
+Age<- ggplot(data = data1, aes(x = factor(Age), 
+                               y = prop.table(stat(count)), 
+                               fill = factor(Age), 
+                               label = scales::percent(prop.table(stat(count))))) +
+  geom_bar(position = "dodge", show.legend = FALSE) +  
+  scale_y_continuous(labels = scales::percent) + 
+  labs(x = 'Age', y = 'pct',
+       title = "Distribution of Age(%)", position = position_dodge(.9)) +
+  theme(axis.text.x = element_text(size = 5),
+        axis.text.y = element_text(size = 10)) 
+Age
+# Analyze distribution in age in range 10
+agelabels <- c("20-30","30-40","40-50","50-60","60-70","70-80")
+setDT(data1)[ , agegroups := cut(Age, 
+                                 breaks = c(20.1,30.1,40.1,50.1,60.1,70.1,80.1),
+                                 right = FALSE, 
+                                 labels = agelabels)]
+Age1<- ggplot(data = data1, aes(x=data1$agegroups)) + geom_histogram(stat = "count") + labs(x = 'Age Groups', y = 'Count')
+Age1
+##The age groups are quite  are normally distributed
+qqnorm(data1$Age)
+qqline(data1$Age)
+##This can be proven using qqplot, the QQ Plot allows us to see deviation of a normal distribution much better than in a Histogram or box plot.
+##Most of the patients are in the age between 50s to 60s. The mean age is about 54 years with ±9.038662 std, the youngest is at 29 and the oldest is at 77.
+
+
+
+#Distribution of Sex
+sex <- ggplot(data = data1, aes(x= Sex, fill = Sex)) + geom_histogram(stat = "count") + labs(x = 'Sex', y = 'Frequencies') + ggtitle("Distribution of Sex")
+sex
+
+#Distribution of the types of Chest Pains Experience by patients
+chestpain <- ggplot(data = data1, aes(x= ChestPain, fill = ChestPain)) + geom_histogram(stat = "count") + labs(x = 'Types of Chest Pain', y = 'Frequencies') + ggtitle("Types of Chest Pains")
+chestpain
+
+
+#Distribution of Resting Blood Pressure
+restbp<- ggplot(data1, aes(RestBP)) + geom_density(color = 'light blue', fill="light blue") + geom_vline(aes(xintercept=mean(RestBP)),color="blue", linetype="dashed", size=1) + theme_minimal()
+restbp1<- ggplot(data1, aes(RestBP)) + geom_boxplot()
+grid.arrange(restbp, arrangeGrob(restbp1,nrow = 2), nrow = 2)
+qqnorm(data1$RestBP)
+qqline(data1$RestBP)
+
+
+#Distribution of cholesterol levels
+chol<- ggplot(data1, aes(Chol)) + geom_histogram(binwidth = 30, fill = "light blue", aes(y = ..density..)) + geom_density() + geom_vline(aes(xintercept=mean(Chol)),color="blue", linetype="dashed", size=1) + theme_minimal()
+chol1<- ggplot(data1, aes(Chol)) + geom_boxplot()
+grid.arrange(chol, arrangeGrob(chol1,nrow = 2), nrow = 2)
+
+#Distribution of Fasting Blood Sugar
+fbs <- ggplot(data = data1, aes(x= Fbs, fill = factor(Fbs))) + geom_histogram(stat = "count") + labs(x = 'Fasting Blood Sugar > 120 mg/dl', y = 'Frequencies')
+fbs
+
+
+#Distribution of Resting ECG
+RestECG <- ggplot(data = data1, aes(x= RestECG, fill = factor(RestECG))) + geom_histogram(stat = "count") + labs(x = 'RestECG', y = 'Frequencies')
+RestECG
+
+#Distribution of Max Heart Rate Achieved
+MaxHR<- ggplot(data1, aes(MaxHR)) + geom_histogram(binwidth = 10, fill = "light blue", aes(y = ..density..)) + geom_density() + geom_vline(aes(xintercept=mean(MaxHR)),color="blue", linetype="dashed", size=1) + 
+  theme_minimal() + geom_text(aes(label = "mean value", x = mean(MaxHR)-15, y = 0.005))
+MaxHR
+MaxHR1<- ggplot(data1, aes(MaxHR)) + geom_boxplot()
+grid.arrange(MaxHR, arrangeGrob(MaxHR1,nrow = 2), nrow = 2)
+
+#Distribution of Exercise Induced Angina
+ExECG <- ggplot(data = data1, aes(x= ExAng, fill = factor(ExAng))) + geom_histogram(stat = "count") + labs(x = 'ExAng', y = 'Frequencies')
+ExECG
+
+#Distribution of ST Depression Induced by Exercise Relative to Rest.
+Oldpeak<- ggplot(data1, aes(Oldpeak)) + geom_density(color = 'light blue', fill="light blue") + geom_vline(aes(xintercept=mean(Oldpeak)),color="blue", linetype="dashed", size=1) + 
+  theme_minimal() 
+Oldpeak1<- ggplot(data1, aes(Oldpeak)) + geom_boxplot()
+gridExtra::grid.arrange(Oldpeak, Oldpeak1, ncol = 1,  nrow = 2)
+
+
+#Slope of the Peak Exercise ST Segment (1: upsloping; 2: flat; 3: downsloping).
+Slope <- ggplot(data = data1, aes(x= Slope, fill = factor(Slope))) + geom_histogram(stat = "count") + labs(x = 'Slope', y = 'Frequencies')
+Slope
+
+# Distribution of Major Vessels (0 to 3) colored by Flourosopy.
+ca <- ggplot(data = data1, aes(x= Ca, fill = factor(Ca))) + geom_histogram(stat = "count") + labs(x = 'Number of Major Vessels (0 to 3) colored by Flourosopy.', y = 'Frequencies')
+ca
+
+# Distribution of Thalassemia (normal; fixed defect; reversable defect).
+Thal <- ggplot(data = data1, aes(x= Thal, fill = factor(Thal))) + geom_histogram(stat = "count") + labs(x = 'Number of Thalassemia (normal; fixed defect; reversable defect).', y = 'Frequencies')
+Thal
+
+# TARGET: Distribution of Angiographic Heart Disease status (No: < 50% diameter narrowing; Yes: > 50% diameter narrowing in any major vessel).
+AHD <- ggplot(data = data1, aes(x= AHD, fill = factor(AHD))) + geom_histogram(stat = "count") + labs(x = 'Number of Angiographic Heart Disease status (No: < 50% diameter narrowing; Yes: > 50% diameter narrowing in any major vessel)..', y = 'Frequencies')
+AHD
+
+
+## 2. Bivariate Analysis (To be compared agaisnt target variable)
+
+#Trying to find if we are able to find out the relationship in continuous variables.
+#Estimated salary and dependents and Revenue and margins has high correlation. Not a particularly helpful information to us
+data1 %>%
+  select_if(is.numeric) %>%
+  cor() %>%
+  heatmap(scale="column")
+
+
+cortbl <- melt(round(cor(data.frame(data1)[c("MaxHR", "Chol", "Oldpeak", "Age", "RestBP")]),2))
+ggplot(data = cortbl, aes(Var2, Var1, fill = value)) + geom_tile(color = "white") +
+  scale_fill_gradient2(low = "dark blue", high = "dark red", mid = "beige",midpoint = 0, limit = c(-1,1), space = "Lab") + theme_minimal() + coord_fixed() +
+  geom_text(aes(Var2, Var1, label = value), color = "black", size = 5)  + ggtitle("Correlation Matrix of Continuous Variables")
+
+
+
+#Number of "Views" you want to see in one plot
+#par(mfrow = c(3, 1))
+
+#Categorical Variables
+
+#Age vs Target Variable
+agegroups <-factor(data1$agegroups)
+pal <- colorRampPalette(colors = c("lightblue", "dark blue"))(2)
+agetbl <-with(data1, table(AHD, agegroups))
+barplot(agetbl, beside = TRUE, legend = TRUE, col = pal, main = "Age Distribution by AHD",  xlab = "Age Groups", ylab = "AHD")
+
+#Sex Distribution according to target
+sextbl <-with(data1, table(AHD, Sex))
+barplot(sextbl, beside = TRUE, legend = TRUE, col = pal, main = "Sex Distribution by  AHD", xlab = "Sex", ylab = "Frequencies")
+
+#Chest Pain according to target
+ChestPaintbl <-with(data1, table(AHD, ChestPain))
+barplot(ChestPaintbl, beside = TRUE, legend = TRUE, col = pal, main  = "Types of Chest Pains by AHD", xlab = "Types of Chest Pain", ylab = "Frequencies Frequencies")
+
+#Fbs according to target
+Fbstbl <-with(data1, table(AHD, Fbs))
+barplot(Fbstbl, beside = TRUE, legend = TRUE, col = pal, main = "Fasting Blood Sugar by AHD", xlab = "FBS", ylab = "Frequencies")
+
+#RestECG according to target
+RestECGtbl<-with(data1, table(AHD, RestECG))
+barplot(RestECGtbl, beside = TRUE, legend = TRUE, col = pal, main = "RestECG by AHD", xlab = "RestEcg", ylab = "Frequencies")
+
+# ExAng: 
+ExAngtbl<-with(data1, table(AHD, ExAng))
+barplot(ExAngtbl, beside = TRUE, legend = TRUE, col = pal, main = " ExAng by AHD", xlab = "ExAng", ylab = "Freuqencies")
+
+# Slope: 
+Slopetbl<-with(data1, table(AHD, Slope))
+barplot(Slopetbl, beside = TRUE, legend = TRUE, col = pal, main = " Slope by AHD", xlab = "Slope", ylab = "Freuqencies")
+# Ca: 
+Catbl<-with(data1, table(AHD, Ca))
+barplot(Catbl, beside = TRUE, legend = TRUE, col = pal, main = " Ca by AHD", xlab = "Ca", ylab = "Freuqencies")
+# Thal: 
+Thaltbl<-with(data1, table(AHD, Thal))
+barplot(Thaltbl, beside = TRUE, legend = TRUE, col = pal, main = "Thal by AHD", xlab = "Thal", ylab = "Freuqencies")
+
+# RestBp: 
+ggplot(data = data1,aes(x=RestBP,fill=AHD,color=AHD)) + geom_histogram(binwidth = 10, colour = "black") + labs(x = "Resting Blood Pressure",y = "Frequency", title = "AHD by RestBp")
+
+
+
+#Reset the parameter
+par(mfrow = c(1, 1))
+
+#One way annova test
+#RestBP, Chol, MaxHR, Oldpeak
+data1 %>%
+  gather (RestBP,Chol,MaxHR, Oldpeak, Age, key = "var", value = "Variables") %>%
+  ggplot(aes(x = AHD, y = Variables)) +
+  geom_violin(fill = "light blue") +
+  geom_boxplot(width = 0.3)+
+  facet_wrap(~ var, scales = "free") +
+  theme_bw()
+
+data1 %>%
+  gather (RestBP,Chol,MaxHR, Oldpeak, key = "var", value = "Variables") %>%
+  ggplot(aes(x = Age, y = Variables, colour = AHD)) +
+  geom_point(fill = "light blue") + 
+  geom_smooth(method=lm, se=FALSE, aes(fill=AHD)) + 
+  facet_wrap(~ var, scales = "free") +
+  theme_bw()
+#Age against Max Heart Rate
+ggplot(data = data1, aes(x = Age, y = MaxHR, colour = AHD)) +
+  geom_point(fill = "light blue") + 
+  geom_smooth(method=lm, se=FALSE, aes(fill=AHD)) + 
+  ggtitle("MaxHR against Age")
+  theme_bw()
+
+  
+#Age against Max Heart Rate
+ggplot(data = data1, aes(x = Oldpeak, y = MaxHR, colour = AHD)) +
+    geom_point(fill = "light blue") + 
+    geom_smooth(method=lm, se=FALSE, aes(fill=AHD)) + 
+    ggtitle("MaxHR against OldPeak")
+  theme_bw()
+#===================================================  Train Test Split ==================================================================== 
+levels(data1$AHD) # Baseline is Default = "No"
+data1[ ,`:=`(agegroups = NULL)]
+#Train Test Split
+#70% trainset
+set.seed(2)
+train <- sample.split(Y = data1$AHD, SplitRatio = 0.7)
+trainset <- subset(data1, train == T) 
+testset <- subset(data1, train == F)
+#Checking the distribution of Y is similar in trainset vs testset.
+summary(trainset$AHD) ## 45 -55 split dataset
+summary(testset$AHD)
+
+# Using SMOTE to balance slightly imbalaced dataset
+# set.seed(2)
+# trainset <- SMOTE(AHD~., trainset, perc.over = 100)
+# summary(trainset)
+
+#------------------------------------------------------------------------------------------------------------------#
+                                                      #CART MODEL
+#------------------------------------------------------------------------------------------------------------------#
+set.seed(2) #For randomization in 10-fold CV.
+
+# Categorical Y: Set method = 'class', Change the default CP from 0.01 to 0, to allow the tree to grow to the maximum
+
+max_cart <- rpart(AHD ~. , data = trainset, method = 'class', control = rpart.control(minsplit = 2, cp = 0))
+
+# plots the maximal tree and results. Can choose not to plot too takes way too long, the tree is too big --> not much point in plotting
+rpart.plot(max_cart, nn= T, main = "Maximal Tree in AHD.csv")
+# prints the maximal tree cart onto the console.
+print(max_cart)
+
+#================= Finding the most optimal CP value to use for pruning of Maximum Tree =================
+#Pruning the Tree, display the cp table of optimal pruning base on complexity parameter
+printcp(max_cart)
+# Display the pruning sequence and 10-fold CV errors, as a chart.
+plotcp(max_cart, main = "Subtrees in AHD.csv")
+# plotcp uses geometric mean of prune triggers to represent cp on x-axis.
+
+##4th tree is optimal. Choose any CP value betw the 4th and 3rd tree CP values.
+
+#Extract the Optimal Tree by computing the min CVerror + 1SE in maximal tree max_cart
+CVerror.cap <- max_cart$cptable[which.min(max_cart$cptable[,"xerror"]), "xerror"] + max_cart$cptable[which.min(max_cart$cptable[,"xerror"]), "xstd"]
+
+# Find the optimal CP region whose CV error is just below CVerror.cap in maximal tree max_cart
+i <- 1; j<- 4
+while (max_cart$cptable[i,j] > CVerror.cap) {
+  i <- i + 1
+}
+# Get geometric mean of the two identified CP values in the optimal region if optimal tree has at least one split.
+cp.opt = ifelse(i > 1, sqrt(max_cart$cptable[i,1] * max_cart$cptable[i-1,1]), 1)
+## cp.opt = 0.0395079
+
+#================= Pruning of Maximum Tree based on most optimal CP value found =================
+# Prune the max tree using a particular CP value, cp.opt
+prune_cart <- prune(max_cart, cp = cp.opt)
+printcp(prune_cart, digits = 3)
+print(prune_cart)
+rpart.plot(prune_cart, nn = T, main = "Optimal Tree in AHD.csv")
+## The number inside each node represent the mean value of Y.
+
+#============================= Predictions of Pruned Tree on train set ==============================================
+cart.predict.train = predict(prune_cart, newdata = trainset, type = "class")
+#============================= Confusion Matrix of Predicted Values on train set against Actual Values ==============================================
+cm.train.cart <- table(actual = trainset$AHD, predicted = cart.predict.train, deparse.level = 2)
+cm.train.cart
+round(prop.table(cm.train.cart), 3)
+#=============================Overall Accuracy of train set===============================================================
+mean(cart.predict.train == trainset$AHD) #0.8495146
+
+#=============================Predictions of Pruned Tree on test set ===================================================================
+cart.predict.test <- predict(prune_cart, newdata = testset, type = "class")
+
+#============================= Confusion Matrix of Predicted Values against Actual Values ===================================================================
+cm.test.cart <- table(Testset.Actual = testset$AHD, cart.predict.test, deparse.level = 2)
+cm.test.cart
+round(prop.table(cm.test.cart), 3)
+
+#================================ Overall Accuracy of CART ===================================================================
+mean(cart.predict.test == testset$AHD) #0.8295455
+
+#=================================Variable Importance Pruned Tree===================================================================
+prune_cart$variable.importance
+# Scaling Varioable Impt so as to rep as percentage impt -----------------------
+a<-scaledVarImpt <- round(100*prune_cart$variable.importance/sum(prune_cart$variable.importance))
+scaledVarImpt[scaledVarImpt > 3]  # Print all var impt > cutoff
+## Thal has the highest importance, ChestPain is second impt.
+#Plot a bar chart for the variable importance
+barplot(a, col = colours, main = "Variable Importance of Pruned Tree")
+
+
+#------------------------------------------------------------------------------------------------------------------#
+                                                #LOGISTIC REGRESSION
+#------------------------------------------------------------------------------------------------------------------#
+
+#=================================================Stepwise Regression ==============================================
+
+final_log <- step(glm(AHD ~ ., family = binomial, data = trainset), direction = "backward")
+summary(final_log)
+
+OR.CI <- exp(confint(final_log))
+OR.CI
+
+vif(final_log) # little multicollinearity, thus we will not be removing any points
+
+
+#============================= Test the auto Stepwise Regression is correct ==============================================
+m1 <- glm(AHD ~ . , family = binomial, data = trainset)
+summary(m1)
+
+m2 <- glm(AHD ~ . -Thal, family = binomial, data = trainset) # take only statiscally significant variables
+summary(m2)
+
+m3 <- glm(AHD ~ . -Thal-Chol, family = binomial, data = trainset) # take only statiscally significant variables
+summary(m3)
+
+
+m4 <- glm(AHD ~ . -Thal-Chol-Age, family = binomial, data = trainset) # take only statiscally significant variables
+summary(m4)
+
+m5<- glm(AHD ~ . -Thal-Chol-Age-RestBP, family = binomial, data = trainset) # take only statiscally significant variables
+summary(m5)
+
+
+m6<- glm(AHD ~ . -Thal-Chol-Age-RestBP-Fbs, family = binomial, data = trainset) # take only statiscally significant variables
+summary(m6)
+
+m7<- glm(AHD ~ . -Thal-Chol-Age-RestBP-Fbs-MaxHR, family = binomial, data = trainset) # take only statiscally significant variables
+summary(m7)
+
+
+
+
+
+# Proven that we have gotton similar results as using the stepwise regression formuala on top
+#============================= Validate that the stepwise regression is correct ==============================================
+# m3 <- glm(AHD ~ . , family = binomial, data = trainset)
+# summary(m3)
+# ## P-value for Gender is much higher than in m1.
+# ## Due to data sacrificed for testset.
+# m4<-glm(AHD ~ . -RestECG -Age -Chol -Fbs -ExAng -Oldpeak -MaxHR, family = binomial, data = trainset)
+# summary(m4)
+# ## P-value for Gender is much higher than in m2.
+# ## Due to data sacrificed for testset.
+# 
+# OR <- exp(coef(m4))
+# OR
+# 
+# OR.CI <- exp(confint(m4))
+# OR.CI
+
+# If Threshold = 0.5
+
+
+
+
+#============================= Prediction of Log Regression Model on Train Set =============================================
+prob.train <- predict(final_log, newdata = trainset, type = 'response')
+
+#============================= Threshold Calculation=============================================
+# library(pROC)
+# my_roc <- roc(my_response, my_predictor)
+# coords(my_roc, "best", ret = "threshold")
+threshold1 <- 0.55
+#============================= Confusion Matrix of Predicted Values on train set against Actual Values ======================
+m4.predict.train <- ifelse(prob.train > threshold1, "Yes", "No")
+table3 <- table(Trainset.Actual = trainset$AHD, m4.predict.train, deparse.level = 2)
+table3
+round(prop.table(table3),3)
+#============================= Overall Accuracy of train set ===============================================================
+mean(m4.predict.train == trainset$AHD) ## 0.8543689
+#============================= Prediction of Log Regression Model on test Set ==============================================
+prob.test <- predict(final_log, newdata = testset, type = 'response')
+#============================= Confusion Matrix of Predicted Values on test set against Actual Values =========================
+m4.predict.test <- ifelse(prob.test > threshold1, "Yes", "No")
+table4 <- table(Testset.Actual = testset$AHD, m4.predict.test, deparse.level = 2)
+table4
+round(prop.table(table4), 3)
+#================================= Overall Accuracy of Model ===============================================================
+mean(m4.predict.test == testset$AHD)  #0.8409091
+
+
+
+
+
