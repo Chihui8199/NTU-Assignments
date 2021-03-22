@@ -1,0 +1,6 @@
+Crowdedness_ID,Level
+1,Max_100percentage
+2,Crowded_76to99percentage
+3,Some_Crowd_50to75percentage
+4,Not_Crowded_lessthan50percentage
+5,No_Data
