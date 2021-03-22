@@ -1,0 +1,81 @@
+//1. Display the first document.
+use boxOffice
+db.moviestarts.findOne()
+
+//2. Search all movies that have a rating higher than 9.2 and Runtime lower than 100 minutes
+db.moviestarts.find(
+    {$and:[
+        {"meta.rating":{$gt:9.2}},
+        {"meta.runtime":{$lt:100}}
+        ]
+        
+    }
+)
+
+//3. Search all movies that have a genre of "drama" or "action"
+db.moviestarts.find(
+    {$and:[
+        {"genre":"drama"},
+        {"genre":"action"}]
+    }
+)
+
+
+//4. Search all movies that have a genre of "drama" or "action" without using $and
+
+db.moviestarts.find({
+    "genre":{$in:["drama","action"]}
+    }
+)  
+
+db.moviestarts.find({
+    "genre":{$all:["drama","action"]}
+    }
+)
+
+//5. Search all movies where visitors exceeded expected visitors.
+db.moviestarts.find({
+   $expr:{$gt:["$visitors","$expectedVisitors"]}
+})
+
+
+//6. Search all movies that have a title contains the letter "Su"
+
+db.moviestarts.find({
+    title:{$regex:/Su/}
+})
+
+
+/**7. Search all movies that wither have a genre of "action" and "thriller" or have a genre of "drama", and at the same time, have more than
+300000 visitors with a rating between 8 and 9.5 (inclusive) **/
+
+db.moviestarts.find(
+    {$and:[ 
+        {$or:[
+            {
+             "genre":"drama"   
+            },
+            {
+            $and:[
+                {"genre":"action"},
+                {"genre":"thriller"}
+              ]
+            }
+            ]
+        },
+        {
+          $and:[
+              {"visitors":{$gt:30000}},
+              {"meta.rating":{$gte:8}},
+              {"meta.rating":{$lte:9.5}}
+              ]  
+        }
+        ]
+    }
+
+)
+
+
+
+
+

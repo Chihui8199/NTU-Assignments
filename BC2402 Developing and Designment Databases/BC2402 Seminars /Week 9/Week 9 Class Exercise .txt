@@ -1,0 +1,154 @@
+//week9//
+// case A//
+
+use simpleClinic
+
+db.patients.insertOne({
+    firstName:"Ben",
+    lastName:"Choi",
+    age: 18,
+    history:[
+        {disease: "cold",treatment:"pain killer"},
+        {checkup:"annual",output:"OK"},
+        {disease:"sore throat", treatment:"antibodies"
+        }]
+})
+
+db.patients.insertMany([{
+    firstName:"Wai Chung",
+    lastName:"Wong",
+    age: 22,
+    history:[
+        {disease: "cough",treatment:"strepsils"},
+        {checkup:"annual",output:"OK"},
+        {disease:"sore throat", treatment:"antibodies"
+        }]},
+        
+    {firstName:"Hui Shan",
+    lastName:"Phua",
+    age: 20,
+    history:[
+        {disease: "cramps",treatment:"pain killer"},
+        {checkup:"annual",output:"OK"},
+        {disease:"sore throat", treatment:"antibodies"
+        }]
+        
+    },
+     {firstName:"Cleo",
+    lastName:"Lee Chen Yi",
+    age: 20,
+    history:[
+        {disease: "flu",treatment:"achoo meds"},
+        {checkup:"annual",output:"OK"},
+        ]}
+        ])
+        
+db.patients.find({
+    firstName:"Cleo"
+})
+
+db.patients.find({
+    age:{$gt:20}
+    
+})
+
+
+
+db.patients.deleteMany(
+    {"history.disease":"flu"}
+)
+
+//case B//
+use amazonPrime
+db.customer.insertMany([
+    {"CustomerID":1000,
+    "Name":"Ben Choi"
+    },
+    {"CustomerID":1001,
+    "Name":"Jayden Choi"},
+    {"CustomerID":1002,
+    "Name":"Cammy Soh"},
+     {"CustomerID":1004,
+    "Name":"Mason Greenwdood"},
+     {"CustomerID":1005,
+    "Name":"Dean Henderson"}
+    ])
+    
+db.product.insertMany([
+    {"ProductID":50001,
+    "Product Name":"Scott Pick a Size of Multi Purpose Towels",
+    "Price":4.25
+    },
+    {"ProductID":50002,
+    "Product Name":"Japanese Super Crispy Chicken",
+    "Price":11.80},
+    {"ProductID":50003,
+    "Product Name":"Vegan Beyong Burger Plant Based Patties Beef",
+    "Price":14.90},
+     {"ProductID":50004,
+    "Product Name":"Korean Honey Sweet Potato",
+    "Price":9.90},
+     {"ProductID":50005,
+    "Product Name":"Premium Atlantic Salmon 1kg",
+    "Price":22.00}
+    ])
+    
+db.order.insertMany([
+    {"OrderID":1880001,
+    "CustomerID":1000,
+    "OrderDate":"2020/01/21",
+    "ProductID":[
+        {"50001":{"Quantity":2}},
+        {"50003":{"Quantity":1}}
+        ]},
+    {"OrderID":1880002,
+    "CustomerID":1000,
+    "OrderDate":"2020/01/22",
+    "ProductID":[
+        {"50002":{"Quantity":2}}
+        ]},
+    {"OrderID":1880003,
+    "CustomerID":1000,
+    "OrderDate":"2020/01/23",
+    "ProductID":[
+        {"50004":{"Quantity":4}},
+        {"50005":{"Quantity":2}}
+        ]},
+      {"OrderID":1880004,
+    "CustomerID":1001,
+    "OrderDate":"2020/01/22",
+    "ProductID":[
+        {"50003":{"Quantity":1}},
+        {"50004":{"Quantity":1}}
+        ]},
+     {"OrderID":1880005,
+    "CustomerID":1001,
+    "OrderDate":"2020/01/23",
+    "ProductID":[
+        {"50002":{"Quantity":2}}
+        ]},
+    {"OrderID":1880006,
+    "CustomerID":1004,
+    "OrderDate":"2020/01/24",
+    "ProductID":[
+        {"50004":{"Quantity":1}},
+        {"50005":{"Quantity":1}}
+        ]},
+        {"OrderID":1880007,
+    "CustomerID":1005,
+    "OrderDate":"2020/01/25",
+    "ProductID":[
+        {"50002":{"Quantity":2}},
+        {"50003":{"Quantity":1}},
+        {"50001":{"Quantity":2}}
+
+        ]}
+    ])
+    
+    
+    //partB Q3// 
+    
+    //When fufilling orders, amazon require orderdate, productid and quantity information. 
+    //Hence, it makes sense to combine Order and OrderLine into one collection. 
+    //Database functions for order information are unlikely to be done with only either Order or OrderLine Information. 
+    //Customers and Product are their own respective collections which can be separately referenced to.
