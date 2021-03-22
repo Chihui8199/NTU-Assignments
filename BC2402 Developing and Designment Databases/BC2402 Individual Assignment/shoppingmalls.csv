@@ -1,0 +1,173 @@
+Mall_ID,Mall_Name,Sector
+1,PointyLips Point,central
+2,100 AM,central
+3,313@Somerset,central
+4,Aperia,central
+5,Balestier Hill Shopping Centre,central
+6,Bugis Cube,central
+7,Bugis Junction,central
+8,Bugis+,central
+9,Capitol Piazza,central
+10,Cathay Cineleisure Orchard,central
+11,Clarke Quay Central,central
+12,The Centrepoint,central
+13,City Square Mall,central
+14,City Gate Mall,central
+15,CityLink Mall,central
+16,Duo,central
+17,Far East Plaza,central
+18,Funan,central
+19,Great World City,central
+20,HDB Hub,central
+21,Holland Village Shopping Mall,central
+22,ION Orchard,central
+23,Junction 8,central
+24,Knightsbridge,central
+25,Liang Court,central
+26,Liat Towers,central
+27,Lucky Plaza,central
+28,Marina Bay Sands,central
+29,The Shoppes at Marina Bay Sands,central
+30,Marina Bay Financial Centre Tower 3,central
+31,Marina Bay Link Mall,central
+32,Marina One,central
+33,Marina Square,central
+34,Millenia Walk,central
+35,Mustafa Shopping Centre,central
+36,Ngee Ann City,central
+37,Orchard Central,central
+38,Orchard Gateway,central
+39,Orchard Plaza,central
+40,Midpoint Orchard,central
+41,Orchard Shopping Centre,central
+42,Palais Renaissance,central
+43,People's Park Centre,central
+44,People's Park Complex,central
+45,Plaza Singapura,central
+46,PoMo,central
+47,Raffles City,central
+48,Scotts Square,central
+49,Serangoon Plaza,central
+50,Shaw House and Centre,central
+51,Sim Lim Square,central
+52,Singapore Shopping Centre,central
+53,The South Beach,central
+54,Square 2,central
+55,Suntec City,central
+56,Tanglin Mall,central
+57,Tangs,central
+58,Tanjong Pagar Centre,central
+59,Tekka Centre,central
+60,The Paragon,central
+61,The Poiz,central
+62,Thomson Plaza,central
+63,"United Square, The Kids Learning Mall",central
+64,Velocity,central
+65,Wheelock Place,central
+66,Wisma Atria,central
+67,Zhongshan Mall,central
+68,White Sands,east
+69,Downtown East,east
+70,Century Square,east
+71,Tampines 1,east
+72,Tampines Mall,east
+73,Our Tampines Hub,east
+74,Changi Airport,east
+75,Changi City Point,east
+76,Djitsun Mall Bedok,east
+77,Eastpoint Mall,east
+78,Bedok Mall,east
+79,Bedok Point,east
+80,Paya Lebar Square,east
+81,Singapore Post Centre,east
+82,PLQ Mall,east
+83,KINEX (formerly One KM Mall),east
+84,112 Katong,east
+85,Parkway Parade,east
+86,City Plaza,east
+87,Katong Square,east
+88,Katong V,east
+89,Kallang Wave Mall,east
+90,Leisure Park Kallang,east
+91,East Village,east
+92,Elias Mall,east
+93,Loyang Point,east
+94,The Flow,east
+95,Jewel Changi Airport,east
+96,888 Plaza,north
+97,Admiralty Place,north
+98,AMK Hub,north
+99,Causeway Point,north
+100,Broadway Plaza,north
+101,Djitsun Mall,north
+102,Jubilee Square,north
+103,Junction 9,north
+104,Bishan Junction 8,north
+105,Marsiling Mall,north
+106,Northpoint City,north
+107,Sembawang Shopping Centre,north
+108,Sun Plaza,north
+109,Wisteria Mall,north
+110,Woodlands Mart,north
+111,Waterway Point,north_east
+112,Compass One,north_east
+113,Hougang Mall,north_east
+114,Heartland Mall,north_east
+115,NEX,north_east
+116,Greenwich V,north_east
+117,Hougang 1,north_east
+118,Hougang Green Shopping Mall,north_east
+119,myVillage @ Serangoon,north_east
+120,Oasis Terraces,north_east
+121,Punggol Plaza,north_east
+122,Rivervale Mall,north_east
+123,Rivervale Plaza,north_east
+124,The Seletar Mall,north_east
+125,Buangkok Square,north_east
+126,The Midtown,north_east
+127,Upper Serangoon Shopping Centre,north_east
+128,Beauty World Centre,north-west
+129,Beauty World Plaza,north-west
+130,Bukit Panjang Plaza,north-west
+131,Bukit Timah Plaza,north-west
+132,Fajar Shopping Centre,north-west
+133,Greenridge Shopping Centre,north-west
+134,Hillion Mall,north-west
+135,HillV2,north-west
+136,Junction 10,north-west
+137,Limbang Shopping Centre,north-west
+138,Lot One,north-west
+139,Rail Mall,north-west
+140,Sunshine Place,north-west
+141,Teck Whye Shopping Centre,north-west
+142,West Mall,north-west
+143,Yew Tee Point,north-west
+144,Yew Tee Shopping Centre,north-west
+145,Yew Tee Square,north-west
+146,Keat Hong Shopping Centre,north-west
+147,KKH The Retail Mall,north-west
+148,VivoCity,south
+149,HarbourFront Centre,south
+150,Alexandra Retail Centre,south
+151,321 Clementi,west
+152,The Clementi Mall,west
+153,IMM,west
+154,JCube,west
+155,Jem,west
+156,Westgate Mall,west
+157,Jurong Point,west
+158,Pioneer Mall,west
+159,The Star Vista,west
+160,Tiong Bahru Plaza,west
+161,Alexandra Central,west
+162,Anchorpoint,west
+163,Big Box,west
+164,OD Mall,west
+165,Boon Lay Shopping Centre,west
+166,Grantral Mall,west
+167,Fairprice Hub,west
+168,Gek Poh Shopping Centre,west
+169,Rochester Mall,west
+170,Taman Jurong Shopping Centre,west
+171,West Coast Plaza,west
+172,Queensway Shopping Centre,west
