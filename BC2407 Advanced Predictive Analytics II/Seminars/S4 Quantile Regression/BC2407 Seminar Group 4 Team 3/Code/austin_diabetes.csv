@@ -1,0 +1,1369 @@
+ClassLanguage,Age,Year,Gender,InsuranceCategory,MedicalHomeCategory,RaceEthnicity,EducationLevel,DiabetesStatus,HeartDisease,HighBloodPressure,TobaccoUse,PreviousDiabetesEducation,DiabetesKnowledge,FruitsVegetableConsumption,SugarBevConsumption,FoodMeasurement,CarboCount,Exercise,Income
+Spanish,27,2015,F,Other,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,2,0 days,0 days,3 days,Not low
+Spanish,53,2015,F,Other,CommUnityCare,Hispanic/Latino,College,Yes,No,No,No,Yes,Poor,1-Feb,1,I don't know how,I don't know how,5 or more days,Not low
+Spanish,53,2015,M,Other,CommUnityCare,Hispanic/Latino,College,Yes,No,No,No,No,Fair,3-Apr,1,4 or more,0 days,3 days,Not low
+Spanish,35,2015,F,None,No regular place of care,Hispanic/Latino,1-Aug,Yes,No,No,Yes,No,Fair,Not Sure,2,0 days,I don't know how,0 days,Low
+Spanish,47,2015,F,Other,Other,Hispanic/Latino,High School GED,Yes,No,Yes,No,No,Poor,1-Feb,1,0 days,0 days,0 days,Not low
+Spanish,58,2015,F,None,Lone Star Circle of Care,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,0,I don't know how,I don't know how,3 days,Low
+Spanish,50,2015,F,None,Other,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Poor,1-Feb,1,0 days,0 days,4 days,Low
+Spanish,58,2017,F,None,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,1,4 or more,0 days,2 days,Low
+Spanish,70,2015,M,Other,Other,Hispanic/Latino,High School GED,Yes,No,No,No,No,Poor,3-Apr,1,0 days,0 days,2 days,Not low
+English,67,2016,M,Other,El Buen Samaritano,Hispanic/Latino,College,No,No,Yes,No,No,Fair,5 or more,0,0 days,0 days,5 or more days,Not low
+Spanish,54,2015,F,Other,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,1-Feb,2,1-Mar,1-Mar,4 days,Not low
+Spanish,37,2016,F,None,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,3-Apr,3 or more,I don't know how,I don't know how,1 day,Low
+Spanish,39,2015,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,3-Apr,0,1-Mar,1-Mar,2 days,Low
+Spanish,40,2015,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,2,I don't know how,0 days,0 days,Not low
+Spanish,23,2015,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,2,I don't know how,I don't know how,0 days,Not low
+Spanish,35,2015,F,None,CommUnityCare,Hispanic/Latino,9-Nov,No,No,Yes,No,No,Poor,3-Apr,3 or more,0 days,0 days,0 days,Low
+Spanish,51,2016,F,Other,El Buen Samaritano,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,3-Apr,1,1-Mar,0 days,0 days,Not low
+Spanish,52,2016,F,Private insurance,Seton Clinics,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,3-Apr,1,0 days,I don't know how,1 day,Not low
+Spanish,56,2016,F,None,People's Community Clinic,Hispanic/Latino,College,No,No,Yes,No,No,Poor,3-Apr,1,0 days,0 days,5 or more days,Low
+Spanish,66,2016,M,Medicaid,No regular place of care,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,1-Feb,1,0 days,0 days,4 days,Low
+Spanish,45,2016,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,Yes,Yes,No,Fair,1-Feb,3 or more,0 days,I don't know how,0 days,Low
+Spanish,49,2015,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,3-Apr,1,0 days,I don't know how,5 or more days,Low
+Spanish,40,2015,M,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,1,1-Mar,1-Mar,2 days,Low
+Spanish,45,2015,F,None,Other,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,2,1-Mar,1-Mar,2 days,Low
+English,16,2016,F,MediCARE,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,1-Feb,1,1-Mar,0 days,5 or more days,Not low
+Spanish,64,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,1,I don't know how,I don't know how,1 day,Not low
+English,69,2015,F,Private insurance,Lone Star Circle of Care,Hispanic/Latino,High School GED,Yes,Yes,Yes,No,Yes,Good,1-Feb,2,0 days,1-Mar,1 day,Not low
+Spanish,42,2016,F,Medicaid,CommUnityCare,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,3-Apr,2,0 days,4 or more,5 or more days,Low
+English,67,2016,M,MediCARE,No regular place of care,Hispanic/Latino,High School GED,Yes,Yes,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,5 or more days,Not low
+Spanish,78,2017,F,None,No regular place of care,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Poor,1-Feb,1,0 days,0 days,0 days,Low
+English,56,2015,F,Private insurance,Other,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,1-Feb,3 or more,0 days,I don't know how,1 day,Not low
+Spanish,48,2016,M,None,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,1,1-Mar,1-Mar,2 days,Low
+Spanish,55,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Poor,1-Feb,1,1-Mar,0 days,0 days,Low
+Spanish,43,2017,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,5 or more days,Low
+Spanish,47,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Poor,1-Feb,1,4 or more,I don't know how,1 day,Not low
+Spanish,64,2015,F,Private insurance,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,1,1-Mar,I don't know how,1 day,Not low
+Spanish,41,2016,F,Medicaid,CommUnityCare,Hispanic/Latino,College,No,No,No,Yes,No,Fair,0,2,0 days,0 days,2 days,Low
+Spanish,62,2015,M,Other,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Poor,3-Apr,Not Sure,I don't know how,I don't know how,2 days,Not low
+Spanish,53,2015,M,Other,No regular place of care,Hispanic/Latino,1-Aug,Yes,No,No,Yes,No,Good,3-Apr,2,0 days,0 days,0 days,Not low
+Spanish,66,2015,M,MediCARE,No regular place of care,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Fair,3-Apr,1,I don't know how,I don't know how,0 days,Not low
+Spanish,79,2015,F,None,CommUnityCare,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Fair,1-Feb,3 or more,1-Mar,0 days,0 days,Low
+Spanish,34,2016,F,MAP,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Fair,3-Apr,0,0 days,0 days,2 days,Low
+Spanish,33,2015,F,Private insurance,Other,Hispanic/Latino,College,No,No,No,Yes,No,Good,1-Feb,0,0 days,1-Mar,1 day,Not low
+Spanish,35,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Good,3-Apr,1,I don't know how,I don't know how,2 days,Not low
+English,40,2015,F,None,No regular place of care,Hispanic/Latino,College,No,No,No,Yes,No,Poor,1-Feb,1,0 days,0 days,4 days,Low
+Spanish,73,2016,F,MediCARE,Seton Clinics,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Poor,1-Feb,0,0 days,0 days,0 days,Not low
+Spanish,65,2016,M,Other,Other,Hispanic/Latino,1-Aug,No,No,Yes,Yes,No,Good,1-Feb,0,0 days,0 days,0 days,Not low
+Spanish,40,2016,F,None,No regular place of care,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,1,I don't know how,I don't know how,1 day,Low
+Spanish,38,2017,F,MAP,El Buen Samaritano,Hispanic/Latino,9-Nov,Yes,No,No,No,Yes,Fair,1-Feb,2,0 days,1-Mar,5 or more days,Low
+Spanish,26,2016,F,Medicaid,El Buen Samaritano,Hispanic/Latino,High School GED,No,No,No,No,No,Good,5 or more,1,1-Mar,1-Mar,0 days,Low
+English,32,2017,M,MAP,CommUnityCare,Hispanic/Latino,High School GED,Yes,No,No,Yes,No,Poor,0,1,0 days,0 days,0 days,Low
+Spanish,57,2017,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,43,2017,F,None,Other,Hispanic/Latino,1-Aug,Yes,No,Yes,Yes,Yes,Fair,1-Feb,1,I don't know how,1-Mar,2 days,Low
+Spanish,27,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,3-Apr,1,4 or more,1-Mar,2 days,Not low
+Spanish,50,2016,F,Other,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,Yes,Yes,No,No,Fair,3-Apr,1,1-Mar,1-Mar,3 days,Not low
+Spanish,32,2015,F,Medicaid,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Fair,3-Apr,0,1-Mar,1-Mar,2 days,Low
+Spanish,50,2016,F,MAP,Seton Clinics,Hispanic/Latino,9-Nov,No,No,Yes,No,No,Fair,3-Apr,0,1-Mar,1-Mar,5 or more days,Low
+Spanish,47,2016,M,None,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Good,1-Feb,3 or more,I don't know how,I don't know how,0 days,Low
+Spanish,41,2015,F,MAP,El Buen Samaritano,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,2,I don't know how,I don't know how,0 days,Low
+English,40,2016,F,Medicaid,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Good,1-Feb,2,1-Mar,I don't know how,3 days,Low
+Spanish,37,2016,F,Other,Lone Star Circle of Care,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Good,1-Feb,1,I don't know how,I don't know how,2 days,Not low
+Spanish,58,2015,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Fair,1-Feb,0,1-Mar,I don't know how,3 days,Low
+Spanish,52,2015,F,MAP,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,3-Apr,Not Sure,I don't know how,I don't know how,5 or more days,Low
+Spanish,33,2016,F,MAP,Lone Star Circle of Care,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,3-Apr,2,0 days,0 days,5 or more days,Low
+Spanish,29,2016,F,MediCARE,CommUnityCare,Hispanic/Latino,High School GED,Yes,No,No,No,No,Fair,1-Feb,3 or more,0 days,0 days,0 days,Not low
+Spanish,50,2016,F,None,Doctor's Office,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,3-Apr,1,0 days,0 days,0 days,Low
+Spanish,64,2015,M,MediCARE,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Fair,1-Feb,0,I don't know how,I don't know how,1 day,Not low
+Spanish,59,2016,F,None,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,33,2016,M,MAP,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,1-Feb,1,1-Mar,0 days,5 or more days,Low
+Spanish,58,2015,F,Other,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+Spanish,66,2015,F,Other,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Good,3-Apr,1,1-Mar,1-Mar,1 day,Not low
+Spanish,49,2016,F,MAP,El Buen Samaritano,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,1,I don't know how,I don't know how,2 days,Low
+English,55,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,College,Yes,No,No,No,No,Fair,3-Apr,0,1-Mar,0 days,0 days,Not low
+Spanish,53,2016,F,MediCARE,Emergency Room,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Fair,3-Apr,1,4 or more,0 days,3 days,Not low
+Spanish,35,2016,F,None,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,47,2016,F,Other,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,No,Yes,No,Poor,1-Feb,2,I don't know how,I don't know how,1 day,Not low
+Spanish,29,2015,F,None,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Good,1-Feb,1,1-Mar,0 days,2 days,Low
+Spanish,37,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,3-Apr,2,0 days,0 days,5 or more days,Low
+Spanish,58,2015,F,None,Lone Star Circle of Care,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,45,2015,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,3-Apr,2,I don't know how,I don't know how,0 days,Low
+Spanish,68,2016,F,None,Seton Clinics,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Poor,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,65,2016,M,Other,CommUnityCare,Hispanic/Latino,College,No,No,Yes,No,Yes,Good,1-Feb,0,1-Mar,1-Mar,3 days,Not low
+Spanish,62,2015,F,Private insurance,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,3-Apr,0,1-Mar,1-Mar,2 days,Not low
+Spanish,37,2015,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,Yes,No,No,No,Good,3-Apr,1,0 days,4 or more,5 or more days,Low
+English,49,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,Yes,No,No,Poor,1-Feb,0,0 days,0 days,0 days,Not low
+Spanish,48,2016,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,0,I don't know how,I don't know how,5 or more days,Low
+Spanish,35,2015,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+English,54,2015,F,Medicaid,CommUnityCare,Hispanic/Latino,College,No,No,Yes,No,Yes,Fair,3-Apr,0,1-Mar,0 days,3 days,Low
+Spanish,68,2015,M,None,Lone Star Circle of Care,Hispanic/Latino,College,Yes,No,Yes,No,No,Fair,3-Apr,1,0 days,I don't know how,3 days,Low
+Spanish,26,2016,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,3 days,Not low
+Spanish,34,2015,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,2,I don't know how,I don't know how,2 days,Low
+Spanish,47,2015,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,3-Apr,1,I don't know how,I don't know how,3 days,Low
+Spanish,62,2015,F,None,No regular place of care,Hispanic/Latino,High School GED,Yes,No,Yes,Yes,No,Poor,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,39,2016,F,None,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,1-Feb,1,1-Mar,1-Mar,1 day,Low
+Spanish,62,2016,M,None,Other,Hispanic/Latino,High School GED,Yes,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,87,2016,F,MediCARE,Other,Hispanic/Latino,1-Aug,Yes,Yes,Yes,No,No,Good,1-Feb,0,0 days,I don't know how,5 or more days,Not low
+Spanish,34,2015,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,2,1-Mar,0 days,0 days,Low
+Spanish,53,2016,F,MediCARE,Other,Hispanic/Latino,High School GED,No,No,No,Yes,No,Poor,3-Apr,1,0 days,1-Mar,5 or more days,Not low
+Spanish,40,2016,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,Yes,Yes,No,No,Poor,3-Apr,2,I don't know how,I don't know how,2 days,Low
+English,43,2016,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,2,I don't know how,0 days,1 day,Low
+Spanish,48,2016,F,Other,Doctor's Office,Hispanic/Latino,High School GED,No,No,No,No,No,Good,5 or more,1,4 or more,1-Mar,5 or more days,Not low
+Spanish,39,2016,F,MAP,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,3-Apr,1,1-Mar,1-Mar,0 days,Low
+Spanish,40,2016,F,Private insurance,Other,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,1,0 days,1-Mar,0 days,Not low
+Spanish,62,2015,F,Private insurance,Seton Clinics,Hispanic/Latino,High School GED,No,No,Yes,No,No,Fair,1-Feb,3 or more,1-Mar,1-Mar,0 days,Not low
+Spanish,37,2015,F,None,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,3-Apr,1,1-Mar,I don't know how,5 or more days,Low
+Spanish,56,2017,F,MAP,People's Community Clinic,Hispanic/Latino,High School GED,Yes,No,No,No,Yes,Good,5 or more,0,I don't know how,1-Mar,2 days,Low
+English,37,2015,F,Medicaid,CommUnityCare,Hispanic/Latino,High School GED,Yes,No,No,No,No,Fair,0,0,0 days,4 or more,2 days,Low
+Spanish,34,2015,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Poor,1-Feb,2,1-Mar,4 or more,5 or more days,Low
+Spanish,41,2015,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Poor,1-Feb,3 or more,0 days,0 days,0 days,Low
+Spanish,42,2015,F,None,El Buen Samaritano,Hispanic/Latino,College,No,No,No,No,Yes,Fair,3-Apr,1,4 or more,1-Mar,1 day,Low
+Spanish,23,2016,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,3 or more,0 days,0 days,1 day,Low
+English,60,2016,M,Other,Other,Hispanic/Latino,College,No,No,No,No,Yes,Good,Not Sure,Not Sure,I don't know how,I don't know how,Not Sure,Not low
+Spanish,28,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,Yes,Yes,No,Yes,Poor,3-Apr,1,I don't know how,I don't know how,2 days,Low
+Spanish,35,2015,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,0,0 days,0 days,0 days,Low
+Spanish,34,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,1,1-Mar,0 days,1 day,Not low
+Spanish,27,2017,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,5 or more,Not Sure,4 or more,I don't know how,5 or more days,Low
+Spanish,52,2015,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Good,1-Feb,1,I don't know how,I don't know how,0 days,Low
+English,56,2015,M,None,Emergency Room,Hispanic/Latino,College,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,29,2016,F,Medicaid,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,44,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,2,I don't know how,I don't know how,0 days,Low
+English,52,2016,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,Yes,No,No,Poor,1-Feb,1,0 days,1-Mar,1 day,Low
+Spanish,56,2015,F,Other,Emergency Room,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,1-Feb,2,I don't know how,I don't know how,1 day,Not low
+English,73,2016,M,MediCARE,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,Yes,No,Yes,Fair,3-Apr,1,0 days,0 days,4 days,Not low
+Spanish,43,2016,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,0,0 days,I don't know how,0 days,Low
+Spanish,46,2015,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,3-Apr,0,0 days,0 days,2 days,Low
+Spanish,24,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,0,0 days,0 days,0 days,Low
+Spanish,38,2016,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Poor,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,39,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,Yes,Yes,No,No,Fair,3-Apr,1,I don't know how,I don't know how,2 days,Not low
+Spanish,28,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,0 days,Low
+English,55,2015,F,None,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,3-Apr,1,4 or more,1-Mar,5 or more days,Low
+Spanish,30,2015,F,Medicaid,People's Community Clinic,Hispanic/Latino,High School GED,No,No,No,No,No,Good,1-Feb,1,1-Mar,1-Mar,4 days,Low
+Spanish,35,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,5 or more,2,0 days,4 or more,0 days,Low
+Spanish,51,2017,M,None,Other,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,Not Sure,I don't know how,I don't know how,1 day,Low
+Spanish,35,2016,M,None,No regular place of care,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,1,I don't know how,I don't know how,5 or more days,Low
+Spanish,47,2016,F,None,Other,Hispanic/Latino,High School GED,No,No,Yes,No,No,Poor,1-Feb,3 or more,0 days,0 days,0 days,Low
+Spanish,56,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,No,No,Yes,Good,3-Apr,3 or more,1-Mar,4 or more,5 or more days,Not low
+Spanish,57,2016,M,None,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Fair,1-Feb,2,0 days,0 days,1 day,Low
+Spanish,34,2015,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Fair,1-Feb,3 or more,I don't know how,I don't know how,1 day,Low
+Spanish,40,2016,F,None,Emergency Room,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,3 or more,I don't know how,I don't know how,5 or more days,Low
+Spanish,62,2016,F,None,No regular place of care,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Good,1-Feb,1,I don't know how,I don't know how,0 days,Low
+Spanish,61,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,3-Apr,0,1-Mar,1-Mar,0 days,Not low
+Spanish,38,2015,F,None,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,3-Apr,1,I don't know how,I don't know how,1 day,Low
+Spanish,58,2015,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Fair,1-Feb,1,0 days,I don't know how,1 day,Low
+Spanish,37,2015,F,None,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,3-Apr,2,0 days,0 days,2 days,Low
+English,59,2017,F,Medicaid,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Fair,Not Sure,1,0 days,1-Mar,0 days,Low
+Spanish,40,2015,F,None,CommUnityCare,Hispanic/Latino,College,Yes,No,Yes,No,No,Good,5 or more,1,0 days,0 days,2 days,Low
+Spanish,55,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,1-Feb,0,0 days,0 days,5 or more days,Low
+Spanish,44,2017,F,None,Doctor's Office,Hispanic/Latino,College,Yes,No,Yes,No,Yes,Good,1-Feb,0,1-Mar,0 days,3 days,Low
+Spanish,48,2015,F,Private insurance,Other,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,1-Feb,0,1-Mar,1-Mar,2 days,Not low
+Spanish,37,2015,F,None,Doctor's Office,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,0,I don't know how,I don't know how,2 days,Low
+Spanish,44,2015,F,None,El Buen Samaritano,Hispanic/Latino,College,No,No,Yes,No,No,Good,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,31,2015,F,None,No regular place of care,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,3-Apr,2,I don't know how,I don't know how,2 days,Low
+Spanish,36,2015,F,MAP,CommUnityCare,Hispanic/Latino,College,No,No,No,No,No,Good,3-Apr,0,4 or more,4 or more,5 or more days,Low
+Spanish,27,2015,F,MAP,CommUnityCare,Hispanic/Latino,High School GED,Yes,No,No,No,No,Fair,1-Feb,1,I don't know how,I don't know how,0 days,Low
+English,67,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,College,Yes,No,Yes,No,No,Poor,1-Feb,3 or more,0 days,0 days,3 days,Not low
+Spanish,31,2015,F,Medicaid,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,1,I don't know how,I don't know how,1 day,Low
+Spanish,52,2017,M,None,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Poor,1-Feb,0,1-Mar,1-Mar,1 day,Low
+Spanish,27,2015,F,MAP,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Good,3-Apr,1,1-Mar,1-Mar,3 days,Low
+English,40,2015,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,1 day,Not low
+Spanish,46,2017,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,Yes,Yes,No,No,Fair,1-Feb,2,0 days,0 days,5 or more days,Low
+Spanish,43,2015,F,Private insurance,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Poor,0,1,0 days,0 days,0 days,Not low
+Spanish,32,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,2 days,Not low
+Spanish,37,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,0,1-Mar,I don't know how,2 days,Low
+Spanish,33,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,41,2016,F,Other,Doctor's Office,Hispanic/Latino,College,Yes,No,No,Yes,Yes,Fair,1-Feb,0,1-Mar,0 days,2 days,Not low
+Spanish,37,2015,F,None,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,4 days,Low
+Spanish,32,2016,F,None,No regular place of care,Hispanic/Latino,College,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,51,2016,M,None,Other,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Fair,1-Feb,0,I don't know how,I don't know how,3 days,Low
+Spanish,47,2017,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,3 or more,I don't know how,I don't know how,1 day,Low
+Spanish,33,2015,F,Other,CommUnityCare,Hispanic/Latino,High School GED,Yes,No,Yes,No,No,Fair,3-Apr,0,4 or more,1-Mar,0 days,Not low
+English,44,2017,F,Medicaid,Doctor's Office,Hispanic/Latino,College,Yes,No,No,No,No,Fair,0,1,0 days,0 days,0 days,Low
+Spanish,45,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Good,3-Apr,0,0 days,1-Mar,1 day,Not low
+Spanish,22,2015,F,Private insurance,CommUnityCare,Hispanic/Latino,College,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,0 days,Not low
+Spanish,26,2016,F,MAP,No regular place of care,Hispanic/Latino,High School GED,No,No,Yes,No,No,Fair,1-Feb,2,1-Mar,0 days,2 days,Low
+English,69,2015,M,Other,Other,Hispanic/Latino,College,No,Yes,No,No,No,Poor,1-Feb,0,0 days,0 days,0 days,Not low
+Spanish,43,2015,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,3-Apr,0,1-Mar,1-Mar,3 days,Low
+Spanish,58,2016,F,Other,Other,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,4 days,Not low
+Spanish,32,2016,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,3-Apr,2,1-Mar,1-Mar,2 days,Low
+Spanish,28,2016,F,Medicaid,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,3-Apr,2,1-Mar,0 days,1 day,Low
+Spanish,40,2015,F,None,No regular place of care,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Poor,3-Apr,1,1-Mar,I don't know how,3 days,Low
+Spanish,47,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Fair,3-Apr,1,0 days,0 days,0 days,Low
+Spanish,52,2016,F,None,El Buen Samaritano,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,1-Feb,0,1-Mar,1-Mar,2 days,Low
+Spanish,40,2016,F,Other,CommUnityCare,Hispanic/Latino,High School GED,Yes,No,No,No,Yes,Fair,1-Feb,1,1-Mar,1-Mar,2 days,Not low
+Spanish,48,2016,F,None,Lone Star Circle of Care,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,3 or more,I don't know how,I don't know how,0 days,Low
+Spanish,43,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,1,I don't know how,I don't know how,0 days,Low
+Spanish,36,2016,F,Private insurance,Other,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,3-Apr,2,4 or more,0 days,0 days,Not low
+Spanish,42,2015,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,5 or more,1,0 days,0 days,3 days,Low
+Spanish,33,2015,F,None,Lone Star Circle of Care,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Good,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,39,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,2,1-Mar,0 days,1 day,Low
+Spanish,39,2016,F,Private insurance,No regular place of care,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,3-Apr,1,0 days,0 days,5 or more days,Not low
+Spanish,43,2017,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,Yes,No,No,No,Yes,Good,3-Apr,0,4 or more,I don't know how,5 or more days,Low
+Spanish,36,2015,M,Other,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Fair,3-Apr,3 or more,1-Mar,1-Mar,0 days,Not low
+Spanish,22,2016,F,None,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,0,0,I don't know how,I don't know how,0 days,Low
+Spanish,53,2017,M,Private insurance,Doctor's Office,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,2,0 days,0 days,5 or more days,Not low
+Spanish,34,2017,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,1,1-Mar,1-Mar,1 day,Low
+Spanish,18,2015,F,None,No regular place of care,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,0,1,0 days,0 days,0 days,Low
+Spanish,53,2016,M,None,El Buen Samaritano,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Poor,1-Feb,1,4 or more,I don't know how,5 or more days,Low
+Spanish,43,2015,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,Yes,No,No,Yes,Good,3-Apr,1,1-Mar,1-Mar,5 or more days,Not low
+Spanish,22,2017,F,None,No regular place of care,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,1-Feb,2,0 days,0 days,1 day,Low
+Spanish,50,2015,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,5 or more,1,0 days,0 days,2 days,Not low
+Spanish,36,2016,F,Private insurance,People's Community Clinic,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,3-Apr,0,0 days,0 days,1 day,Not low
+Spanish,33,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,3-Apr,1,0 days,0 days,5 or more days,Not low
+Spanish,64,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,1,1-Mar,1-Mar,4 days,Not low
+Spanish,30,2015,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,1,1-Mar,1-Mar,2 days,Not low
+Spanish,23,2016,F,None,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,0,2,0 days,0 days,0 days,Low
+English,38,2016,F,None,Emergency Room,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,3-Apr,3 or more,1-Mar,1-Mar,2 days,Low
+Spanish,64,2017,M,None,CommUnityCare,Hispanic/Latino,1-Aug,Yes,Yes,Yes,No,Yes,Fair,1-Feb,0,1-Mar,0 days,0 days,Low
+Spanish,25,2015,F,None,El Buen Samaritano,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,1,1-Mar,1-Mar,4 days,Low
+Spanish,23,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,0,1,0 days,0 days,0 days,Not low
+Spanish,40,2016,M,None,Other,Hispanic/Latino,College,No,No,No,No,Yes,Good,1-Feb,1,I don't know how,I don't know how,2 days,Low
+Spanish,34,2016,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,No,Yes,Yes,No,No,Fair,3-Apr,0,1-Mar,0 days,5 or more days,Low
+Spanish,36,2017,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,53,2016,F,Medicaid,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,0,1-Mar,I don't know how,0 days,Low
+Spanish,38,2016,F,None,Seton Clinics,Hispanic/Latino,High School GED,Yes,No,Yes,No,Yes,Good,1-Feb,3 or more,0 days,0 days,0 days,Low
+English,81,2015,F,MediCARE,Doctor's Office,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Fair,1-Feb,2,4 or more,4 or more,4 days,Not low
+Spanish,52,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Fair,3-Apr,2,1-Mar,1-Mar,2 days,Not low
+Spanish,35,2016,F,Medicaid,Seton Clinics,Hispanic/Latino,High School GED,No,No,Yes,No,No,Fair,1-Feb,0,0 days,0 days,4 days,Low
+Spanish,50,2017,F,Other,Doctor's Office,Hispanic/Latino,9-Nov,No,Yes,No,No,Yes,Poor,1-Feb,0,0 days,0 days,1 day,Not low
+Spanish,31,2015,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Good,3-Apr,1,0 days,0 days,5 or more days,Not low
+Spanish,32,2016,F,None,No regular place of care,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,3-Apr,1,I don't know how,I don't know how,4 days,Low
+Spanish,31,2017,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,54,2016,M,None,No regular place of care,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Good,1-Feb,2,I don't know how,1-Mar,4 days,Low
+Spanish,43,2016,F,None,El Buen Samaritano,Hispanic/Latino,High School GED,Yes,Yes,Yes,No,No,Poor,3-Apr,0,I don't know how,1-Mar,3 days,Low
+Spanish,39,2017,M,None,El Buen Samaritano,Hispanic/Latino,9-Nov,Yes,No,No,Yes,No,Fair,3-Apr,0,4 or more,0 days,5 or more days,Low
+Spanish,62,2016,F,MAP,Lone Star Circle of Care,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,0,0 days,0 days,2 days,Low
+Spanish,42,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,High School GED,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,4 days,Not low
+Spanish,43,2015,F,Private insurance,Other,Hispanic/Latino,College,No,No,No,No,No,Fair,3-Apr,1,I don't know how,I don't know how,4 days,Not low
+Spanish,42,2017,F,Other,CommUnityCare,Hispanic/Latino,College,No,No,No,No,Yes,Good,3-Apr,1,0 days,0 days,3 days,Not low
+English,30,2015,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,5 or more,1,4 or more,4 or more,5 or more days,Not low
+Spanish,74,2017,M,MediCARE,El Buen Samaritano,Hispanic/Latino,College,Yes,No,No,No,No,Fair,1-Feb,3 or more,0 days,1-Mar,0 days,Not low
+Spanish,57,2017,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Poor,1-Feb,2,I don't know how,I don't know how,2 days,Low
+Spanish,50,2017,F,None,CommUnityCare,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Fair,1-Feb,2,0 days,0 days,5 or more days,Low
+Spanish,44,2017,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+English,66,2016,F,None,Doctor's Office,Hispanic/Latino,College,Yes,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Low
+English,64,2015,F,Private insurance,Doctor's Office,Hispanic/Latino,High School GED,No,No,No,No,Yes,Good,1-Feb,0,0 days,0 days,1 day,Not low
+Spanish,55,2017,F,MAP,El Buen Samaritano,Hispanic/Latino,1-Aug,No,Yes,Yes,No,No,Fair,1-Feb,1,1-Mar,I don't know how,0 days,Low
+Spanish,50,2016,F,None,Seton Clinics,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,3-Apr,0,I don't know how,0 days,4 days,Low
+Spanish,35,2016,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,37,2016,F,Private insurance,CommUnityCare,Hispanic/Latino,College,No,No,Yes,No,Yes,Good,1-Feb,2,0 days,0 days,0 days,Not low
+Spanish,42,2016,M,None,Other,Hispanic/Latino,High School GED,Yes,No,No,No,No,Fair,3-Apr,1,0 days,0 days,0 days,Low
+Spanish,40,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,No,No,No,Poor,1-Feb,3 or more,0 days,0 days,0 days,Not low
+English,57,2017,F,Other,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,No,No,Yes,Poor,1-Feb,1,I don't know how,I don't know how,1 day,Not low
+Spanish,64,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Poor,1-Feb,1,0 days,0 days,0 days,Not low
+Spanish,41,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,1-Feb,1,1-Mar,4 or more,3 days,Not low
+Spanish,36,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,1-Feb,1,1-Mar,0 days,4 days,Not low
+Spanish,31,2017,F,None,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,4 days,Low
+Spanish,40,2017,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Fair,1-Feb,1,1-Mar,0 days,3 days,Not low
+Spanish,28,2017,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,2,0 days,0 days,0 days,Low
+Spanish,48,2017,M,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,Yes,No,No,Poor,1-Feb,0,0 days,1-Mar,5 or more days,Low
+Spanish,37,2017,F,None,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,1-Feb,1,1-Mar,1-Mar,4 days,Low
+Spanish,49,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,3 or more,0 days,0 days,0 days,Low
+Spanish,62,2017,F,Other,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Good,Not Sure,Not Sure,I don't know how,I don't know how,0 days,Not low
+Spanish,32,2017,F,None,Doctor's Office,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,0,2,0 days,0 days,0 days,Low
+Spanish,43,2016,F,None,Doctor's Office,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Good,1-Feb,1,1-Mar,0 days,0 days,Low
+Spanish,48,2017,F,Other,People's Community Clinic,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,2,I don't know how,I don't know how,0 days,Not low
+Spanish,22,2017,F,Medicaid,Lone Star Circle of Care,Hispanic/Latino,College,No,No,No,No,No,Fair,3-Apr,1,4 or more,1-Mar,3 days,Low
+Spanish,34,2015,F,None,People's Community Clinic,Hispanic/Latino,College,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,35,2016,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,0 days,Not low
+English,40,2016,F,MAP,Other,Hispanic/Latino,College,No,No,Yes,No,No,Fair,1-Feb,0,1-Mar,0 days,0 days,Low
+Spanish,38,2017,F,None,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Good,3-Apr,0,4 or more,4 or more,3 days,Low
+Spanish,62,2017,F,Other,Other,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,1-Feb,3 or more,0 days,0 days,0 days,Not low
+Spanish,35,2016,F,Medicaid,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,30,2017,F,Other,Lone Star Circle of Care,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,1 day,Not low
+English,56,2016,M,Private insurance,Other,Hispanic/Latino,9-Nov,No,No,Yes,Yes,No,Good,1-Feb,1,4 or more,I don't know how,3 days,Not low
+Spanish,36,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,1,1-Mar,1-Mar,2 days,Not low
+Spanish,40,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,0,0 days,0 days,5 or more days,Not low
+Spanish,50,2017,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,3-Apr,2,1-Mar,I don't know how,2 days,Low
+Spanish,33,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,0,1-Mar,4 or more,5 or more days,Not low
+Spanish,46,2017,F,MAP,El Buen Samaritano,Hispanic/Latino,High School GED,Yes,No,No,No,Yes,Good,3-Apr,1,1-Mar,1-Mar,2 days,Low
+Spanish,39,2015,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,2,0 days,0 days,0 days,Low
+Spanish,38,2016,F,None,Lone Star Circle of Care,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,1,1-Mar,1-Mar,0 days,Low
+Spanish,43,2015,F,Private insurance,Doctor's Office,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,5 or more,2,1-Mar,4 or more,5 or more days,Not low
+English,28,2017,F,Medicaid,No regular place of care,Hispanic/Latino,High School GED,No,No,No,No,No,Good,1-Feb,2,4 or more,0 days,2 days,Low
+Spanish,47,2017,M,None,El Buen Samaritano,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Poor,0,2,0 days,0 days,0 days,Low
+Spanish,43,2017,F,Other,Doctor's Office,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,2,1-Mar,1-Mar,3 days,Not low
+Spanish,48,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,High School GED,No,No,Yes,No,No,Fair,3-Apr,1,I don't know how,0 days,5 or more days,Not low
+Spanish,29,2017,F,None,No regular place of care,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,5 or more days,Low
+Spanish,50,2016,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,3 or more,I don't know how,I don't know how,0 days,Low
+Spanish,32,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Fair,3-Apr,2,0 days,0 days,2 days,Not low
+Spanish,41,2017,F,MAP,People's Community Clinic,Hispanic/Latino,High School GED,Yes,No,Yes,No,No,Fair,1-Feb,0,1-Mar,1-Mar,3 days,Low
+Spanish,64,2016,F,MAP,CommUnityCare,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,1 day,Low
+English,49,2016,F,Other,People's Community Clinic,Hispanic/Latino,High School GED,Yes,No,No,No,Yes,Fair,0,3 or more,0 days,0 days,0 days,Not low
+Spanish,35,2016,F,None,Lone Star Circle of Care,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Low
+English,39,2015,F,Private insurance,Doctor's Office,Hispanic/Latino,College,Yes,No,No,No,No,Poor,1-Feb,1,1-Mar,0 days,2 days,Not low
+Spanish,55,2016,F,Other,Doctor's Office,Hispanic/Latino,College,Yes,No,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,3 days,Not low
+Spanish,27,2017,F,None,El Buen Samaritano,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,3-Apr,1,4 or more,4 or more,5 or more days,Low
+Spanish,31,2016,F,MAP,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Good,3-Apr,1,I don't know how,1-Mar,5 or more days,Low
+Spanish,62,2017,M,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,3-Apr,2,I don't know how,I don't know how,2 days,Low
+Spanish,45,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,Not Sure,1,I don't know how,I don't know how,0 days,Not low
+Spanish,58,2017,F,Private insurance,Other,Hispanic/Latino,9-Nov,No,No,Yes,No,Yes,Fair,3-Apr,0,0 days,1-Mar,1 day,Not low
+Spanish,42,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,1-Feb,0,1-Mar,1-Mar,3 days,Low
+Spanish,42,2016,F,Other,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,0 days,Not low
+Spanish,20,2016,F,Medicaid,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,3-Apr,2,I don't know how,0 days,0 days,Low
+Spanish,34,2017,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,Yes,No,Poor,1-Feb,2,0 days,0 days,2 days,Not low
+Spanish,18,2017,F,None,Doctor's Office,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,42,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,1-Feb,0,4 or more,4 or more,4 days,Not low
+Spanish,50,2016,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Good,3-Apr,1,4 or more,0 days,5 or more days,Low
+Spanish,28,2017,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,1-Feb,2,0 days,0 days,5 or more days,Low
+Spanish,37,2015,M,MediCARE,No regular place of care,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Fair,3-Apr,2,0 days,0 days,3 days,Not low
+Spanish,31,2017,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,2,0 days,0 days,1 day,Not low
+Spanish,52,2016,F,None,Seton Clinics,Hispanic/Latino,College,No,No,No,No,Yes,Good,3-Apr,1,0 days,0 days,5 or more days,Low
+Spanish,46,2017,F,None,Other,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Good,1-Feb,0,1-Mar,1-Mar,1 day,Low
+Spanish,29,2016,F,None,No regular place of care,Hispanic/Latino,High School GED,No,No,No,Yes,No,Poor,0,3 or more,0 days,0 days,0 days,Low
+Spanish,48,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Fair,1-Feb,0,0 days,1-Mar,5 or more days,Not low
+Spanish,54,2016,M,None,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,0,3 or more,I don't know how,I don't know how,0 days,Low
+Spanish,26,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,Not Sure,2,I don't know how,I don't know how,2 days,Not low
+Spanish,39,2017,F,MAP,People's Community Clinic,Hispanic/Latino,High School GED,Yes,No,No,No,No,Fair,1-Feb,0,0 days,1-Mar,5 or more days,Low
+Spanish,26,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,3-Apr,1,1-Mar,1-Mar,2 days,Low
+Spanish,42,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,2,0 days,I don't know how,0 days,Not low
+Spanish,49,2017,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Poor,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,40,2017,F,None,No regular place of care,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,1,I don't know how,I don't know how,0 days,Low
+Spanish,51,2017,M,None,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,0,2,I don't know how,I don't know how,0 days,Low
+Spanish,57,2015,F,None,Other,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Poor,1-Feb,0,1-Mar,1-Mar,2 days,Low
+Spanish,59,2017,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Fair,3-Apr,1,1-Mar,1-Mar,1 day,Low
+Spanish,24,2016,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,3 days,Not low
+Spanish,49,2016,F,Other,Other,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,1-Feb,2,I don't know how,1-Mar,2 days,Not low
+Spanish,58,2016,M,None,Seton Clinics,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,44,2017,M,None,People's Community Clinic,Hispanic/Latino,High School GED,Yes,No,Yes,No,No,Poor,1-Feb,1,0 days,0 days,3 days,Low
+Spanish,30,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Fair,1-Feb,0,0 days,0 days,1 day,Not low
+Spanish,64,2016,F,Other,Doctor's Office,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Good,5 or more,0,1-Mar,1-Mar,1 day,Not low
+Spanish,40,2015,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,Yes,Good,3-Apr,1,1-Mar,0 days,0 days,Not low
+English,31,2017,M,Private insurance,Doctor's Office,Hispanic/Latino,College,Yes,No,Yes,No,No,Poor,1-Feb,0,0 days,0 days,1 day,Not low
+Spanish,41,2017,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Good,1-Feb,1,1-Mar,0 days,5 or more days,Not low
+Spanish,36,2016,F,Medicaid,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,1-Feb,Not Sure,0 days,0 days,1 day,Low
+Spanish,36,2015,F,Other,Seton Clinics,Hispanic/Latino,High School GED,Yes,No,No,No,Yes,Good,3-Apr,1,1-Mar,1-Mar,2 days,Not low
+Spanish,24,2017,F,None,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,3-Apr,1,4 or more,1-Mar,2 days,Low
+Spanish,43,2017,M,MAP,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Fair,1-Feb,0,4 or more,0 days,0 days,Low
+Spanish,37,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Poor,1-Feb,1,1-Mar,1-Mar,3 days,Not low
+Spanish,45,2015,F,None,CommUnityCare,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,1-Feb,0,1-Mar,4 or more,0 days,Low
+Spanish,34,2016,F,Other,No regular place of care,Hispanic/Latino,College,No,No,No,No,No,Fair,3-Apr,1,4 or more,4 or more,5 or more days,Not low
+Spanish,41,2016,F,Other,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,3-Apr,1,4 or more,1-Mar,4 days,Not low
+Spanish,44,2017,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,2,1-Mar,1-Mar,1 day,Low
+Spanish,34,2017,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Good,3-Apr,0,1-Mar,1-Mar,5 or more days,Not low
+Spanish,66,2016,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,1-Feb,1,1-Mar,I don't know how,3 days,Low
+Spanish,31,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,5 or more,1,I don't know how,I don't know how,1 day,Low
+Spanish,30,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Fair,1-Feb,1,4 or more,4 or more,1 day,Low
+Spanish,30,2016,F,Medicaid,No regular place of care,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,3-Apr,0,1-Mar,1-Mar,3 days,Low
+Spanish,42,2017,M,Other,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Poor,1-Feb,2,0 days,0 days,0 days,Not low
+Spanish,52,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,Yes,Yes,No,Yes,Fair,1-Feb,2,1-Mar,1-Mar,0 days,Not low
+Spanish,67,2017,F,MediCARE,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Good,1-Feb,0,0 days,0 days,0 days,Not low
+Spanish,47,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Poor,1-Feb,2,I don't know how,0 days,0 days,Low
+Spanish,33,2017,F,None,CommUnityCare,Hispanic/Latino,College,No,No,No,No,No,Good,1-Feb,0,0 days,0 days,0 days,Low
+Spanish,40,2016,M,None,El Buen Samaritano,Hispanic/Latino,High School GED,Yes,No,No,No,No,Good,1-Feb,1,1-Mar,1-Mar,2 days,Low
+Spanish,32,2017,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Good,1-Feb,2,1-Mar,0 days,1 day,Not low
+Spanish,45,2015,M,None,Lone Star Circle of Care,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,3-Apr,2,1-Mar,1-Mar,1 day,Low
+Spanish,18,2017,M,None,People's Community Clinic,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,1-Feb,2,0 days,0 days,0 days,Low
+Spanish,42,2017,F,Other,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Fair,3-Apr,0,4 or more,4 or more,4 days,Not low
+English,82,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,High School GED,No,No,Yes,No,Yes,Fair,3-Apr,2,0 days,0 days,3 days,Not low
+English,54,2016,F,Other,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,Yes,No,Yes,Poor,0,1,0 days,0 days,0 days,Not low
+Spanish,40,2016,F,MAP,Emergency Room,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Poor,1-Feb,1,0 days,0 days,0 days,Low
+English,28,2016,F,Medicaid,CommUnityCare,Hispanic/Latino,College,No,No,No,Yes,Yes,Fair,5 or more,3 or more,1-Mar,4 or more,3 days,Low
+Spanish,47,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,3-Apr,1,0 days,0 days,0 days,Low
+Spanish,28,2016,F,None,Lone Star Circle of Care,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,0,1,0 days,0 days,1 day,Low
+Spanish,83,2017,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,5 or more,0,0 days,1-Mar,4 days,Low
+Spanish,68,2017,F,Medicaid,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,1-Feb,1,4 or more,0 days,5 or more days,Low
+Spanish,18,2016,F,Medicaid,Lone Star Circle of Care,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,1-Feb,3 or more,0 days,0 days,1 day,Low
+Spanish,47,2017,M,MediCARE,CommUnityCare,Hispanic/Latino,High School GED,Yes,No,No,No,Yes,Good,1-Feb,1,I don't know how,I don't know how,Not Sure,Not low
+Spanish,63,2015,F,None,Doctor's Office,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,3 days,Low
+Spanish,72,2017,F,Medicaid,Other,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,1-Feb,0,4 or more,0 days,1 day,Low
+Spanish,69,2017,F,None,No regular place of care,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Poor,1-Feb,1,I don't know how,1-Mar,2 days,Low
+Spanish,57,2016,M,Private insurance,CommUnityCare,Hispanic/Latino,High School GED,Yes,Yes,Yes,No,No,Good,5 or more,0,0 days,0 days,0 days,Not low
+Spanish,54,2017,F,None,No regular place of care,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Poor,1-Feb,0,0 days,1-Mar,1 day,Low
+English,31,2016,F,None,CommUnityCare,Hispanic/Latino,College,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,69,2016,M,MediCARE,Seton Clinics,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,1-Feb,2,0 days,0 days,5 or more days,Not low
+Spanish,54,2015,F,Other,Lone Star Circle of Care,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,0,0 days,0 days,5 or more days,Not low
+Spanish,38,2015,F,None,No regular place of care,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Fair,1-Feb,0,1-Mar,1-Mar,3 days,Low
+Spanish,38,2017,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,Yes,No,Yes,Fair,1-Feb,0,0 days,0 days,2 days,Low
+Spanish,56,2017,F,None,Doctor's Office,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,3 or more,I don't know how,I don't know how,1 day,Low
+Spanish,40,2017,F,Other,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,2 days,Not low
+English,46,2015,F,Private insurance,Other,Hispanic/Latino,College,No,No,No,No,No,Poor,1-Feb,0,0 days,0 days,3 days,Not low
+English,77,2016,F,MediCARE,Doctor's Office,Hispanic/Latino,College,No,No,Yes,No,No,Fair,1-Feb,0,0 days,0 days,3 days,Not low
+Spanish,39,2017,F,None,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Fair,1-Feb,2,1-Mar,1-Mar,1 day,Low
+Spanish,48,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,1,I don't know how,I don't know how,1 day,Low
+English,64,2016,F,Medicaid,Doctor's Office,Hispanic/Latino,College,Yes,No,Yes,No,Yes,Good,1-Feb,0,1-Mar,I don't know how,1 day,Low
+Spanish,53,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,1-Feb,1,1-Mar,1-Mar,2 days,Not low
+English,32,2017,F,Medicaid,Emergency Room,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,0,3 or more,0 days,0 days,0 days,Low
+Spanish,39,2016,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,49,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,1-Feb,1,1-Mar,1-Mar,2 days,Not low
+Spanish,41,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,31,2017,F,Medicaid,People's Community Clinic,Hispanic/Latino,College,No,No,Yes,No,Yes,Good,1-Feb,1,0 days,0 days,3 days,Low
+Spanish,35,2015,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,3 days,Not low
+Spanish,47,2017,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,3-Apr,1,1-Mar,0 days,3 days,Low
+English,23,2017,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,Yes,No,No,No,Poor,3-Apr,1,4 or more,1-Mar,1 day,Not low
+English,45,2015,F,Other,Doctor's Office,Hispanic/Latino,College,No,No,No,No,Yes,Good,1-Feb,1,I don't know how,1-Mar,1 day,Not low
+Spanish,39,2016,F,Medicaid,El Buen Samaritano,Hispanic/Latino,High School GED,No,No,No,No,No,Good,1-Feb,0,0 days,0 days,4 days,Low
+Spanish,81,2017,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,1,0 days,I don't know how,0 days,Low
+Spanish,30,2015,F,None,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,1,I don't know how,I don't know how,3 days,Low
+Spanish,40,2017,M,None,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,Yes,No,Fair,1-Feb,2,1-Mar,1-Mar,3 days,Low
+Spanish,54,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,3-Apr,1,1-Mar,1-Mar,5 or more days,Not low
+Spanish,37,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,Yes,No,No,No,Fair,1-Feb,1,I don't know how,I don't know how,5 or more days,Low
+Spanish,44,2017,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Poor,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,32,2017,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,3-Apr,2,0 days,0 days,2 days,Low
+Spanish,44,2015,F,None,No regular place of care,Hispanic/Latino,College,No,No,No,No,No,Good,1-Feb,3 or more,I don't know how,I don't know how,2 days,Low
+Spanish,38,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,2 days,Low
+Spanish,59,2016,F,None,No regular place of care,Hispanic/Latino,9-Nov,Yes,No,Yes,Yes,Yes,Good,0,2,0 days,0 days,0 days,Low
+Spanish,42,2016,F,Medicaid,Lone Star Circle of Care,Hispanic/Latino,1-Aug,Yes,No,No,Yes,No,Fair,1-Feb,Not Sure,I don't know how,I don't know how,1 day,Low
+English,50,2015,M,Other,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,Yes,Yes,Yes,Fair,1-Feb,2,0 days,0 days,4 days,Not low
+Spanish,60,2015,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,Yes,Yes,Fair,0,1,0 days,1-Mar,2 days,Not low
+Spanish,31,2016,F,None,No regular place of care,Hispanic/Latino,College,No,No,No,No,No,Poor,1-Feb,0,1-Mar,0 days,0 days,Low
+Spanish,38,2016,F,Other,CommUnityCare,Hispanic/Latino,High School GED,Yes,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+Spanish,42,2017,F,None,Seton Clinics,Hispanic/Latino,College,No,No,Yes,No,Yes,Good,3-Apr,3 or more,1-Mar,1-Mar,1 day,Low
+Spanish,58,2017,F,MAP,People's Community Clinic,Hispanic/Latino,College,Yes,Yes,Yes,No,Yes,Fair,3-Apr,1,4 or more,1-Mar,5 or more days,Low
+Spanish,41,2015,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,3-Apr,1,1-Mar,0 days,3 days,Low
+Spanish,31,2017,F,Other,Other,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,0 days,Not low
+English,41,2017,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,52,2017,F,MAP,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Fair,3-Apr,1,I don't know how,0 days,5 or more days,Low
+Spanish,55,2016,F,None,El Buen Samaritano,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,1,1-Mar,1-Mar,5 or more days,Low
+Spanish,44,2016,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Good,1-Feb,0,4 or more,0 days,3 days,Low
+Spanish,32,2015,F,None,El Buen Samaritano,Hispanic/Latino,High School GED,Yes,No,No,No,No,Fair,1-Feb,1,0 days,0 days,4 days,Low
+Spanish,42,2017,F,Other,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Good,Not Sure,1,I don't know how,I don't know how,2 days,Not low
+Spanish,38,2016,F,Other,Lone Star Circle of Care,Hispanic/Latino,High School GED,No,No,No,No,No,Good,1-Feb,0,0 days,0 days,1 day,Not low
+Spanish,48,2017,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,1-Feb,2,0 days,1-Mar,1 day,Low
+Spanish,52,2017,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,3-Apr,0,1-Mar,1-Mar,0 days,Not low
+Spanish,36,2015,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,0,I don't know how,I don't know how,2 days,Low
+Spanish,45,2017,F,None,Other,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Poor,0,3 or more,0 days,0 days,0 days,Low
+Spanish,52,2015,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,1-Feb,2,I don't know how,I don't know how,0 days,Low
+Spanish,61,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Poor,0,2,0 days,1-Mar,0 days,Not low
+English,25,2015,F,Medicaid,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,35,2015,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,1,I don't know how,I don't know how,2 days,Not low
+Spanish,40,2017,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,1,I don't know how,I don't know how,2 days,Low
+Spanish,30,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,3-Apr,3 or more,0 days,0 days,1 day,Low
+English,69,2016,F,Medicaid,People's Community Clinic,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,5 or more,2,0 days,0 days,5 or more days,Low
+Spanish,37,2015,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,2,1-Mar,1-Mar,2 days,Low
+Spanish,29,2015,F,None,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,2,0 days,0 days,0 days,Low
+Spanish,39,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,66,2015,F,MediCARE,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Fair,1-Feb,1,1-Mar,4 or more,3 days,Not low
+Spanish,40,2016,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Poor,1-Feb,0,0 days,0 days,2 days,Low
+Spanish,63,2016,M,None,CommUnityCare,Hispanic/Latino,High School GED,Yes,No,Yes,No,No,Fair,1-Feb,1,I don't know how,I don't know how,0 days,Low
+Spanish,33,2015,F,None,El Buen Samaritano,Hispanic/Latino,College,No,No,Yes,No,Yes,Good,1-Feb,0,1-Mar,0 days,1 day,Low
+Spanish,46,2016,F,Private insurance,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Good,3-Apr,0,1-Mar,0 days,5 or more days,Not low
+Spanish,41,2017,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Fair,1-Feb,1,1-Mar,4 or more,4 days,Not low
+Spanish,51,2017,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Fair,0,1,0 days,0 days,1 day,Low
+Spanish,36,2017,F,None,People's Community Clinic,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,1-Feb,1,1-Mar,1-Mar,4 days,Low
+Spanish,28,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,3-Apr,2,0 days,0 days,4 days,Low
+Spanish,33,2015,F,Other,CommUnityCare,Hispanic/Latino,College,No,No,No,No,No,Fair,5 or more,2,4 or more,1-Mar,5 or more days,Not low
+Spanish,45,2015,F,None,CommUnityCare,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,1-Feb,0,0 days,0 days,2 days,Low
+Spanish,40,2016,F,None,People's Community Clinic,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,38,2017,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Poor,5 or more,1,0 days,0 days,5 or more days,Low
+Spanish,37,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,5 or more days,Low
+English,57,2015,M,MediCARE,Other,Hispanic/Latino,High School GED,Yes,Yes,Yes,No,Yes,Good,3-Apr,0,4 or more,1-Mar,2 days,Not low
+Spanish,40,2016,F,None,El Buen Samaritano,Hispanic/Latino,High School GED,Yes,No,Yes,No,No,Fair,1-Feb,0,4 or more,1-Mar,0 days,Low
+English,49,2015,F,Other,Doctor's Office,Hispanic/Latino,College,Yes,No,No,No,No,Poor,3-Apr,1,1-Mar,1-Mar,4 days,Not low
+Spanish,50,2016,M,None,No regular place of care,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,3-Apr,0,0 days,I don't know how,5 or more days,Low
+Spanish,51,2016,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,43,2016,F,Medicaid,Doctor's Office,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,5 or more,1,0 days,0 days,0 days,Low
+Spanish,36,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,1,1-Mar,0 days,2 days,Not low
+Spanish,53,2017,F,None,No regular place of care,Hispanic/Latino,High School GED,Yes,No,Yes,No,No,Fair,1-Feb,0,0 days,0 days,4 days,Low
+Spanish,39,2017,F,None,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,0,0,0 days,0 days,0 days,Low
+English,65,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,No,Yes,No,Good,3-Apr,2,1-Mar,0 days,0 days,Not low
+English,44,2016,M,MAP,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,Yes,No,No,No,Fair,1-Feb,1,0 days,1-Mar,2 days,Low
+Spanish,37,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,3-Apr,1,I don't know how,I don't know how,2 days,Low
+Spanish,28,2016,F,MediCARE,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Fair,1-Feb,2,0 days,0 days,2 days,Not low
+Spanish,34,2015,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,1,1-Mar,1-Mar,4 days,Not low
+Spanish,36,2015,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,3-Apr,2,I don't know how,I don't know how,5 or more days,Low
+Spanish,54,2017,M,None,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,35,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,3-Apr,3 or more,0 days,1-Mar,3 days,Low
+Spanish,30,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+English,54,2016,M,Medicaid,Doctor's Office,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Fair,5 or more,1,1-Mar,0 days,2 days,Low
+Spanish,51,2016,F,None,Other,Hispanic/Latino,High School GED,Yes,No,No,No,No,Fair,3-Apr,3 or more,I don't know how,I don't know how,2 days,Low
+Spanish,28,2017,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,3 days,Low
+Spanish,44,2016,F,None,No regular place of care,Hispanic/Latino,College,No,No,No,Yes,No,Fair,3-Apr,2,0 days,0 days,0 days,Low
+Spanish,52,2017,F,Other,Doctor's Office,Hispanic/Latino,1-Aug,Yes,No,Yes,Yes,Yes,Fair,1-Feb,0,I don't know how,I don't know how,1 day,Not low
+Spanish,44,2017,F,Private insurance,Seton Clinics,Hispanic/Latino,College,Yes,No,No,No,Yes,Good,5 or more,1,4 or more,4 or more,3 days,Not low
+Spanish,41,2017,F,None,People's Community Clinic,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,3-Apr,1,0 days,0 days,0 days,Low
+Spanish,49,2016,F,None,No regular place of care,Hispanic/Latino,College,No,No,No,No,No,Poor,1-Feb,2,I don't know how,I don't know how,1 day,Low
+Spanish,56,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+Spanish,59,2017,F,None,El Buen Samaritano,Hispanic/Latino,College,No,No,No,No,Yes,Fair,1-Feb,1,1-Mar,1-Mar,1 day,Low
+English,33,2015,F,Medicaid,No regular place of care,Hispanic/Latino,High School GED,No,No,Yes,No,Yes,Poor,1-Feb,3 or more,0 days,0 days,5 or more days,Low
+Spanish,36,2017,F,MAP,People's Community Clinic,Hispanic/Latino,College,Yes,No,Yes,No,No,Fair,3-Apr,1,1-Mar,1-Mar,3 days,Low
+English,67,2015,F,MediCARE,CommUnityCare,Hispanic/Latino,College,Yes,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,2 days,Not low
+Spanish,57,2017,F,Private insurance,Seton Clinics,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,1 day,Not low
+Spanish,64,2016,F,Medicaid,Doctor's Office,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,0,0 days,0 days,4 days,Low
+Spanish,62,2016,M,Private insurance,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Good,1-Feb,1,I don't know how,I don't know how,1 day,Not low
+Spanish,39,2017,F,Other,Doctor's Office,Hispanic/Latino,High School GED,No,No,Yes,No,No,Poor,1-Feb,1,4 or more,4 or more,4 days,Not low
+English,79,2017,F,MediCARE,Doctor's Office,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Good,3-Apr,1,I don't know how,I don't know how,2 days,Not low
+Spanish,28,2015,F,None,Other,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,40,2017,F,None,Seton Clinics,Hispanic/Latino,College,Yes,No,No,No,No,Fair,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,45,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,1,1-Mar,0 days,1 day,Low
+Spanish,33,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,30,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,0 days,Low
+Spanish,57,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,Yes,No,No,Fair,Not Sure,2,0 days,0 days,3 days,Not low
+Spanish,43,2017,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,Yes,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,1 day,Not low
+Spanish,38,2016,F,MAP,CommUnityCare,Hispanic/Latino,High School GED,Yes,No,No,No,No,Fair,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,30,2015,F,None,No regular place of care,Hispanic/Latino,College,No,No,No,No,No,Fair,3-Apr,1,I don't know how,I don't know how,3 days,Low
+Spanish,42,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,1,1-Mar,1-Mar,0 days,Not low
+Spanish,42,2015,M,None,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,2,0 days,0 days,0 days,Low
+Spanish,33,2017,M,None,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,3-Apr,0,4 or more,I don't know how,2 days,Low
+Spanish,29,2017,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,2 days,Not low
+English,39,2015,F,Private insurance,Doctor's Office,Hispanic/Latino,College,Yes,No,No,No,No,Poor,1-Feb,1,1-Mar,0 days,2 days,Not low
+Spanish,25,2017,M,None,El Buen Samaritano,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,2,1-Mar,1-Mar,1 day,Low
+Spanish,52,2017,F,Other,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,3 or more,I don't know how,I don't know how,0 days,Not low
+Spanish,38,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,No,No,Yes,Fair,1-Feb,0,0 days,0 days,5 or more days,Not low
+Spanish,32,2016,F,MAP,Lone Star Circle of Care,Hispanic/Latino,College,No,No,No,No,Yes,Good,3-Apr,3 or more,4 or more,0 days,0 days,Low
+Spanish,52,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Fair,0,2,0 days,0 days,0 days,Low
+Spanish,61,2017,F,None,El Buen Samaritano,Hispanic/Latino,High School GED,No,No,No,No,No,Good,5 or more,2,I don't know how,I don't know how,4 days,Low
+Spanish,51,2016,F,None,No regular place of care,Hispanic/Latino,High School GED,No,No,Yes,No,No,Fair,3-Apr,1,1-Mar,0 days,5 or more days,Low
+Spanish,33,2015,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Good,0,1,0 days,0 days,0 days,Not low
+Spanish,47,2017,M,Private insurance,Doctor's Office,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Poor,3-Apr,0,I don't know how,I don't know how,3 days,Not low
+English,63,2015,M,None,El Buen Samaritano,Hispanic/Latino,College,Yes,No,Yes,No,Yes,Poor,1-Feb,0,0 days,0 days,0 days,Low
+Spanish,41,2017,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,1-Feb,1,1-Mar,4 or more,3 days,Not low
+Spanish,38,2017,F,None,CommUnityCare,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,0,0 days,0 days,2 days,Low
+Spanish,53,2017,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,0,1-Mar,1-Mar,2 days,Low
+Spanish,36,2016,F,Other,Lone Star Circle of Care,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,4 days,Not low
+Spanish,35,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,3-Apr,2,0 days,0 days,2 days,Low
+Spanish,51,2016,F,None,El Buen Samaritano,Hispanic/Latino,High School GED,No,No,Yes,No,No,Poor,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,36,2015,F,MAP,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,52,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,Yes,Yes,No,No,Fair,5 or more,0,4 or more,0 days,5 or more days,Not low
+Spanish,38,2017,F,None,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Good,3-Apr,1,0 days,0 days,1 day,Low
+Spanish,28,2017,F,Private insurance,Lone Star Circle of Care,Hispanic/Latino,College,No,No,No,No,Yes,Good,1-Feb,0,0 days,0 days,0 days,Not low
+Spanish,33,2017,F,None,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,30,2017,F,None,El Buen Samaritano,Hispanic/Latino,College,No,No,No,No,Yes,Good,1-Feb,1,1-Mar,1-Mar,1 day,Low
+Spanish,45,2017,M,Other,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,3 or more,0 days,0 days,0 days,Not low
+Spanish,81,2016,M,Medicaid,Doctor's Office,Hispanic/Latino,9-Nov,Yes,Yes,Yes,No,Yes,Fair,3-Apr,1,1-Mar,1-Mar,4 days,Low
+Spanish,63,2017,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Good,1-Feb,0,I don't know how,I don't know how,2 days,Low
+Spanish,20,2017,M,None,No regular place of care,Hispanic/Latino,High School GED,No,No,No,No,No,Good,1-Feb,2,I don't know how,0 days,1 day,Low
+Spanish,36,2016,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,Yes,No,No,No,Fair,3-Apr,1,1-Mar,1-Mar,4 days,Not low
+Spanish,52,2016,F,None,No regular place of care,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,42,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Good,1-Feb,1,0 days,0 days,0 days,Not low
+Spanish,26,2017,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,45,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,2,0 days,I don't know how,0 days,Low
+Spanish,61,2015,F,None,Lone Star Circle of Care,Hispanic/Latino,1-Aug,Yes,Yes,Yes,No,Yes,Fair,5 or more,0,0 days,I don't know how,5 or more days,Low
+Spanish,42,2017,F,None,People's Community Clinic,Hispanic/Latino,High School GED,Yes,No,Yes,No,Yes,Fair,3-Apr,0,0 days,0 days,3 days,Low
+Spanish,68,2016,F,MediCARE,Lone Star Circle of Care,Hispanic/Latino,1-Aug,No,No,Yes,No,Yes,Good,1-Feb,1,0 days,1-Mar,1 day,Not low
+English,39,2017,F,Medicaid,People's Community Clinic,Hispanic/Latino,College,Yes,No,No,No,No,Good,3-Apr,0,0 days,0 days,3 days,Low
+Spanish,51,2015,F,None,Seton Clinics,Hispanic/Latino,High School GED,Yes,No,Yes,No,Yes,Good,1-Feb,0,1-Mar,1-Mar,2 days,Low
+Spanish,31,2017,F,None,No regular place of care,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,0,1-Mar,1-Mar,0 days,Low
+Spanish,48,2016,F,Private insurance,Other,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,3-Apr,0,1-Mar,1-Mar,3 days,Not low
+Spanish,34,2017,F,None,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,No,No,Yes,Fair,5 or more,1,1-Mar,0 days,5 or more days,Low
+Spanish,25,2017,F,MediCARE,Seton Clinics,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,3 or more,I don't know how,I don't know how,0 days,Not low
+English,46,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,College,Yes,No,No,No,Yes,Good,1-Feb,2,0 days,1-Mar,2 days,Not low
+English,56,2016,F,Other,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,No,No,No,Poor,1-Feb,1,0 days,0 days,1 day,Not low
+Spanish,63,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,3-Apr,1,0 days,0 days,2 days,Low
+Spanish,42,2016,F,Other,CommUnityCare,Hispanic/Latino,High School GED,Yes,Yes,Yes,No,Yes,Fair,1-Feb,0,1-Mar,0 days,3 days,Not low
+Spanish,27,2016,F,Private insurance,Other,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,1 day,Not low
+English,67,2016,M,Medicaid,Other,Hispanic/Latino,9-Nov,Yes,No,Yes,Yes,Yes,Fair,1-Feb,0,4 or more,4 or more,5 or more days,Low
+Spanish,37,2017,F,Medicaid,Other,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,1-Feb,1,I don't know how,I don't know how,0 days,Low
+Spanish,44,2017,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,Yes,No,No,Yes,Fair,3-Apr,0,0 days,0 days,5 or more days,Low
+English,50,2017,M,None,People's Community Clinic,Hispanic/Latino,High School GED,Yes,Yes,Yes,No,No,Good,1-Feb,2,0 days,0 days,4 days,Low
+English,21,2017,F,Medicaid,Doctor's Office,Hispanic/Latino,High School GED,No,No,Yes,No,No,Poor,1-Feb,2,0 days,0 days,3 days,Low
+Spanish,46,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,No,No,No,Poor,1-Feb,0,0 days,0 days,3 days,Not low
+Spanish,57,2017,F,None,No regular place of care,Hispanic/Latino,High School GED,No,No,Yes,No,Yes,Good,3-Apr,0,1-Mar,1-Mar,5 or more days,Low
+Spanish,25,2016,M,Medicaid,CommUnityCare,Hispanic/Latino,1-Aug,No,Yes,Yes,No,Yes,Fair,3-Apr,3 or more,1-Mar,1-Mar,3 days,Low
+Spanish,54,2016,F,Other,Seton Clinics,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,5 or more,0,4 or more,4 or more,5 or more days,Not low
+English,43,2015,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,No,No,Yes,Fair,3-Apr,1,0 days,0 days,0 days,Not low
+Spanish,52,2017,M,Other,Other,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,1-Feb,3 or more,I don't know how,I don't know how,1 day,Not low
+English,24,2016,M,MAP,CommUnityCare,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,1-Feb,1,0 days,1-Mar,1 day,Low
+Spanish,31,2016,F,MAP,CommUnityCare,Hispanic/Latino,High School GED,No,No,Yes,No,No,Good,1-Feb,2,1-Mar,I don't know how,1 day,Low
+Spanish,60,2015,F,None,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Good,3-Apr,0,0 days,0 days,3 days,Low
+Spanish,29,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,2,0 days,1-Mar,3 days,Low
+Spanish,35,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,49,2017,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Fair,0,1,1-Mar,1-Mar,0 days,Low
+Spanish,54,2017,F,Private insurance,People's Community Clinic,Hispanic/Latino,College,No,No,No,No,Yes,Poor,1-Feb,1,0 days,0 days,0 days,Not low
+Spanish,37,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Fair,1-Feb,2,1-Mar,I don't know how,5 or more days,Not low
+Spanish,45,2017,F,None,El Buen Samaritano,Hispanic/Latino,College,No,No,Yes,No,No,Poor,1-Feb,2,0 days,0 days,1 day,Low
+Spanish,41,2017,M,None,Doctor's Office,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Poor,Not Sure,2,I don't know how,0 days,0 days,Low
+English,43,2017,M,MAP,Other,Hispanic/Latino,College,Yes,No,Yes,No,No,Poor,1-Feb,1,4 or more,4 or more,2 days,Low
+Spanish,40,2015,F,None,El Buen Samaritano,Hispanic/Latino,College,No,No,No,No,No,Poor,1-Feb,1,I don't know how,I don't know how,1 day,Low
+Spanish,44,2017,F,Other,Doctor's Office,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Fair,1-Feb,2,0 days,0 days,5 or more days,Not low
+Spanish,28,2017,F,None,CommUnityCare,Hispanic/Latino,High School GED,No,No,Yes,No,Yes,Good,3-Apr,1,1-Mar,1-Mar,5 or more days,Low
+Spanish,31,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,0,I don't know how,I don't know how,4 days,Low
+Spanish,40,2015,M,MediCARE,No regular place of care,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,0,3 or more,0 days,4 or more,0 days,Not low
+Spanish,33,2016,F,None,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,1,I don't know how,I don't know how,3 days,Low
+English,51,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,Yes,No,Yes,Good,3-Apr,1,0 days,0 days,0 days,Not low
+Spanish,38,2017,F,None,People's Community Clinic,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,3-Apr,1,0 days,0 days,5 or more days,Low
+Spanish,56,2017,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Poor,5 or more,1,I don't know how,I don't know how,1 day,Low
+English,60,2015,F,Medicaid,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,No,No,No,Poor,3-Apr,1,I don't know how,I don't know how,5 or more days,Low
+English,55,2015,F,Private insurance,Other,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,1-Feb,3 or more,0 days,0 days,0 days,Not low
+English,69,2016,M,MediCARE,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,Yes,Yes,Yes,Good,5 or more,3 or more,I don't know how,I don't know how,3 days,Not low
+Spanish,39,2017,F,Medicaid,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,No,No,Yes,Good,3-Apr,0,4 or more,4 or more,4 days,Low
+Spanish,32,2015,M,Other,Doctor's Office,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,1,1-Mar,4 or more,4 days,Not low
+Spanish,58,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,Yes,Yes,Yes,Poor,1-Feb,3 or more,0 days,0 days,5 or more days,Low
+English,57,2015,M,MediCARE,Other,Hispanic/Latino,High School GED,Yes,Yes,Yes,No,Yes,Good,3-Apr,0,4 or more,1-Mar,2 days,Not low
+Spanish,32,2017,M,None,Emergency Room,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,4 days,Low
+Spanish,48,2016,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Poor,3-Apr,0,1-Mar,1-Mar,4 days,Low
+English,89,2016,F,Medicaid,Doctor's Office,Hispanic/Latino,College,Yes,No,Yes,No,No,Fair,1-Feb,2,1-Mar,1-Mar,4 days,Low
+Spanish,40,2015,F,Other,Lone Star Circle of Care,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,3 or more,1-Mar,4 or more,2 days,Not low
+Spanish,47,2017,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,1,0 days,I don't know how,1 day,Not low
+Spanish,46,2016,F,None,El Buen Samaritano,Hispanic/Latino,College,Yes,No,No,No,No,Poor,3-Apr,0,1-Mar,I don't know how,4 days,Low
+Spanish,32,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,No,No,No,Fair,3-Apr,1,0 days,0 days,3 days,Not low
+Spanish,29,2017,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,0 days,Not low
+Spanish,37,2017,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Good,3-Apr,2,1-Mar,1-Mar,3 days,Low
+English,84,2017,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Good,1-Feb,1,1-Mar,0 days,5 or more days,Low
+Spanish,30,2016,F,None,People's Community Clinic,Hispanic/Latino,College,No,No,No,No,Yes,Fair,1-Feb,2,I don't know how,I don't know how,3 days,Low
+Spanish,64,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,Yes,No,Yes,Fair,1-Feb,3 or more,0 days,0 days,1 day,Not low
+Spanish,42,2015,F,None,El Buen Samaritano,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,0,1-Mar,1-Mar,5 or more days,Low
+Spanish,49,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,42,2017,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,0,1,I don't know how,I don't know how,3 days,Low
+Spanish,68,2017,M,None,No regular place of care,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,5 or more,0,4 or more,I don't know how,2 days,Low
+Spanish,36,2015,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Poor,1-Feb,2,1-Mar,1-Mar,3 days,Not low
+Spanish,39,2017,F,None,No regular place of care,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,0,2,0 days,0 days,2 days,Low
+Spanish,24,2016,F,MAP,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,1-Feb,1,1-Mar,I don't know how,3 days,Low
+Spanish,29,2015,F,None,People's Community Clinic,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,1,I don't know how,4 or more,1 day,Low
+English,54,2016,F,Private insurance,Other,Hispanic/Latino,College,No,No,No,No,No,Poor,1-Feb,0,4 or more,I don't know how,5 or more days,Not low
+Spanish,37,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+Spanish,60,2015,M,Other,Seton Clinics,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Fair,1-Feb,1,4 or more,0 days,1 day,Not low
+Spanish,53,2016,M,None,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Poor,0,2,I don't know how,I don't know how,2 days,Low
+English,70,2015,F,Other,No regular place of care,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,1-Feb,1,1-Mar,0 days,5 or more days,Not low
+Spanish,33,2017,F,Other,No regular place of care,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Good,Not Sure,2,I don't know how,I don't know how,5 or more days,Not low
+Spanish,68,2017,F,MediCARE,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Good,3-Apr,0,0 days,0 days,0 days,Not low
+Spanish,32,2016,F,MAP,People's Community Clinic,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,3-Apr,0,1-Mar,I don't know how,3 days,Low
+Spanish,36,2017,F,Other,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,Not Sure,1,0 days,0 days,0 days,Not low
+Spanish,34,2017,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,1-Feb,1,1-Mar,0 days,5 or more days,Low
+Spanish,52,2016,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,Yes,No,No,Yes,Fair,1-Feb,1,I don't know how,I don't know how,2 days,Low
+English,52,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,College,Yes,No,Yes,No,Yes,Fair,1-Feb,1,4 or more,1-Mar,5 or more days,Not low
+Spanish,42,2017,F,MediCARE,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Good,Not Sure,1,0 days,0 days,2 days,Not low
+Spanish,48,2016,F,Private insurance,Seton Clinics,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,1,1-Mar,1-Mar,2 days,Not low
+Spanish,53,2017,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Poor,1-Feb,1,0 days,1-Mar,3 days,Low
+Spanish,66,2017,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,Yes,Yes,No,Poor,1-Feb,0,I don't know how,I don't know how,2 days,Low
+Spanish,62,2017,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,0,0,0 days,0 days,0 days,Low
+Spanish,59,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,1-Feb,1,0 days,0 days,1 day,Low
+English,65,2016,F,MediCARE,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,Yes,No,No,Fair,3-Apr,1,0 days,1-Mar,3 days,Not low
+Spanish,22,2016,F,Other,Seton Clinics,Hispanic/Latino,College,No,No,No,No,No,Fair,3-Apr,1,1-Mar,1-Mar,4 days,Not low
+English,27,2017,F,None,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Fair,3-Apr,1,1-Mar,1-Mar,1 day,Low
+Spanish,30,2017,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Poor,1-Feb,2,0 days,0 days,0 days,Low
+Spanish,34,2017,F,None,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,3-Apr,1,0 days,0 days,1 day,Low
+Spanish,30,2017,F,Other,Emergency Room,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,2,I don't know how,1-Mar,0 days,Not low
+Spanish,27,2015,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,0,1,I don't know how,I don't know how,0 days,Low
+Spanish,31,2016,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,3 days,Low
+Spanish,53,2015,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,2 days,Not low
+Spanish,37,2016,F,None,No regular place of care,Hispanic/Latino,College,No,No,No,No,No,Poor,1-Feb,1,I don't know how,I don't know how,5 or more days,Low
+Spanish,29,2015,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,No,No,Yes,Poor,3-Apr,0,1-Mar,0 days,4 days,Not low
+Spanish,27,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,3-Apr,1,1-Mar,1-Mar,2 days,Low
+Spanish,52,2015,M,Other,No regular place of care,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Fair,5 or more,1,I don't know how,I don't know how,0 days,Not low
+Spanish,64,2015,F,None,No regular place of care,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Good,1-Feb,2,I don't know how,I don't know how,0 days,Low
+Spanish,49,2015,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,3-Apr,1,1-Mar,1-Mar,1 day,Not low
+Spanish,27,2017,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Fair,1-Feb,1,1-Mar,0 days,3 days,Not low
+Spanish,30,2016,F,Other,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,No,No,No,Good,1-Feb,1,0 days,I don't know how,1 day,Not low
+Spanish,43,2016,F,Private insurance,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,3-Apr,1,1-Mar,1-Mar,3 days,Not low
+English,27,2016,M,Other,CommUnityCare,Hispanic/Latino,College,Yes,No,No,No,No,Poor,1-Feb,0,4 or more,0 days,1 day,Not low
+Spanish,57,2016,M,MAP,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,Yes,Yes,No,Fair,1-Feb,2,I don't know how,I don't know how,0 days,Low
+English,36,2017,M,Medicaid,No regular place of care,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,3-Apr,3 or more,0 days,0 days,5 or more days,Low
+Spanish,43,2015,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,3 days,Not low
+Spanish,43,2017,F,Other,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Good,1-Feb,1,0 days,0 days,0 days,Not low
+Spanish,52,2016,F,None,Other,Hispanic/Latino,College,No,No,Yes,No,No,Poor,1-Feb,0,1-Mar,0 days,0 days,Low
+English,31,2016,F,MAP,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,Yes,No,Fair,0,3 or more,0 days,1-Mar,0 days,Low
+Spanish,60,2017,F,None,El Buen Samaritano,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,3 days,Low
+Spanish,34,2016,F,Private insurance,Other,Hispanic/Latino,College,No,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,5 or more days,Not low
+Spanish,57,2017,F,Medicaid,Doctor's Office,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,5 or more,2,I don't know how,I don't know how,0 days,Low
+Spanish,36,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Good,1-Feb,0,4 or more,4 or more,4 days,Low
+Spanish,32,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Fair,5 or more,0,4 or more,4 or more,3 days,Low
+Spanish,49,2017,F,Other,Other,Hispanic/Latino,1-Aug,Yes,No,No,Yes,No,Fair,1-Feb,3 or more,I don't know how,I don't know how,5 or more days,Not low
+Spanish,33,2015,F,Medicaid,CommUnityCare,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,1-Feb,2,0 days,0 days,3 days,Low
+Spanish,34,2017,F,None,CommUnityCare,Hispanic/Latino,College,Yes,No,No,No,No,Good,0,1,0 days,0 days,0 days,Low
+Spanish,38,2015,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,Yes,No,No,Fair,1-Feb,2,0 days,0 days,2 days,Low
+Spanish,64,2017,M,Other,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,0,1,I don't know how,I don't know how,0 days,Not low
+English,67,2016,F,MediCARE,Doctor's Office,Hispanic/Latino,College,Yes,No,Yes,No,Yes,Good,3-Apr,0,0 days,0 days,3 days,Not low
+Spanish,36,2017,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,5 or more,0,0 days,0 days,2 days,Low
+Spanish,23,2016,F,Other,No regular place of care,Hispanic/Latino,College,No,No,No,No,No,Good,3-Apr,1,1-Mar,1-Mar,5 or more days,Not low
+Spanish,40,2017,F,None,Other,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Poor,1-Feb,3 or more,I don't know how,I don't know how,1 day,Low
+English,41,2016,F,MAP,CommUnityCare,Hispanic/Latino,High School GED,Yes,No,Yes,Yes,Yes,Fair,0,3 or more,0 days,0 days,5 or more days,Low
+Spanish,48,2017,M,None,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Poor,Not Sure,1,0 days,0 days,2 days,Low
+Spanish,36,2017,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Fair,5 or more,1,0 days,0 days,5 or more days,Low
+English,62,2017,M,MAP,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,Yes,Yes,No,Fair,0,Not Sure,I don't know how,I don't know how,3 days,Low
+Spanish,24,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,0,3 or more,I don't know how,I don't know how,0 days,Not low
+Spanish,48,2017,M,None,Other,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,1,4 or more,1-Mar,1 day,Low
+Spanish,60,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,1,I don't know how,I don't know how,0 days,Not low
+Spanish,35,2015,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,4 days,Low
+Spanish,44,2015,F,None,Seton Clinics,Hispanic/Latino,College,No,No,No,No,Yes,Fair,3-Apr,0,0 days,0 days,1 day,Low
+Spanish,27,2017,F,None,Other,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,0,I don't know how,I don't know how,3 days,Low
+Spanish,31,2017,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,No,Yes,No,No,Fair,1-Feb,1,I don't know how,I don't know how,1 day,Not low
+Spanish,39,2017,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Fair,1-Feb,1,1-Mar,0 days,0 days,Low
+English,20,2017,F,Medicaid,Doctor's Office,Hispanic/Latino,College,No,No,No,No,No,Poor,1-Feb,0,0 days,1-Mar,3 days,Low
+Spanish,19,2017,F,Private insurance,Lone Star Circle of Care,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,1 day,Not low
+Spanish,22,2017,F,MAP,Doctor's Office,Hispanic/Latino,College,No,No,No,No,No,Fair,3-Apr,0,0 days,I don't know how,0 days,Low
+Spanish,42,2017,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,1-Feb,1,1-Mar,1-Mar,1 day,Not low
+English,55,2017,M,None,No regular place of care,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Fair,1-Feb,1,1-Mar,1-Mar,3 days,Low
+Spanish,39,2015,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,3-Apr,1,0 days,1-Mar,3 days,Low
+Spanish,37,2017,F,None,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,2,0 days,0 days,0 days,Low
+Spanish,37,2015,M,None,No regular place of care,Hispanic/Latino,College,Yes,No,No,No,No,Poor,1-Feb,0,4 or more,4 or more,3 days,Low
+Spanish,25,2015,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,3-Apr,2,0 days,0 days,1 day,Low
+Spanish,62,2015,M,MediCARE,Lone Star Circle of Care,Hispanic/Latino,High School GED,Yes,No,Yes,No,No,Poor,1-Feb,1,I don't know how,I don't know how,3 days,Not low
+Spanish,50,2017,F,None,Other,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,43,2015,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,1 day,Not low
+Spanish,37,2016,F,MAP,El Buen Samaritano,Hispanic/Latino,College,No,No,No,No,Yes,Fair,1-Feb,0,0 days,0 days,4 days,Low
+Spanish,32,2015,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,1,1-Mar,I don't know how,4 days,Not low
+Spanish,51,2015,F,None,No regular place of care,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,3-Apr,0,4 or more,4 or more,3 days,Low
+Spanish,60,2016,F,Medicaid,Doctor's Office,Hispanic/Latino,1-Aug,No,No,Yes,No,Yes,Fair,1-Feb,0,1-Mar,1-Mar,3 days,Low
+Spanish,42,2017,F,None,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Fair,1-Feb,0,0 days,0 days,5 or more days,Low
+Spanish,43,2017,F,Private insurance,Seton Clinics,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,2 days,Not low
+Spanish,46,2017,F,None,No regular place of care,Hispanic/Latino,High School GED,No,No,Yes,No,Yes,Good,5 or more,3 or more,1-Mar,0 days,2 days,Low
+Spanish,49,2016,F,None,El Buen Samaritano,Hispanic/Latino,College,No,No,No,No,Yes,Good,3-Apr,1,1-Mar,1-Mar,4 days,Low
+Spanish,53,2016,F,Private insurance,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,1,1-Mar,0 days,1 day,Not low
+English,37,2016,M,Medicaid,Other,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,50,2016,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,Yes,No,Yes,Good,3-Apr,0,I don't know how,I don't know how,3 days,Not low
+Spanish,33,2015,F,Other,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,0,0 days,1-Mar,1 day,Not low
+Spanish,72,2017,M,Medicaid,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Poor,1-Feb,1,I don't know how,I don't know how,1 day,Low
+Spanish,44,2016,F,None,CommUnityCare,Hispanic/Latino,College,No,No,No,No,Yes,Fair,3-Apr,1,1-Mar,I don't know how,1 day,Low
+Spanish,40,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,Not Sure,1,0 days,0 days,3 days,Low
+English,37,2015,M,Medicaid,Doctor's Office,Hispanic/Latino,College,Yes,No,No,No,No,Fair,0,1,0 days,0 days,2 days,Low
+Spanish,18,2017,M,None,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,3-Apr,3 or more,0 days,0 days,5 or more days,Low
+Spanish,62,2017,F,Other,Doctor's Office,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,1-Feb,1,1-Mar,1-Mar,2 days,Not low
+Spanish,50,2017,F,Other,Doctor's Office,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,1 day,Not low
+Spanish,49,2017,F,Other,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,0,0 days,0 days,4 days,Not low
+Spanish,52,2017,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,Yes,No,Fair,1-Feb,1,0 days,0 days,1 day,Not low
+Spanish,29,2016,F,Medicaid,No regular place of care,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,2,1-Mar,1-Mar,4 days,Low
+English,35,2015,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,No,No,Yes,Fair,1-Feb,0,4 or more,4 or more,0 days,Not low
+Spanish,55,2017,M,None,No regular place of care,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,1,1-Mar,0 days,0 days,Low
+Spanish,34,2016,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,2,0 days,0 days,3 days,Low
+English,51,2016,M,MediCARE,Emergency Room,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Good,3-Apr,2,1-Mar,1-Mar,5 or more days,Not low
+Spanish,59,2017,M,Other,CommUnityCare,Hispanic/Latino,1-Aug,Yes,Yes,Yes,No,Yes,Fair,1-Feb,1,1-Mar,1-Mar,0 days,Not low
+Spanish,38,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,Yes,No,Yes,Fair,1-Feb,2,0 days,0 days,0 days,Low
+Spanish,30,2016,F,MAP,CommUnityCare,Hispanic/Latino,College,No,No,No,Yes,No,Good,3-Apr,2,1-Mar,1-Mar,0 days,Low
+Spanish,34,2017,F,None,No regular place of care,Hispanic/Latino,1-Aug,No,Yes,No,Yes,Yes,Good,1-Feb,0,0 days,0 days,0 days,Low
+Spanish,54,2017,M,Private insurance,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,Yes,No,Yes,Good,1-Feb,0,0 days,0 days,5 or more days,Not low
+Spanish,34,2016,F,Medicaid,El Buen Samaritano,Hispanic/Latino,High School GED,No,No,No,No,Yes,Good,1-Feb,1,1-Mar,1-Mar,2 days,Low
+English,58,2015,M,Private insurance,Doctor's Office,Hispanic/Latino,College,Yes,No,No,No,No,Good,1-Feb,0,4 or more,4 or more,3 days,Not low
+Spanish,59,2017,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,76,2016,F,Medicaid,Doctor's Office,Hispanic/Latino,1-Aug,Yes,No,Yes,No,Yes,Fair,1-Feb,0,1-Mar,I don't know how,5 or more days,Low
+Spanish,52,2015,M,None,El Buen Samaritano,Hispanic/Latino,High School GED,Yes,No,No,No,No,Fair,5 or more,1,4 or more,4 or more,3 days,Low
+Spanish,62,2017,F,MediCARE,Seton Clinics,Hispanic/Latino,9-Nov,Yes,No,No,No,Yes,Fair,1-Feb,1,1-Mar,1-Mar,4 days,Not low
+Spanish,55,2016,F,None,No regular place of care,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Fair,1-Feb,0,0 days,0 days,2 days,Low
+Spanish,23,2017,F,Medicaid,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,3-Apr,1,1-Mar,0 days,5 or more days,Low
+Spanish,27,2016,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Low
+English,56,2017,F,Private insurance,Seton Clinics,Hispanic/Latino,College,Yes,No,Yes,No,No,Fair,1-Feb,2,0 days,0 days,3 days,Not low
+Spanish,20,2017,F,Other,Doctor's Office,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,1,1-Mar,I don't know how,0 days,Not low
+Spanish,62,2017,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Good,3-Apr,1,4 or more,4 or more,3 days,Low
+English,36,2017,M,None,Doctor's Office,Hispanic/Latino,College,Yes,No,No,No,No,Fair,1-Feb,3 or more,0 days,0 days,0 days,Low
+Spanish,38,2016,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,3-Apr,1,1-Mar,0 days,4 days,Low
+Spanish,36,2016,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,Yes,Good,3-Apr,1,4 or more,4 or more,3 days,Not low
+English,51,2016,F,Other,Doctor's Office,Hispanic/Latino,High School GED,No,No,No,Yes,No,Poor,1-Feb,1,0 days,0 days,3 days,Not low
+Spanish,21,2015,F,None,El Buen Samaritano,Hispanic/Latino,College,No,No,No,No,No,Poor,5 or more,0,4 or more,4 or more,3 days,Low
+Spanish,27,2017,F,None,Lone Star Circle of Care,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,0,1-Mar,1-Mar,0 days,Low
+Spanish,49,2016,M,Medicaid,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,0,0 days,1-Mar,0 days,Low
+Spanish,42,2017,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,1,I don't know how,I don't know how,2 days,Low
+Spanish,45,2017,F,None,Doctor's Office,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,31,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,2,1-Mar,I don't know how,2 days,Low
+Spanish,53,2017,F,Private insurance,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Good,1-Feb,0,0 days,0 days,0 days,Not low
+Spanish,57,2015,F,Private insurance,Seton Clinics,Hispanic/Latino,9-Nov,No,No,Yes,No,Yes,Good,3-Apr,0,0 days,0 days,5 or more days,Not low
+Spanish,25,2017,F,None,People's Community Clinic,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,5 or more,2,I don't know how,I don't know how,2 days,Low
+Spanish,51,2017,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,Yes,No,Yes,Fair,1-Feb,2,1-Mar,1-Mar,1 day,Low
+Spanish,62,2017,M,Private insurance,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,2,I don't know how,I don't know how,5 or more days,Not low
+Spanish,44,2015,F,None,No regular place of care,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,51,2017,M,MAP,No regular place of care,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Poor,1-Feb,2,0 days,0 days,0 days,Low
+Spanish,46,2016,F,Other,Doctor's Office,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Poor,1-Feb,1,1-Mar,0 days,2 days,Not low
+Spanish,46,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,1 day,Not low
+Spanish,34,2015,F,Medicaid,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,No,No,Yes,Poor,1-Feb,0,1-Mar,1-Mar,2 days,Low
+Spanish,55,2016,M,None,El Buen Samaritano,Hispanic/Latino,High School GED,Yes,No,No,No,No,Good,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,63,2016,F,None,Seton Clinics,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,3-Apr,0,1-Mar,1-Mar,5 or more days,Low
+Spanish,37,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,No,No,Yes,Good,3-Apr,1,1-Mar,1-Mar,3 days,Not low
+Spanish,47,2017,F,None,El Buen Samaritano,Hispanic/Latino,High School GED,No,No,No,No,No,Poor,1-Feb,3 or more,1-Mar,0 days,0 days,Low
+Spanish,36,2016,F,None,Emergency Room,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,3-Apr,0,4 or more,0 days,4 days,Low
+English,43,2017,F,Medicaid,CommUnityCare,Hispanic/Latino,College,Yes,No,Yes,No,Yes,Good,1-Feb,0,0 days,4 or more,2 days,Low
+English,48,2015,M,Private insurance,Doctor's Office,Hispanic/Latino,College,Yes,No,No,No,No,Fair,1-Feb,0,4 or more,0 days,3 days,Not low
+Spanish,30,2016,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Poor,1-Feb,2,0 days,0 days,0 days,Low
+English,53,2016,F,Other,CommUnityCare,Hispanic/Latino,College,Yes,No,Yes,No,Yes,Fair,1-Feb,0,1-Mar,0 days,0 days,Not low
+Spanish,47,2017,F,Private insurance,El Buen Samaritano,Hispanic/Latino,College,Yes,No,No,No,No,Good,1-Feb,0,4 or more,4 or more,5 or more days,Not low
+Spanish,54,2015,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Poor,3-Apr,1,I don't know how,I don't know how,0 days,Low
+Spanish,35,2015,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,1,1-Mar,1-Mar,1 day,Low
+Spanish,22,2015,F,Other,No regular place of care,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,1,I don't know how,I don't know how,3 days,Not low
+Spanish,60,2017,F,None,El Buen Samaritano,Hispanic/Latino,9-Nov,Yes,Yes,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,1 day,Low
+English,32,2016,M,MAP,No regular place of care,Hispanic/Latino,College,No,No,No,No,No,Poor,1-Feb,0,4 or more,0 days,5 or more days,Low
+Spanish,36,2016,F,Other,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,1-Feb,1,I don't know how,I don't know how,0 days,Not low
+Spanish,52,2015,M,MAP,Lone Star Circle of Care,Hispanic/Latino,High School GED,Yes,No,No,No,No,Good,1-Feb,0,4 or more,1-Mar,5 or more days,Low
+Spanish,40,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,High School GED,No,No,No,No,No,Good,1-Feb,3 or more,1-Mar,1-Mar,0 days,Not low
+English,33,2015,F,Medicaid,Doctor's Office,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,2,0 days,0 days,1 day,Low
+Spanish,25,2017,F,None,Emergency Room,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,2,0 days,1-Mar,0 days,Low
+English,64,2015,F,Medicaid,CommUnityCare,Hispanic/Latino,College,No,No,No,No,Yes,Good,0,1,0 days,0 days,5 or more days,Low
+Spanish,48,2016,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,35,2015,F,None,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,1,1-Mar,0 days,3 days,Low
+Spanish,26,2017,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,5 or more days,Low
+Spanish,48,2017,F,None,Other,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,2,I don't know how,I don't know how,2 days,Low
+English,52,2015,F,Medicaid,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,Yes,No,Good,1-Feb,2,1-Mar,I don't know how,2 days,Low
+Spanish,43,2016,F,None,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,1-Feb,2,1-Mar,1-Mar,0 days,Low
+Spanish,52,2015,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,3-Apr,3 or more,I don't know how,I don't know how,0 days,Not low
+Spanish,71,2016,M,MediCARE,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,Yes,Yes,No,No,Good,3-Apr,2,1-Mar,1-Mar,2 days,Not low
+Spanish,65,2017,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,No,Yes,No,No,Yes,Poor,3-Apr,0,0 days,0 days,4 days,Low
+Spanish,44,2016,F,Other,Seton Clinics,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,0,2,1-Mar,0 days,0 days,Not low
+Spanish,36,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,60,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,1,I don't know how,I don't know how,4 days,Low
+Spanish,36,2015,M,None,El Buen Samaritano,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,3-Apr,1,I don't know how,I don't know how,1 day,Low
+Spanish,54,2016,F,Private insurance,Other,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,1-Feb,3 or more,I don't know how,I don't know how,0 days,Not low
+Spanish,46,2017,F,Other,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Good,1-Feb,1,1-Mar,I don't know how,1 day,Not low
+Spanish,71,2016,F,MediCARE,Seton Clinics,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,3-Apr,1,0 days,0 days,3 days,Not low
+Spanish,59,2017,M,None,Other,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,3 or more,I don't know how,I don't know how,1 day,Low
+Spanish,37,2017,F,None,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,2,0 days,0 days,0 days,Low
+Spanish,30,2017,F,None,Doctor's Office,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,50,2017,M,None,People's Community Clinic,Hispanic/Latino,High School GED,No,No,No,No,No,Good,3-Apr,2,0 days,0 days,2 days,Low
+Spanish,51,2015,F,Other,Lone Star Circle of Care,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,0,0 days,0 days,1 day,Not low
+Spanish,51,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Fair,1-Feb,1,I don't know how,0 days,2 days,Low
+Spanish,48,2017,F,None,CommUnityCare,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Good,3-Apr,0,I don't know how,0 days,2 days,Low
+English,60,2015,F,Medicaid,Doctor's Office,Hispanic/Latino,High School GED,Yes,No,No,No,No,Poor,3-Apr,1,I don't know how,I don't know how,5 or more days,Low
+Spanish,52,2017,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,Yes,Yes,No,Yes,Fair,1-Feb,2,0 days,0 days,3 days,Low
+English,64,2017,M,Medicaid,Doctor's Office,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,1,1-Mar,0 days,1 day,Low
+Spanish,45,2016,F,None,Lone Star Circle of Care,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,3-Apr,0,0 days,0 days,0 days,Low
+Spanish,66,2017,F,Private insurance,Other,Hispanic/Latino,College,Yes,No,Yes,Yes,Yes,Good,1-Feb,0,4 or more,4 or more,2 days,Not low
+Spanish,36,2017,F,Medicaid,People's Community Clinic,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,42,2015,M,None,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,5 or more,0,4 or more,4 or more,2 days,Low
+English,51,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,College,Yes,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,3 days,Not low
+Spanish,67,2016,F,MediCARE,Lone Star Circle of Care,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Fair,1-Feb,2,I don't know how,I don't know how,1 day,Not low
+Spanish,37,2017,F,None,CommUnityCare,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,0,0 days,1-Mar,5 or more days,Low
+Spanish,43,2015,F,Private insurance,No regular place of care,Hispanic/Latino,College,No,No,No,No,Yes,Good,1-Feb,1,1-Mar,0 days,2 days,Not low
+Spanish,51,2017,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,49,2015,M,None,Other,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Good,3-Apr,1,4 or more,I don't know how,4 days,Low
+English,54,2017,F,MAP,People's Community Clinic,Hispanic/Latino,High School GED,Yes,No,Yes,No,Yes,Fair,1-Feb,1,0 days,1-Mar,1 day,Low
+Spanish,24,2017,F,None,No regular place of care,Hispanic/Latino,College,No,No,No,No,No,Poor,3-Apr,2,I don't know how,0 days,1 day,Low
+Spanish,22,2017,F,Medicaid,Lone Star Circle of Care,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,1,1-Mar,1-Mar,1 day,Low
+Spanish,41,2016,F,Other,No regular place of care,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,0,0 days,0 days,5 or more days,Not low
+Spanish,40,2017,M,None,No regular place of care,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,2,I don't know how,I don't know how,1 day,Low
+Spanish,40,2017,M,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,2,0 days,0 days,0 days,Low
+Spanish,49,2016,M,None,Lone Star Circle of Care,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Fair,1-Feb,1,1-Mar,1-Mar,2 days,Low
+Spanish,40,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,5 or more,1,4 or more,4 or more,4 days,Not low
+Spanish,41,2015,F,Private insurance,Doctor's Office,Hispanic/Latino,High School GED,No,No,No,No,Yes,Fair,1-Feb,2,0 days,0 days,2 days,Not low
+Spanish,41,2015,F,None,El Buen Samaritano,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,0,2,I don't know how,I don't know how,0 days,Low
+Spanish,37,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,1-Feb,1,I don't know how,1-Mar,5 or more days,Not low
+English,73,2017,M,MediCARE,Doctor's Office,Hispanic/Latino,College,Yes,No,Yes,No,Yes,Fair,3-Apr,1,I don't know how,0 days,4 days,Not low
+English,50,2016,M,None,Other,Hispanic/Latino,High School GED,Yes,Yes,Yes,Yes,Yes,Good,1-Feb,3 or more,4 or more,4 or more,0 days,Low
+Spanish,30,2017,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,2,0 days,0 days,1 day,Low
+Spanish,56,2015,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,Yes,Yes,No,No,Poor,3-Apr,2,0 days,0 days,1 day,Not low
+Spanish,66,2017,M,MediCARE,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Poor,0,3 or more,I don't know how,I don't know how,0 days,Not low
+Spanish,66,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,3-Apr,0,0 days,0 days,4 days,Not low
+Spanish,25,2017,F,None,No regular place of care,Hispanic/Latino,College,No,No,No,No,No,Good,1-Feb,2,I don't know how,I don't know how,1 day,Low
+Spanish,61,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,College,Yes,No,No,No,Yes,Poor,1-Feb,3 or more,0 days,0 days,2 days,Not low
+Spanish,43,2016,F,Other,Other,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Good,1-Feb,1,1-Mar,I don't know how,4 days,Not low
+Spanish,37,2016,F,None,El Buen Samaritano,Hispanic/Latino,College,No,No,No,No,Yes,Good,3-Apr,0,0 days,0 days,0 days,Low
+Spanish,58,2017,F,MAP,People's Community Clinic,Hispanic/Latino,College,Yes,No,No,No,Yes,Fair,1-Feb,0,4 or more,0 days,4 days,Low
+English,65,2017,F,Medicaid,Doctor's Office,Hispanic/Latino,9-Nov,Yes,Yes,Yes,No,No,Good,1-Feb,0,1-Mar,1-Mar,1 day,Low
+Spanish,72,2017,M,None,Other,Hispanic/Latino,1-Aug,No,No,Yes,No,Yes,Poor,0,1,I don't know how,I don't know how,3 days,Low
+English,57,2015,F,Medicaid,Seton Clinics,Hispanic/Latino,High School GED,Yes,No,Yes,No,Yes,Good,3-Apr,1,4 or more,4 or more,3 days,Low
+Spanish,40,2016,F,Other,Other,Hispanic/Latino,High School GED,Yes,No,Yes,No,Yes,Fair,1-Feb,0,0 days,0 days,0 days,Not low
+Spanish,37,2017,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,1-Feb,1,1-Mar,0 days,5 or more days,Low
+English,34,2016,F,Private insurance,Other,Hispanic/Latino,College,Yes,No,No,No,No,Fair,3-Apr,2,0 days,0 days,0 days,Not low
+English,67,2017,F,MediCARE,Doctor's Office,Hispanic/Latino,College,No,No,No,No,Yes,Good,1-Feb,0,1-Mar,1-Mar,1 day,Not low
+Spanish,57,2016,F,Medicaid,CommUnityCare,Hispanic/Latino,High School GED,No,No,Yes,Yes,No,Good,1-Feb,0,I don't know how,0 days,0 days,Low
+Spanish,31,2017,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Fair,1-Feb,0,I don't know how,I don't know how,1 day,Low
+Spanish,45,2017,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,3-Apr,Not Sure,I don't know how,I don't know how,2 days,Low
+Spanish,71,2017,F,MediCARE,El Buen Samaritano,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Fair,Not Sure,2,1-Mar,0 days,0 days,Not low
+Spanish,45,2016,F,MAP,CommUnityCare,Hispanic/Latino,College,No,No,Yes,No,No,Good,1-Feb,1,0 days,1-Mar,2 days,Low
+Spanish,34,2017,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,0,I don't know how,I don't know how,0 days,Not low
+Spanish,35,2017,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,No,No,Yes,Good,1-Feb,0,4 or more,4 or more,5 or more days,Not low
+Spanish,79,2016,F,MediCARE,CommUnityCare,Hispanic/Latino,1-Aug,No,Yes,Yes,No,Yes,Poor,1-Feb,0,I don't know how,I don't know how,2 days,Not low
+Spanish,45,2015,F,Other,People's Community Clinic,Hispanic/Latino,College,No,No,Yes,No,No,Good,1-Feb,0,I don't know how,I don't know how,2 days,Not low
+Spanish,54,2017,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Fair,1-Feb,0,0 days,0 days,0 days,Low
+English,45,2016,M,Private insurance,Other,Hispanic/Latino,College,Yes,No,Yes,No,Yes,Good,1-Feb,1,4 or more,0 days,4 days,Not low
+Spanish,37,2017,F,Other,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,1,1-Mar,0 days,1 day,Not low
+Spanish,43,2017,M,None,El Buen Samaritano,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,1,0 days,0 days,0 days,Low
+English,61,2016,F,Medicaid,Emergency Room,Hispanic/Latino,College,Yes,No,Yes,No,Yes,Fair,3-Apr,2,4 or more,1-Mar,2 days,Low
+English,52,2015,M,None,CommUnityCare,Hispanic/Latino,High School GED,Yes,No,Yes,Yes,No,Poor,5 or more,3 or more,0 days,0 days,2 days,Low
+Spanish,44,2016,F,None,Other,Hispanic/Latino,High School GED,No,No,No,No,Yes,Good,1-Feb,2,4 or more,4 or more,4 days,Low
+Spanish,39,2016,F,Other,Seton Clinics,Hispanic/Latino,College,Yes,No,Yes,No,Yes,Fair,5 or more,1,1-Mar,1-Mar,4 days,Not low
+Spanish,69,2017,F,None,No regular place of care,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,1-Feb,1,1-Mar,0 days,0 days,Low
+Spanish,38,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,Yes,No,No,Yes,Good,1-Feb,1,1-Mar,0 days,1 day,Low
+Spanish,30,2017,F,None,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,34,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,Yes,No,No,No,Yes,Fair,1-Feb,0,0 days,0 days,0 days,Not low
+Spanish,28,2017,F,None,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,0,I don't know how,I don't know how,3 days,Low
+Spanish,60,2016,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,2,0 days,0 days,2 days,Low
+Spanish,42,2016,F,None,Doctor's Office,Hispanic/Latino,College,No,No,No,No,No,Fair,5 or more,1,0 days,0 days,4 days,Low
+Spanish,23,2015,F,None,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,65,2017,M,None,Other,Hispanic/Latino,9-Nov,No,No,Yes,No,No,Good,1-Feb,1,1-Mar,1-Mar,1 day,Low
+Spanish,26,2016,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,36,2015,F,None,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,30,2017,F,None,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,0 days,Low
+Spanish,46,2017,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,3-Apr,1,I don't know how,I don't know how,5 or more days,Not low
+Spanish,30,2016,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,1,1-Mar,0 days,1 day,Low
+Spanish,46,2016,F,Private insurance,Seton Clinics,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Good,1-Feb,0,4 or more,0 days,4 days,Not low
+Spanish,34,2015,F,None,Lone Star Circle of Care,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,2,0 days,0 days,1 day,Low
+Spanish,35,2017,F,None,No regular place of care,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Fair,1-Feb,2,0 days,0 days,1 day,Low
+Spanish,38,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,1-Feb,0,4 or more,4 or more,3 days,Low
+Spanish,50,2017,F,Other,CommUnityCare,Hispanic/Latino,1-Aug,No,No,Yes,No,Yes,Good,3-Apr,1,1-Mar,1-Mar,3 days,Not low
+Spanish,25,2017,F,None,Doctor's Office,Hispanic/Latino,College,No,No,No,No,Yes,Poor,3-Apr,1,0 days,0 days,3 days,Low
+Spanish,58,2016,F,None,Emergency Room,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Poor,1-Feb,2,0 days,0 days,2 days,Low
+Spanish,46,2016,F,Other,Seton Clinics,Hispanic/Latino,High School GED,No,No,Yes,No,No,Fair,1-Feb,1,1-Mar,I don't know how,3 days,Not low
+Spanish,33,2017,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,No,No,Yes,Fair,1-Feb,2,1-Mar,1-Mar,2 days,Low
+Spanish,74,2016,F,MediCARE,CommUnityCare,Hispanic/Latino,College,No,No,Yes,No,No,Fair,3-Apr,0,I don't know how,I don't know how,5 or more days,Not low
+English,25,2016,M,MediCARE,CommUnityCare,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,3-Apr,2,1-Mar,1-Mar,1 day,Not low
+Spanish,40,2015,F,MAP,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Fair,1-Feb,2,1-Mar,1-Mar,3 days,Low
+English,44,2015,F,Other,Doctor's Office,Hispanic/Latino,College,No,No,Yes,No,No,Fair,3-Apr,1,0 days,0 days,3 days,Not low
+Spanish,30,2015,F,None,No regular place of care,Hispanic/Latino,High School GED,No,No,No,No,No,Fair,1-Feb,1,0 days,4 or more,2 days,Low
+Spanish,51,2017,M,Other,People's Community Clinic,Hispanic/Latino,High School GED,Yes,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+Spanish,30,2017,F,Other,CommUnityCare,Hispanic/Latino,College,No,No,No,No,Yes,Good,1-Feb,1,1-Mar,0 days,1 day,Not low
+Spanish,22,2017,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,2,1-Mar,1-Mar,0 days,Low
+Spanish,44,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Fair,1-Feb,0,0 days,0 days,0 days,Low
+Spanish,33,2017,M,Medicaid,Lone Star Circle of Care,Hispanic/Latino,College,No,No,No,No,No,Fair,1-Feb,3 or more,0 days,1-Mar,1 day,Low
+English,59,2015,F,Private insurance,CommUnityCare,Hispanic/Latino,College,Yes,No,Yes,No,No,Good,3-Apr,0,4 or more,0 days,3 days,Not low
+Spanish,38,2015,F,None,People's Community Clinic,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Good,1-Feb,0,4 or more,4 or more,5 or more days,Low
+Spanish,57,2016,F,Other,Doctor's Office,Hispanic/Latino,9-Nov,No,No,No,No,Yes,Fair,5 or more,0,0 days,1-Mar,5 or more days,Not low
+Spanish,62,2017,F,Other,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,1 day,Not low
+Spanish,26,2016,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,2 days,Low
+Spanish,50,2016,F,Other,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,0,0 days,0 days,2 days,Not low
+Spanish,56,2017,F,None,No regular place of care,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Fair,1-Feb,1,0 days,0 days,1 day,Low
+Spanish,66,2015,F,MediCARE,Doctor's Office,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Fair,1-Feb,2,0 days,0 days,0 days,Not low
+Spanish,38,2016,F,MAP,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,3-Apr,1,1-Mar,0 days,4 days,Low
+Spanish,38,2017,M,None,Doctor's Office,Hispanic/Latino,9-Nov,No,No,No,No,No,Poor,1-Feb,3 or more,0 days,0 days,0 days,Low
+English,54,2016,F,Other,People's Community Clinic,Hispanic/Latino,9-Nov,Yes,No,Yes,No,No,Fair,3-Apr,3 or more,0 days,0 days,1 day,Not low
+English,45,2016,F,Other,Other,Hispanic/Latino,College,No,No,No,No,No,Poor,1-Feb,1,0 days,0 days,1 day,Not low
+Spanish,40,2017,F,None,People's Community Clinic,Hispanic/Latino,1-Aug,No,No,No,No,No,Poor,3-Apr,1,0 days,1-Mar,4 days,Low
+Spanish,32,2016,F,None,People's Community Clinic,Hispanic/Latino,High School GED,Yes,No,No,No,No,Poor,1-Feb,1,0 days,0 days,4 days,Low
+Spanish,34,2017,F,Private insurance,People's Community Clinic,Hispanic/Latino,College,No,No,No,No,Yes,Fair,1-Feb,0,4 or more,I don't know how,0 days,Not low
+Spanish,36,2016,F,Other,CommUnityCare,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,3-Apr,2,0 days,0 days,3 days,Not low
+Spanish,33,2016,F,None,Doctor's Office,Hispanic/Latino,9-Nov,No,No,Yes,No,No,Good,3-Apr,1,I don't know how,I don't know how,0 days,Low
+Spanish,40,2016,F,MAP,CommUnityCare,Hispanic/Latino,1-Aug,No,No,Yes,No,No,Poor,5 or more,0,I don't know how,I don't know how,0 days,Low
+English,30,2017,F,MAP,CommUnityCare,Hispanic/Latino,College,Yes,No,No,No,No,Fair,1-Feb,0,4 or more,4 or more,5 or more days,Low
+Spanish,32,2016,F,None,Other,Hispanic/Latino,1-Aug,No,No,No,No,No,Good,1-Feb,0,1-Mar,0 days,5 or more days,Low
+English,37,2015,F,Private insurance,Doctor's Office,Hispanic/Latino,College,No,No,Yes,No,No,Fair,3-Apr,0,4 or more,4 or more,4 days,Not low
+Spanish,67,2017,M,MediCARE,People's Community Clinic,Hispanic/Latino,1-Aug,Yes,No,No,No,Yes,Fair,3-Apr,1,1-Mar,0 days,3 days,Not low
+Spanish,44,2016,F,None,Other,Hispanic/Latino,9-Nov,No,No,No,No,No,Good,1-Feb,1,I don't know how,I don't know how,0 days,Low
+Spanish,36,2016,F,None,No regular place of care,Hispanic/Latino,9-Nov,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,5 or more days,Low
+Spanish,50,2016,F,Private insurance,Doctor's Office,Hispanic/Latino,9-Nov,Yes,No,No,No,No,Fair,3-Apr,1,1-Mar,1-Mar,3 days,Not low
+Spanish,46,2017,F,None,No regular place of care,Hispanic/Latino,1-Aug,Yes,No,No,No,No,Poor,1-Feb,0,0 days,0 days,5 or more days,Low
+English,47,2017,M,MAP,CommUnityCare,Hispanic/Latino,High School GED,No,Yes,Yes,Yes,No,Poor,1-Feb,2,0 days,0 days,1 day,Low
+English,38,2016,F,Medicaid,Other,Hispanic/Latino,9-Nov,Yes,No,Yes,No,Yes,Good,1-Feb,2,1-Mar,0 days,3 days,Low
+Spanish,27,2015,F,Other,Lone Star Circle of Care,Hispanic/Latino,High School GED,Yes,No,No,No,No,Fair,3-Apr,1,1-Mar,1-Mar,3 days,Not low
+English,41,2015,F,Private insurance,Doctor's Office,Asian,College,No,No,No,No,No,Fair,1-Feb,1,I don't know how,I don't know how,0 days,Not low
+Chinese/English,16,2016,F,Medicaid,Other,Asian,9-Nov,No,No,No,No,No,Fair,5 or more,2,I don't know how,I don't know how,3 days,Low
+Chinese/English,35,2016,F,MediCARE,People's Community Clinic,Asian,1-Aug,No,No,No,No,No,Fair,5 or more,Not Sure,4 or more,4 or more,4 days,Not low
+Chinese/English,80,2016,F,Medicaid,Doctor's Office,Asian,College,No,Yes,Yes,No,No,Good,1-Feb,0,0 days,0 days,0 days,Low
+English,73,2017,F,MediCARE,Doctor's Office,Asian,College,No,No,No,No,Yes,Fair,3-Apr,0,4 or more,1-Mar,5 or more days,Not low
+Chinese/English,75,2016,F,Medicaid,Doctor's Office,Asian,College,Yes,Yes,Yes,No,Yes,Fair,1-Feb,0,1-Mar,1-Mar,3 days,Low
+English,74,2017,M,MediCARE,Doctor's Office,Asian,College,Yes,Yes,Yes,No,Yes,Fair,1-Feb,0,1-Mar,1-Mar,5 or more days,Not low
+English,70,2017,F,MediCARE,CommUnityCare,Asian,High School GED,No,No,No,No,No,Fair,3-Apr,0,4 or more,I don't know how,5 or more days,Not low
+English,70,2016,F,MediCARE,Doctor's Office,Asian,High School GED,Yes,No,No,No,Yes,Fair,5 or more,0,0 days,0 days,3 days,Not low
+English,71,2016,F,Other,Doctor's Office,Asian,College,No,No,Yes,No,No,Poor,1-Feb,1,0 days,0 days,Not Sure,Not low
+English,46,2015,M,Private insurance,Doctor's Office,Asian,College,No,No,No,No,No,Poor,1-Feb,2,I don't know how,I don't know how,1 day,Not low
+English,80,2016,M,Medicaid,Doctor's Office,Asian,College,Yes,Yes,Yes,Yes,Yes,Good,Not Sure,1,0 days,0 days,0 days,Low
+English,68,2017,F,MediCARE,Doctor's Office,Asian,College,Yes,No,No,No,Yes,Fair,3-Apr,2,0 days,0 days,4 days,Not low
+English,40,2017,F,MediCARE,Doctor's Office,Asian,College,Yes,No,No,No,Yes,Fair,3-Apr,0,I don't know how,I don't know how,0 days,Not low
+Chinese/English,24,2016,M,None,No regular place of care,Asian,1-Aug,No,No,No,No,No,Fair,5 or more,Not Sure,4 or more,4 or more,0 days,Low
+English,75,2016,F,MediCARE,Doctor's Office,Asian,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,5 or more days,Not low
+Chinese/English,71,2016,F,Other,Doctor's Office,Asian,College,No,No,Yes,No,No,Poor,1-Feb,1,0 days,0 days,5 or more days,Not low
+English,74,2017,M,MediCARE,Doctor's Office,Asian,College,No,Yes,Yes,No,No,Poor,1-Feb,0,1-Mar,4 or more,5 or more days,Not low
+English,73,2017,F,MediCARE,Other,Asian,College,No,No,No,No,Yes,Good,1-Feb,0,4 or more,0 days,5 or more days,Not low
+Chinese/English,81,2016,M,Medicaid,Doctor's Office,Asian,College,No,No,No,No,No,Fair,1-Feb,0,0 days,I don't know how,5 or more days,Low
+English,66,2017,F,MediCARE,Doctor's Office,Asian,College,Yes,No,No,No,Yes,Good,3-Apr,0,1-Mar,4 or more,5 or more days,Not low
+English,60,2016,F,Private insurance,Doctor's Office,Asian,College,Yes,No,No,No,No,Good,1-Feb,0,0 days,I don't know how,1 day,Not low
+Chinese/English,76,2016,F,None,Doctor's Office,Asian,High School GED,Yes,No,Yes,No,No,Good,1-Feb,0,1-Mar,1-Mar,3 days,Low
+English,48,2015,M,Private insurance,Doctor's Office,Asian,College,Yes,No,Yes,No,Yes,Good,3-Apr,1,1-Mar,1-Mar,2 days,Not low
+Chinese/English,19,2016,F,MAP,People's Community Clinic,Asian,High School GED,No,No,No,No,No,Fair,3-Apr,0,0 days,4 or more,3 days,Low
+English,84,2016,M,Private insurance,Doctor's Office,Asian,College,No,No,No,No,Yes,Good,3-Apr,0,1-Mar,1-Mar,2 days,Not low
+Chinese/English,70,2016,F,MediCARE,Doctor's Office,Asian,High School GED,Yes,No,No,No,Yes,Fair,5 or more,0,0 days,0 days,3 days,Not low
+English,30,2015,F,Other,Doctor's Office,Asian,College,No,No,No,No,No,Fair,1-Feb,0,1-Mar,0 days,3 days,Not low
+English,76,2016,F,Private insurance,Doctor's Office,Asian,High School GED,Yes,No,Yes,No,No,Good,1-Feb,0,1-Mar,1-Mar,3 days,Not low
+English,73,2017,M,MediCARE,Doctor's Office,Asian,College,No,No,Yes,No,Yes,Poor,3-Apr,0,0 days,1-Mar,2 days,Not low
+English,75,2016,F,Medicaid,Doctor's Office,Asian,College,Yes,Yes,Yes,No,Yes,Fair,1-Feb,0,1-Mar,1-Mar,3 days,Low
+English,82,2016,M,Private insurance,Doctor's Office,Asian,College,Yes,No,Yes,No,No,Fair,1-Feb,0,1-Mar,0 days,5 or more days,Not low
+Chinese/English,42,2016,F,None,No regular place of care,Asian,1-Aug,No,No,No,No,No,Fair,5 or more,1,I don't know how,1-Mar,0 days,Low
+Chinese/English,75,2016,F,MediCARE,Doctor's Office,Asian,1-Aug,Yes,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,5 or more days,Not low
+Chinese/English,84,2016,M,Private insurance,Doctor's Office,Asian,College,No,No,No,No,No,Good,3-Apr,0,1-Mar,1-Mar,2 days,Not low
+Chinese/English,82,2016,M,Private insurance,Doctor's Office,Asian,College,Yes,No,Yes,No,No,Fair,1-Feb,0,1-Mar,0 days,5 or more days,Not low
+English,41,2017,M,Other,People's Community Clinic,Asian,College,Yes,No,No,No,Yes,Fair,3-Apr,1,0 days,0 days,2 days,Not low
+English,47,2016,F,Private insurance,Doctor's Office,American Indian,College,Yes,No,No,No,Yes,Poor,3-Apr,0,0 days,0 days,1 day,Not low
+Spanish,55,2016,M,None,CommUnityCare,American Indian,1-Aug,No,No,No,No,No,Poor,0,3 or more,0 days,0 days,0 days,Low
+English,32,2016,F,MediCARE,CommUnityCare,American Indian,High School GED,No,No,No,Yes,Yes,Poor,1-Feb,3 or more,4 or more,I don't know how,5 or more days,Not low
+English,51,2016,M,MAP,Doctor's Office,American Indian,1-Aug,Yes,Yes,Yes,Yes,No,Poor,5 or more,3 or more,4 or more,4 or more,5 or more days,Low
+English,61,2017,M,Private insurance,Doctor's Office,American Indian,College,No,No,No,No,No,Good,5 or more,0,I don't know how,I don't know how,Not Sure,Not low
+English,52,2016,M,Other,No regular place of care,White,College,No,No,No,Yes,No,Poor,1-Feb,2,0 days,0 days,2 days,Not low
+English,40,2016,F,MediCARE,Doctor's Office,White,College,Yes,No,Yes,No,Yes,Good,3-Apr,0,4 or more,4 or more,1 day,Not low
+English,81,2017,F,Private insurance,Doctor's Office,White,College,No,Yes,Yes,No,No,Good,3-Apr,0,0 days,0 days,3 days,Not low
+Spanish,28,2017,F,Private insurance,Doctor's Office,White,High School GED,No,No,No,No,No,Fair,1-Feb,1,1-Mar,0 days,5 or more days,Not low
+English,48,2016,M,MAP,Emergency Room,White,High School GED,No,No,No,Yes,No,Fair,0,0,0 days,4 or more,0 days,Low
+English,64,2016,F,MediCARE,Other,White,High School GED,Yes,No,No,No,No,Fair,1-Feb,0,0 days,1-Mar,1 day,Not low
+English,63,2017,F,Private insurance,Emergency Room,White,College,Yes,No,Yes,No,No,Poor,3-Apr,0,1-Mar,4 or more,0 days,Not low
+English,71,2016,F,Private insurance,Doctor's Office,White,College,No,Yes,Yes,No,No,Fair,3-Apr,1,1-Mar,4 or more,3 days,Not low
+Spanish,64,2015,F,Private insurance,Other,White,College,No,No,Yes,No,No,Good,3-Apr,1,1-Mar,1-Mar,4 days,Not low
+English,76,2016,F,Private insurance,Doctor's Office,White,College,No,Yes,Yes,No,No,Good,3-Apr,0,1-Mar,0 days,5 or more days,Not low
+English,40,2017,F,MediCARE,Emergency Room,White,College,No,No,No,No,No,Fair,0,1,0 days,0 days,0 days,Not low
+English,70,2016,M,MediCARE,Doctor's Office,White,College,Yes,No,Yes,No,No,Fair,1-Feb,0,0 days,0 days,0 days,Not low
+English,59,2015,M,MAP,CommUnityCare,White,College,Yes,No,No,Yes,No,Poor,5 or more,0,4 or more,4 or more,1 day,Low
+English,45,2015,F,Private insurance,Seton Clinics,White,College,No,No,No,No,Yes,Fair,1-Feb,1,4 or more,4 or more,3 days,Not low
+English,71,2017,M,MediCARE,Doctor's Office,White,9-Nov,Yes,No,Yes,No,Yes,Fair,1-Feb,0,0 days,0 days,2 days,Not low
+English,55,2016,F,Medicaid,Doctor's Office,White,9-Nov,No,No,Yes,No,No,Poor,1-Feb,1,0 days,4 or more,0 days,Low
+English,66,2017,M,MediCARE,Other,White,College,Yes,No,Yes,No,Yes,Fair,3-Apr,0,0 days,0 days,3 days,Not low
+Spanish,24,2016,F,Private insurance,Seton Clinics,White,1-Aug,No,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+English,58,2017,F,None,No regular place of care,White,College,Yes,No,No,No,Yes,Good,5 or more,0,4 or more,4 or more,3 days,Low
+English,58,2015,F,MediCARE,Doctor's Office,White,College,No,No,Yes,No,Yes,Good,1-Feb,0,0 days,0 days,1 day,Not low
+English,54,2015,F,Private insurance,Doctor's Office,White,College,Yes,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+English,73,2017,F,Medicaid,Doctor's Office,White,College,No,No,Yes,No,No,Fair,5 or more,0,0 days,0 days,4 days,Low
+English,40,2015,F,Private insurance,Doctor's Office,White,College,No,No,Yes,No,No,Poor,0,0,0 days,0 days,0 days,Not low
+English,70,2017,M,MediCARE,Other,White,College,Yes,No,No,No,No,Fair,1-Feb,0,0 days,0 days,5 or more days,Not low
+English,50,2015,F,Medicaid,CommUnityCare,White,College,Yes,No,No,Yes,Yes,Fair,1-Feb,1,0 days,0 days,1 day,Low
+English,71,2017,M,MediCARE,Emergency Room,White,College,Yes,Yes,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+English,69,2016,F,MediCARE,Doctor's Office,White,College,No,No,No,No,No,Poor,3-Apr,0,0 days,0 days,0 days,Not low
+English,42,2016,F,MAP,Lone Star Circle of Care,White,College,No,No,No,Yes,No,Fair,3-Apr,0,1-Mar,4 or more,2 days,Low
+Spanish,50,2016,F,Private insurance,Doctor's Office,White,9-Nov,No,No,No,No,No,Poor,1-Feb,3 or more,0 days,0 days,2 days,Not low
+English,61,2015,F,Private insurance,Doctor's Office,White,College,Yes,No,No,No,No,Fair,3-Apr,0,4 or more,4 or more,1 day,Not low
+Spanish,30,2017,F,Other,CommUnityCare,White,9-Nov,No,No,No,No,No,Good,1-Feb,2,0 days,0 days,3 days,Not low
+English,70,2017,F,Private insurance,Other,White,College,Yes,No,Yes,No,Yes,Good,1-Feb,0,0 days,4 or more,0 days,Not low
+English,52,2015,M,Private insurance,Doctor's Office,White,College,Yes,No,Yes,No,No,Fair,1-Feb,0,1-Mar,0 days,2 days,Not low
+English,64,2015,M,Medicaid,Lone Star Circle of Care,White,College,Yes,No,Yes,No,Yes,Good,3-Apr,0,0 days,0 days,1 day,Low
+English,60,2017,M,MAP,CommUnityCare,White,College,No,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,4 days,Low
+English,60,2015,F,Medicaid,Doctor's Office,White,High School GED,Yes,No,No,No,No,Fair,3-Apr,0,4 or more,4 or more,3 days,Low
+Spanish,37,2016,F,Other,Other,White,High School GED,No,No,No,No,No,Good,1-Feb,2,I don't know how,I don't know how,2 days,Not low
+English,48,2015,F,None,No regular place of care,White,College,Yes,No,No,Yes,Yes,Fair,Not Sure,Not Sure,0 days,0 days,0 days,Low
+English,60,2015,F,None,Doctor's Office,White,College,No,Yes,No,No,No,Poor,1-Feb,2,0 days,0 days,0 days,Low
+English,66,2016,F,Other,Doctor's Office,White,College,No,No,No,No,Yes,Fair,3-Apr,0,0 days,0 days,3 days,Not low
+English,65,2017,F,MediCARE,Other,White,College,Yes,No,Yes,No,No,Fair,1-Feb,2,0 days,1-Mar,1 day,Not low
+English,72,2017,M,MediCARE,Doctor's Office,White,College,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,3 days,Not low
+English,23,2016,F,Medicaid,CommUnityCare,White,College,Yes,No,No,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Low
+English,56,2015,F,MAP,CommUnityCare,White,1-Aug,Yes,No,Yes,Yes,Yes,Good,5 or more,0,0 days,4 or more,4 days,Low
+English,45,2015,M,Medicaid,CommUnityCare,White,College,Yes,No,Yes,No,No,Fair,1-Feb,0,0 days,0 days,1 day,Low
+English,56,2015,F,MAP,CommUnityCare,White,1-Aug,Yes,No,Yes,Yes,Yes,Good,5 or more,0,0 days,4 or more,4 days,Low
+English,64,2016,M,MAP,Lone Star Circle of Care,White,College,Yes,No,Yes,Yes,Yes,Good,1-Feb,1,0 days,1-Mar,2 days,Low
+English,68,2016,M,MediCARE,Doctor's Office,White,College,No,No,No,No,No,Fair,1-Feb,0,0 days,0 days,4 days,Not low
+English,77,2016,F,MediCARE,Doctor's Office,White,High School GED,No,No,Yes,No,No,Poor,3-Apr,0,0 days,0 days,5 or more days,Not low
+English,62,2017,M,Other,No regular place of care,White,College,Yes,No,No,No,No,Poor,1-Feb,0,0 days,0 days,0 days,Not low
+English,33,2015,F,Private insurance,Doctor's Office,White,College,Yes,No,No,No,No,Fair,1-Feb,1,0 days,0 days,2 days,Not low
+English,60,2017,M,MediCARE,No regular place of care,White,College,Yes,No,Yes,No,No,Poor,3-Apr,0,0 days,0 days,2 days,Not low
+English,79,2016,F,MediCARE,Doctor's Office,White,College,Yes,Yes,Yes,No,Yes,Good,3-Apr,1,4 or more,4 or more,0 days,Not low
+English,52,2016,M,Private insurance,Doctor's Office,White,College,No,No,No,No,No,Good,3-Apr,0,I don't know how,I don't know how,5 or more days,Not low
+Spanish,46,2016,F,None,CommUnityCare,White,College,Yes,No,No,No,Yes,Good,1-Feb,1,0 days,0 days,0 days,Low
+Spanish,32,2016,F,MAP,CommUnityCare,White,9-Nov,No,No,No,No,Yes,Good,1-Feb,1,1-Mar,1-Mar,2 days,Low
+Spanish,45,2016,F,None,El Buen Samaritano,White,1-Aug,No,No,No,No,Yes,Good,1-Feb,1,0 days,0 days,2 days,Low
+English,33,2015,F,Medicaid,CommUnityCare,White,College,No,No,No,No,No,Poor,1-Feb,0,0 days,0 days,3 days,Low
+English,48,2016,F,MAP,CommUnityCare,White,College,No,No,No,Yes,No,Good,3-Apr,0,0 days,0 days,5 or more days,Low
+English,54,2015,F,Private insurance,Doctor's Office,White,College,Yes,No,No,No,No,Poor,3-Apr,0,1-Mar,0 days,0 days,Not low
+English,22,2017,M,Other,No regular place of care,White,College,No,No,No,No,No,Fair,1-Feb,0,1-Mar,0 days,5 or more days,Not low
+English,43,2017,M,Other,People's Community Clinic,White,High School GED,Yes,No,Yes,No,No,Fair,1-Feb,3 or more,0 days,1-Mar,1 day,Not low
+English,45,2016,F,None,People's Community Clinic,White,1-Aug,No,No,Yes,Yes,No,Poor,1-Feb,1,1-Mar,0 days,1 day,Low
+Spanish,58,2017,F,Medicaid,CommUnityCare,White,College,No,No,No,Yes,Yes,Fair,1-Feb,2,1-Mar,1-Mar,5 or more days,Low
+English,46,2017,F,Private insurance,Doctor's Office,White,College,No,No,No,No,No,Poor,3-Apr,0,0 days,0 days,4 days,Not low
+English,70,2017,M,MediCARE,Seton Clinics,White,College,No,No,No,No,Yes,Good,1-Feb,2,1-Mar,4 or more,5 or more days,Not low
+English,43,2016,F,MAP,CommUnityCare,White,9-Nov,No,No,No,No,Yes,Fair,3-Apr,3 or more,0 days,0 days,1 day,Low
+English,60,2017,F,MediCARE,CommUnityCare,White,College,Yes,No,Yes,No,Yes,Good,1-Feb,0,0 days,4 or more,0 days,Not low
+English,45,2016,M,Private insurance,CommUnityCare,White,1-Aug,Yes,No,Yes,No,No,Poor,1-Feb,0,4 or more,4 or more,5 or more days,Not low
+English,36,2017,M,Private insurance,Doctor's Office,White,College,Yes,No,No,No,No,Fair,3-Apr,0,4 or more,1-Mar,3 days,Not low
+English,69,2017,F,MediCARE,Doctor's Office,White,College,Yes,No,Yes,No,Yes,Poor,3-Apr,0,0 days,0 days,3 days,Not low
+English,63,2015,F,Medicaid,Doctor's Office,White,College,No,No,Yes,No,No,Fair,1-Feb,1,1-Mar,0 days,0 days,Low
+English,46,2016,M,Medicaid,CommUnityCare,White,College,No,No,No,Yes,Yes,Fair,5 or more,0,0 days,0 days,0 days,Low
+English,76,2016,F,Medicaid,Doctor's Office,White,High School GED,Yes,No,Yes,No,No,Good,3-Apr,0,0 days,4 or more,2 days,Low
+Chinese/English,68,2016,M,MediCARE,Doctor's Office,White,College,No,No,No,No,No,Fair,1-Feb,0,0 days,0 days,4 days,Not low
+English,59,2016,F,Medicaid,Seton Clinics,White,College,Yes,Yes,Yes,Yes,No,Good,3-Apr,3 or more,4 or more,I don't know how,0 days,Low
+Spanish,42,2017,F,Other,CommUnityCare,White,1-Aug,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,1 day,Not low
+English,38,2016,F,Medicaid,CommUnityCare,White,College,No,No,No,No,Yes,Poor,1-Feb,2,0 days,0 days,3 days,Low
+English,57,2015,M,Private insurance,Other,White,College,Yes,No,Yes,No,Yes,Good,3-Apr,0,4 or more,4 or more,3 days,Not low
+English,85,2016,M,Other,Other,White,College,Yes,Yes,Yes,No,Yes,Good,5 or more,0,1-Mar,4 or more,3 days,Not low
+English,42,2015,F,Private insurance,Doctor's Office,White,College,Yes,No,Yes,No,No,Poor,3-Apr,0,I don't know how,4 or more,3 days,Not low
+English,68,2016,M,Medicaid,CommUnityCare,White,College,Yes,Yes,Yes,No,No,Fair,3-Apr,0,0 days,0 days,0 days,Low
+English,63,2016,M,Medicaid,Other,White,High School GED,No,No,No,No,No,Fair,Not Sure,3 or more,I don't know how,I don't know how,0 days,Low
+English,61,2016,F,Medicaid,Seton Clinics,White,College,Yes,No,Yes,No,No,Fair,3-Apr,2,0 days,0 days,2 days,Low
+English,67,2016,F,Medicaid,Doctor's Office,White,College,No,No,Yes,No,No,Fair,3-Apr,2,0 days,0 days,0 days,Low
+Spanish,39,2016,F,Private insurance,Doctor's Office,White,1-Aug,No,No,No,No,Yes,Good,3-Apr,1,I don't know how,I don't know how,5 or more days,Not low
+English,60,2017,F,MediCARE,CommUnityCare,White,College,Yes,No,Yes,No,Yes,Good,1-Feb,0,0 days,4 or more,0 days,Not low
+Spanish,71,2016,F,MediCARE,People's Community Clinic,White,College,Yes,Yes,Yes,No,Yes,Fair,3-Apr,2,1-Mar,1-Mar,2 days,Not low
+English,69,2017,F,Private insurance,Doctor's Office,White,College,No,No,No,No,Yes,Good,5 or more,0,1-Mar,0 days,4 days,Not low
+English,64,2016,M,Medicaid,CommUnityCare,White,College,Yes,No,No,No,Yes,Fair,1-Feb,0,0 days,0 days,2 days,Low
+English,40,2016,F,Private insurance,Other,White,College,No,No,No,No,No,Poor,5 or more,2,0 days,0 days,5 or more days,Not low
+English,36,2017,F,Medicaid,Doctor's Office,White,College,No,No,No,No,Yes,Fair,1-Feb,2,1-Mar,1-Mar,2 days,Low
+English,69,2016,F,MediCARE,Other,White,High School GED,Yes,No,Yes,No,No,Fair,3-Apr,0,1-Mar,1-Mar,2 days,Not low
+English,74,2016,F,MediCARE,Doctor's Office,White,College,No,Yes,Yes,No,No,Fair,5 or more,0,4 or more,4 or more,0 days,Not low
+English,28,2016,F,Other,Doctor's Office,White,High School GED,No,No,No,No,No,Poor,1-Feb,0,0 days,0 days,3 days,Not low
+English,66,2016,M,MediCARE,Seton Clinics,White,College,Yes,Yes,No,No,No,Fair,3-Apr,0,I don't know how,1-Mar,5 or more days,Not low
+English,53,2016,F,Other,Other,White,College,No,No,Yes,No,No,Poor,0,3 or more,0 days,0 days,0 days,Not low
+English,58,2015,F,Other,Other,White,High School GED,Yes,No,Yes,No,No,Poor,3-Apr,0,0 days,0 days,2 days,Not low
+English,67,2017,F,Medicaid,Lone Star Circle of Care,White,High School GED,No,No,Yes,No,No,Fair,1-Feb,0,1-Mar,0 days,1 day,Low
+English,77,2016,F,Medicaid,Other,White,1-Aug,No,No,Yes,No,No,Fair,1-Feb,2,0 days,0 days,0 days,Low
+English,36,2016,M,Medicaid,Doctor's Office,White,College,Yes,Yes,Yes,No,Yes,Good,3-Apr,0,4 or more,0 days,3 days,Low
+English,42,2016,M,MAP,CommUnityCare,White,High School GED,Yes,No,No,Yes,Yes,Good,1-Feb,0,1-Mar,4 or more,3 days,Low
+English,63,2015,M,Private insurance,Doctor's Office,White,College,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,1 day,Not low
+English,68,2017,F,MediCARE,Doctor's Office,White,College,Yes,No,No,No,Yes,Good,1-Feb,1,0 days,1-Mar,0 days,Not low
+English,23,2016,M,Medicaid,Other,White,High School GED,Yes,No,Yes,No,Yes,Good,3-Apr,2,0 days,0 days,2 days,Low
+English,40,2015,F,Private insurance,Doctor's Office,White,College,No,No,No,No,No,Poor,3-Apr,0,4 or more,I don't know how,2 days,Not low
+English,35,2015,F,None,Doctor's Office,White,College,No,No,Yes,No,No,Good,5 or more,0,0 days,0 days,3 days,Low
+English,63,2016,F,Other,Doctor's Office,White,College,Yes,No,Yes,No,Yes,Fair,1-Feb,0,0 days,0 days,0 days,Not low
+English,60,2015,F,Medicaid,Doctor's Office,White,High School GED,Yes,No,No,No,No,Fair,3-Apr,0,4 or more,4 or more,3 days,Low
+English,57,2015,F,Other,Doctor's Office,White,College,No,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+English,58,2015,F,Private insurance,Doctor's Office,White,College,Yes,No,Yes,Yes,No,Good,3-Apr,0,4 or more,4 or more,4 days,Not low
+English,64,2015,M,MAP,Lone Star Circle of Care,White,College,Yes,No,No,Yes,Yes,Good,1-Feb,0,0 days,1-Mar,1 day,Low
+English,68,2016,M,MediCARE,Doctor's Office,White,College,Yes,Yes,Yes,No,No,Fair,3-Apr,0,0 days,0 days,0 days,Not low
+English,58,2017,F,None,Doctor's Office,White,College,Yes,No,Yes,Yes,No,Fair,1-Feb,0,0 days,0 days,0 days,Low
+English,67,2017,F,MediCARE,Other,White,College,No,No,No,No,Yes,Fair,3-Apr,0,0 days,0 days,3 days,Not low
+English,60,2016,F,Private insurance,Doctor's Office,White,College,Yes,No,No,No,No,Fair,Not Sure,Not Sure,0 days,0 days,1 day,Not low
+English,57,2016,M,MediCARE,Doctor's Office,White,High School GED,Yes,Yes,Yes,No,No,Fair,1-Feb,2,0 days,0 days,5 or more days,Not low
+English,82,2017,F,MediCARE,Doctor's Office,White,College,Yes,Yes,Yes,No,No,Fair,5 or more,0,0 days,0 days,2 days,Not low
+English,33,2016,F,Other,Other,White,College,Yes,No,No,No,Yes,Fair,1-Feb,0,1-Mar,1-Mar,2 days,Not low
+English,54,2015,F,Other,Doctor's Office,Black/African American,High School GED,No,No,Yes,No,No,Fair,Not Sure,1,0 days,0 days,2 days,Not low
+English,63,2015,F,MAP,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,Yes,Fair,1-Feb,Not Sure,1-Mar,I don't know how,5 or more days,Low
+English,58,2015,F,Private insurance,CommUnityCare,Black/African American,College,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,5 or more days,Not low
+English,37,2015,F,Private insurance,No regular place of care,Black/African American,9-Nov,No,No,No,No,No,Good,1-Feb,2,4 or more,1-Mar,2 days,Not low
+English,56,2015,F,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Fair,1-Feb,0,1-Mar,1-Mar,4 days,Not low
+English,40,2017,F,MediCARE,Other,Black/African American,High School GED,Yes,No,Yes,No,Yes,Fair,1-Feb,2,I don't know how,1-Mar,3 days,Not low
+English,40,2017,M,MediCARE,Doctor's Office,Black/African American,High School GED,Yes,No,No,No,Yes,Fair,3-Apr,1,I don't know how,I don't know how,1 day,Not low
+English,70,2017,F,MediCARE,Lone Star Circle of Care,Black/African American,College,Yes,No,Yes,No,Yes,Good,1-Feb,0,1-Mar,I don't know how,3 days,Not low
+English,72,2015,F,Medicaid,No regular place of care,Black/African American,College,Yes,No,Yes,No,Yes,Good,1-Feb,1,I don't know how,0 days,0 days,Low
+English,60,2017,M,Private insurance,Doctor's Office,Black/African American,High School GED,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,0 days,Not low
+English,58,2015,F,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+English,59,2015,F,Other,Emergency Room,Black/African American,College,No,No,Yes,No,No,Fair,5 or more,2,0 days,0 days,0 days,Not low
+English,43,2016,F,MediCARE,Doctor's Office,Black/African American,College,No,No,No,No,No,Poor,Not Sure,Not Sure,I don't know how,I don't know how,0 days,Not low
+English,31,2017,F,None,El Buen Samaritano,Black/African American,College,No,No,No,No,Yes,Fair,1-Feb,0,0 days,0 days,0 days,Low
+English,62,2015,F,MediCARE,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Fair,5 or more,1,0 days,4 or more,2 days,Not low
+English,36,2017,F,MediCARE,People's Community Clinic,Black/African American,9-Nov,Yes,No,No,No,No,Good,Not Sure,1,0 days,0 days,0 days,Not low
+English,22,2015,M,MAP,CommUnityCare,Black/African American,High School GED,No,No,No,No,No,Fair,5 or more,3 or more,0 days,0 days,3 days,Low
+English,58,2015,F,Private insurance,Doctor's Office,Black/African American,High School GED,No,No,No,No,Yes,Fair,1-Feb,1,0 days,0 days,5 or more days,Not low
+English,78,2015,F,MediCARE,CommUnityCare,Black/African American,9-Nov,No,No,Yes,No,No,Poor,3-Apr,3 or more,1-Mar,4 or more,2 days,Not low
+English,65,2016,F,MediCARE,Other,Black/African American,College,Yes,No,Yes,No,Yes,Good,3-Apr,1,0 days,0 days,0 days,Not low
+English,68,2015,F,Other,Doctor's Office,Black/African American,College,No,No,Yes,No,Yes,Fair,3-Apr,0,0 days,0 days,3 days,Not low
+English,76,2017,F,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Good,1-Feb,1,0 days,0 days,3 days,Not low
+English,51,2016,F,None,Doctor's Office,Black/African American,College,No,No,No,No,Yes,Good,5 or more,2,I don't know how,I don't know how,2 days,Low
+English,55,2016,M,Private insurance,Doctor's Office,Black/African American,College,Yes,Yes,Yes,Yes,Yes,Fair,3-Apr,2,1-Mar,1-Mar,3 days,Not low
+English,50,2017,F,None,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,Yes,Poor,1-Feb,1,0 days,0 days,3 days,Low
+English,82,2017,M,Private insurance,Other,Black/African American,College,Yes,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,2 days,Not low
+English,44,2017,F,Private insurance,CommUnityCare,Black/African American,9-Nov,Yes,No,Yes,No,No,Fair,1-Feb,3 or more,0 days,0 days,0 days,Not low
+English,55,2017,F,MediCARE,Lone Star Circle of Care,Black/African American,High School GED,Yes,No,No,No,Yes,Good,1-Feb,1,1-Mar,1-Mar,4 days,Not low
+English,40,2017,M,None,Doctor's Office,Black/African American,High School GED,No,No,No,Yes,No,Fair,1-Feb,1,0 days,0 days,5 or more days,Low
+English,82,2015,F,Medicaid,Doctor's Office,Black/African American,9-Nov,Yes,No,Yes,No,Yes,Fair,1-Feb,2,1-Mar,I don't know how,2 days,Low
+English,59,2017,F,MediCARE,Lone Star Circle of Care,Black/African American,College,Yes,No,Yes,No,Yes,Fair,1-Feb,0,4 or more,4 or more,0 days,Not low
+English,55,2015,F,Other,Doctor's Office,Black/African American,College,No,No,No,No,Yes,Good,1-Feb,1,4 or more,0 days,5 or more days,Not low
+English,58,2015,M,Private insurance,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,Yes,Fair,0,1,0 days,1-Mar,0 days,Not low
+English,58,2016,F,None,Lone Star Circle of Care,Black/African American,College,Yes,No,Yes,No,Yes,Fair,0,0,4 or more,4 or more,0 days,Low
+English,55,2015,F,Medicaid,CommUnityCare,Black/African American,High School GED,No,Yes,Yes,No,Yes,Good,5 or more,0,4 or more,0 days,5 or more days,Low
+English,55,2015,F,Medicaid,Doctor's Office,Black/African American,College,Yes,No,No,No,Yes,Good,3-Apr,1,1-Mar,0 days,5 or more days,Low
+Spanish,38,2016,F,Private insurance,Other,Black/African American,College,Yes,No,No,Yes,No,Fair,1-Feb,1,I don't know how,I don't know how,0 days,Not low
+English,40,2017,F,MAP,Other,Black/African American,College,No,No,No,No,No,Good,1-Feb,1,1-Mar,I don't know how,0 days,Low
+English,53,2015,F,Private insurance,Doctor's Office,Black/African American,High School GED,No,No,Yes,No,No,Fair,3-Apr,2,1-Mar,1-Mar,5 or more days,Not low
+English,22,2016,F,Medicaid,Doctor's Office,Black/African American,9-Nov,No,No,No,No,No,Fair,3-Apr,2,0 days,0 days,3 days,Low
+English,57,2017,M,Medicaid,CommUnityCare,Black/African American,College,No,No,Yes,No,No,Fair,3-Apr,2,I don't know how,I don't know how,5 or more days,Low
+English,71,2017,M,MediCARE,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Fair,1-Feb,1,0 days,1-Mar,0 days,Not low
+English,61,2017,M,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,2 days,Not low
+English,54,2015,M,Private insurance,El Buen Samaritano,Black/African American,High School GED,No,No,Yes,No,No,Poor,1-Feb,1,0 days,0 days,5 or more days,Not low
+English,53,2015,F,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Poor,3-Apr,1,1-Mar,I don't know how,4 days,Not low
+English,44,2015,F,Other,Doctor's Office,Black/African American,College,No,No,No,No,Yes,Fair,5 or more,1,0 days,4 or more,3 days,Not low
+English,62,2015,M,Private insurance,Seton Clinics,Black/African American,College,Yes,No,Yes,No,No,Good,3-Apr,1,0 days,1-Mar,1 day,Not low
+English,51,2016,M,Other,Other,Black/African American,College,Yes,No,Yes,No,Yes,Good,1-Feb,0,0 days,0 days,2 days,Not low
+English,86,2017,F,MediCARE,Doctor's Office,Black/African American,High School GED,No,No,No,No,No,Fair,1-Feb,3 or more,0 days,0 days,3 days,Not low
+English,58,2017,F,MAP,People's Community Clinic,Black/African American,High School GED,Yes,No,Yes,No,No,Fair,1-Feb,1,1-Mar,1-Mar,2 days,Low
+English,50,2016,M,Other,Other,Black/African American,College,Yes,No,Yes,No,No,Poor,0,1,0 days,0 days,3 days,Not low
+English,77,2016,F,MediCARE,CommUnityCare,Black/African American,College,No,Yes,Yes,No,No,Fair,3-Apr,2,0 days,1-Mar,5 or more days,Not low
+English,57,2015,M,Medicaid,Doctor's Office,Black/African American,High School GED,No,No,Yes,Yes,No,Poor,3-Apr,2,0 days,0 days,5 or more days,Low
+English,65,2017,F,MediCARE,Other,Black/African American,High School GED,Yes,No,Yes,No,No,Poor,1-Feb,0,0 days,0 days,1 day,Not low
+English,48,2016,F,Medicaid,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Fair,1-Feb,0,0 days,0 days,0 days,Low
+English,41,2015,F,Other,Other,Black/African American,College,No,No,No,No,Yes,Good,3-Apr,1,I don't know how,I don't know how,5 or more days,Not low
+English,48,2015,M,Other,Other,Black/African American,College,No,No,No,No,No,Fair,1-Feb,3 or more,0 days,0 days,0 days,Not low
+English,60,2015,F,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Poor,1-Feb,1,1-Mar,0 days,3 days,Not low
+English,76,2015,F,MediCARE,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Fair,3-Apr,0,0 days,0 days,5 or more days,Not low
+English,84,2017,F,Other,Other,Black/African American,1-Aug,Yes,Yes,Yes,No,No,Poor,1-Feb,1,0 days,1-Mar,2 days,Not low
+English,32,2015,F,Other,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,2 days,Not low
+English,37,2016,F,MAP,CommUnityCare,Black/African American,College,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,0 days,Low
+English,70,2017,F,MediCARE,Other,Black/African American,College,No,No,Yes,No,Yes,Fair,1-Feb,2,0 days,0 days,1 day,Not low
+English,63,2015,F,MAP,CommUnityCare,Black/African American,High School GED,Yes,No,Yes,No,No,Fair,3-Apr,2,1-Mar,1-Mar,1 day,Low
+English,31,2016,F,Private insurance,Seton Clinics,Black/African American,College,No,No,Yes,No,No,Good,1-Feb,1,I don't know how,I don't know how,1 day,Not low
+English,62,2017,F,Other,Doctor's Office,Black/African American,College,Yes,No,No,Yes,Yes,Fair,1-Feb,1,0 days,0 days,2 days,Not low
+English,40,2016,F,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,3-Apr,1,0 days,0 days,2 days,Not low
+English,60,2017,F,MediCARE,No regular place of care,Black/African American,College,Yes,No,Yes,No,No,Poor,3-Apr,0,0 days,0 days,0 days,Not low
+English,58,2016,F,MediCARE,People's Community Clinic,Black/African American,College,No,Yes,No,No,No,Poor,1-Feb,2,0 days,0 days,5 or more days,Not low
+English,42,2017,M,Medicaid,Lone Star Circle of Care,Black/African American,1-Aug,Yes,No,Yes,No,No,Poor,0,3 or more,0 days,0 days,0 days,Low
+English,78,2016,F,MediCARE,Other,Black/African American,9-Nov,No,No,Yes,No,No,Fair,3-Apr,0,0 days,0 days,3 days,Not low
+English,85,2017,F,Other,Doctor's Office,Black/African American,College,No,No,Yes,No,Yes,Good,1-Feb,1,0 days,1-Mar,0 days,Not low
+English,68,2017,F,MediCARE,Doctor's Office,Black/African American,College,No,No,Yes,No,Yes,Fair,3-Apr,2,1-Mar,0 days,4 days,Not low
+English,77,2017,F,MediCARE,Doctor's Office,Black/African American,College,Yes,No,No,No,Yes,Good,3-Apr,0,0 days,4 or more,2 days,Not low
+English,75,2015,M,Private insurance,Other,Black/African American,College,Yes,Yes,Yes,No,Yes,Good,3-Apr,2,4 or more,4 or more,1 day,Not low
+English,31,2016,F,Other,No regular place of care,Black/African American,College,No,No,No,No,No,Poor,3-Apr,1,4 or more,4 or more,3 days,Not low
+English,43,2016,F,Private insurance,No regular place of care,Black/African American,College,Yes,No,Yes,No,Yes,Good,1-Feb,3 or more,0 days,0 days,1 day,Not low
+English,59,2017,F,Other,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,Yes,Good,3-Apr,1,1-Mar,1-Mar,2 days,Not low
+English,62,2015,F,Private insurance,Doctor's Office,Black/African American,High School GED,No,No,Yes,No,Yes,Fair,3-Apr,1,0 days,1-Mar,0 days,Not low
+English,52,2017,F,Private insurance,Doctor's Office,Black/African American,High School GED,No,No,No,No,No,Fair,3-Apr,0,4 or more,0 days,5 or more days,Not low
+English,19,2015,F,None,CommUnityCare,Black/African American,High School GED,No,No,No,No,Yes,Fair,3-Apr,1,0 days,0 days,1 day,Low
+English,63,2015,M,Other,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,Yes,Fair,1-Feb,1,1-Mar,1-Mar,5 or more days,Not low
+English,72,2016,F,MediCARE,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Good,1-Feb,0,0 days,0 days,0 days,Not low
+English,41,2016,M,MAP,No regular place of care,Black/African American,9-Nov,No,No,No,Yes,Yes,Fair,1-Feb,3 or more,1-Mar,0 days,4 days,Low
+English,28,2015,F,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Poor,3-Apr,2,0 days,0 days,1 day,Not low
+English,53,2016,F,Private insurance,Doctor's Office,Black/African American,College,Yes,No,No,No,Yes,Fair,5 or more,1,1-Mar,0 days,4 days,Not low
+English,83,2015,F,Other,Doctor's Office,Black/African American,College,No,Yes,Yes,No,Yes,Fair,3-Apr,1,0 days,0 days,1 day,Not low
+English,24,2017,F,Medicaid,Lone Star Circle of Care,Black/African American,High School GED,No,No,No,No,Yes,Fair,1-Feb,0,0 days,0 days,0 days,Low
+English,58,2015,M,MediCARE,Doctor's Office,Black/African American,College,No,No,Yes,No,Yes,Good,5 or more,2,I don't know how,4 or more,5 or more days,Not low
+English,63,2017,F,None,CommUnityCare,Black/African American,College,No,No,No,Yes,No,Poor,3-Apr,0,0 days,0 days,1 day,Low
+English,82,2017,F,MediCARE,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Fair,5 or more,2,0 days,I don't know how,4 days,Not low
+English,28,2015,M,Other,No regular place of care,Black/African American,College,No,No,No,No,No,Poor,3-Apr,0,0 days,0 days,2 days,Not low
+English,77,2017,F,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,1-Feb,0,0 days,0 days,4 days,Not low
+English,60,2017,F,MediCARE,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,No,Fair,1-Feb,1,1-Mar,0 days,5 or more days,Not low
+English,70,2015,F,MediCARE,Doctor's Office,Black/African American,College,Yes,No,No,No,Yes,Good,1-Feb,1,0 days,1-Mar,2 days,Not low
+English,56,2017,F,Other,Doctor's Office,Black/African American,College,No,No,No,No,Yes,Good,5 or more,0,4 or more,4 or more,5 or more days,Not low
+English,55,2015,F,Other,Doctor's Office,Black/African American,College,No,No,No,No,Yes,Good,1-Feb,1,4 or more,1-Mar,3 days,Not low
+English,75,2017,F,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,3-Apr,1,1-Mar,1-Mar,3 days,Not low
+English,59,2017,M,Medicaid,CommUnityCare,Black/African American,1-Aug,Yes,No,Yes,No,No,Poor,3-Apr,2,0 days,0 days,2 days,Low
+English,64,2017,F,Medicaid,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,Yes,Good,1-Feb,0,0 days,0 days,5 or more days,Low
+English,58,2016,M,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Fair,3-Apr,0,0 days,0 days,1 day,Not low
+English,63,2016,F,Medicaid,Other,Black/African American,High School GED,Yes,No,No,No,No,Poor,1-Feb,1,0 days,0 days,1 day,Low
+English,53,2016,F,Other,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Good,3-Apr,2,0 days,0 days,4 days,Not low
+English,72,2017,F,MediCARE,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Poor,1-Feb,1,0 days,0 days,1 day,Not low
+English,27,2016,M,MAP,CommUnityCare,Black/African American,High School GED,Yes,No,No,Yes,No,Poor,Not Sure,0,0 days,0 days,0 days,Low
+English,27,2017,F,Medicaid,Emergency Room,Black/African American,High School GED,No,No,No,No,No,Fair,1-Feb,2,I don't know how,0 days,5 or more days,Low
+English,67,2017,F,Private insurance,CommUnityCare,Black/African American,College,Yes,Yes,Yes,No,Yes,Good,3-Apr,2,4 or more,1-Mar,4 days,Not low
+English,79,2015,M,Medicaid,Other,Black/African American,High School GED,Yes,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,2 days,Low
+English,64,2015,F,MediCARE,Other,Black/African American,College,No,No,Yes,No,Yes,Fair,3-Apr,1,0 days,1-Mar,2 days,Not low
+English,68,2016,F,MediCARE,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,Yes,Fair,Not Sure,1,0 days,0 days,0 days,Not low
+English,65,2015,F,None,CommUnityCare,Black/African American,College,Yes,No,Yes,No,Yes,Poor,5 or more,2,0 days,0 days,4 days,Low
+English,82,2017,M,MediCARE,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,1 day,Not low
+English,46,2015,F,Private insurance,Seton Clinics,Black/African American,College,No,No,No,No,Yes,Fair,3-Apr,0,0 days,0 days,2 days,Not low
+English,53,2016,F,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Poor,3-Apr,2,0 days,0 days,2 days,Not low
+English,64,2015,F,Other,No regular place of care,Black/African American,High School GED,No,No,Yes,No,Yes,Fair,1-Feb,3 or more,0 days,0 days,2 days,Not low
+English,47,2015,F,Other,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,1-Feb,1,1-Mar,1-Mar,0 days,Not low
+English,64,2017,M,Private insurance,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Fair,1-Feb,0,0 days,0 days,4 days,Not low
+English,46,2016,M,Private insurance,Seton Clinics,Black/African American,College,No,No,No,No,Yes,Fair,1-Feb,2,I don't know how,I don't know how,3 days,Not low
+English,68,2015,M,Medicaid,Seton Clinics,Black/African American,College,Yes,Yes,Yes,No,Yes,Good,3-Apr,1,1-Mar,1-Mar,4 days,Low
+English,68,2016,F,Other,Other,Black/African American,High School GED,No,No,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,2 days,Not low
+English,56,2015,M,None,No regular place of care,Black/African American,High School GED,Yes,No,Yes,No,Yes,Good,1-Feb,1,1-Mar,1-Mar,2 days,Low
+English,66,2016,F,MediCARE,Seton Clinics,Black/African American,High School GED,No,No,Yes,No,No,Good,0,2,1-Mar,0 days,0 days,Not low
+English,58,2017,F,Medicaid,Emergency Room,Black/African American,College,Yes,Yes,Yes,No,Yes,Fair,1-Feb,2,1-Mar,4 or more,3 days,Low
+English,54,2017,M,Other,Other,Black/African American,College,Yes,No,No,No,Yes,Good,3-Apr,0,4 or more,4 or more,3 days,Not low
+English,61,2017,F,Private insurance,Doctor's Office,Black/African American,High School GED,Yes,Yes,Yes,No,No,Fair,3-Apr,0,0 days,0 days,4 days,Not low
+English,62,2017,F,Private insurance,Doctor's Office,Black/African American,College,Yes,Yes,Yes,Yes,Yes,Fair,3-Apr,1,0 days,0 days,1 day,Not low
+English,71,2015,F,MediCARE,Seton Clinics,Black/African American,High School GED,Yes,Yes,Yes,No,Yes,Good,1-Feb,2,0 days,0 days,4 days,Not low
+English,47,2015,F,Private insurance,Doctor's Office,Black/African American,College,Yes,No,No,No,Yes,Good,5 or more,2,0 days,0 days,0 days,Not low
+English,51,2016,F,Private insurance,CommUnityCare,Black/African American,9-Nov,No,No,Yes,Yes,No,Fair,1-Feb,2,1-Mar,4 or more,2 days,Not low
+English,52,2015,F,Medicaid,Other,Black/African American,College,No,No,No,No,Yes,Fair,5 or more,1,4 or more,1-Mar,5 or more days,Low
+English,57,2015,F,Medicaid,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Good,1-Feb,2,0 days,0 days,1 day,Low
+English,27,2016,F,None,People's Community Clinic,Black/African American,College,Yes,No,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,1 day,Low
+English,77,2017,F,MediCARE,Doctor's Office,Black/African American,College,Yes,Yes,Yes,No,Yes,Good,1-Feb,0,4 or more,0 days,2 days,Not low
+English,63,2017,F,Other,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Good,5 or more,0,4 or more,4 or more,3 days,Not low
+English,53,2015,F,Private insurance,Doctor's Office,Black/African American,High School GED,Yes,Yes,Yes,No,Yes,Fair,1-Feb,2,1-Mar,4 or more,1 day,Not low
+English,71,2015,F,MediCARE,CommUnityCare,Black/African American,9-Nov,Yes,No,Yes,No,No,Fair,1-Feb,3 or more,0 days,0 days,1 day,Not low
+English,63,2017,M,None,Seton Clinics,Black/African American,High School GED,No,No,Yes,Yes,No,Fair,1-Feb,2,0 days,4 or more,0 days,Low
+English,75,2015,M,Private insurance,Doctor's Office,Black/African American,College,Yes,No,No,No,Yes,Fair,3-Apr,1,1-Mar,0 days,2 days,Not low
+English,66,2017,M,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Fair,1-Feb,0,4 or more,0 days,2 days,Not low
+English,60,2016,F,Medicaid,Seton Clinics,Black/African American,9-Nov,No,No,Yes,Yes,No,Fair,3-Apr,3 or more,0 days,0 days,1 day,Low
+English,68,2016,F,Private insurance,Doctor's Office,Black/African American,High School GED,No,No,Yes,No,Yes,Good,3-Apr,0,1-Mar,0 days,0 days,Not low
+English,77,2017,F,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,0,2,0 days,0 days,2 days,Not low
+English,53,2016,F,Private insurance,Doctor's Office,Black/African American,High School GED,No,No,No,Yes,No,Fair,1-Feb,3 or more,0 days,0 days,1 day,Not low
+English,68,2017,F,MediCARE,Doctor's Office,Black/African American,High School GED,No,No,Yes,No,Yes,Good,3-Apr,2,1-Mar,1-Mar,2 days,Not low
+English,40,2017,F,None,No regular place of care,Black/African American,College,No,No,No,No,No,Poor,3-Apr,0,I don't know how,I don't know how,5 or more days,Low
+English,58,2017,F,None,CommUnityCare,Black/African American,High School GED,No,No,Yes,No,Yes,Fair,3-Apr,1,1-Mar,0 days,0 days,Low
+English,66,2017,M,None,CommUnityCare,Black/African American,9-Nov,Yes,Yes,Yes,No,No,Good,1-Feb,2,1-Mar,1-Mar,2 days,Low
+English,65,2017,F,MediCARE,Doctor's Office,Black/African American,College,No,No,Yes,No,Yes,Fair,0,0,0 days,1-Mar,1 day,Not low
+English,39,2016,F,Private insurance,Seton Clinics,Black/African American,College,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+English,63,2017,F,Other,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,3-Apr,1,1-Mar,0 days,1 day,Not low
+English,75,2017,F,MediCARE,Other,Black/African American,College,Yes,No,Yes,No,Yes,Good,1-Feb,1,1-Mar,I don't know how,1 day,Not low
+English,47,2016,F,Other,Other,Black/African American,College,No,No,No,No,No,Poor,3-Apr,1,0 days,0 days,1 day,Not low
+English,59,2017,F,Medicaid,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,No,Fair,3-Apr,1,1-Mar,1-Mar,4 days,Low
+English,63,2015,M,MediCARE,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Good,3-Apr,3 or more,0 days,0 days,0 days,Not low
+English,56,2015,F,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Poor,5 or more,0,0 days,0 days,5 or more days,Not low
+English,48,2017,F,MediCARE,CommUnityCare,Black/African American,9-Nov,Yes,No,Yes,No,No,Poor,3-Apr,3 or more,1-Mar,0 days,5 or more days,Not low
+English,67,2015,F,MediCARE,Emergency Room,Black/African American,College,Yes,No,No,No,No,Poor,1-Feb,0,0 days,0 days,4 days,Not low
+English,46,2017,F,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Poor,1-Feb,0,0 days,I don't know how,1 day,Not low
+English,74,2017,M,MediCARE,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+English,60,2015,M,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,1-Feb,3 or more,0 days,0 days,1 day,Not low
+English,60,2015,M,Medicaid,CommUnityCare,Black/African American,High School GED,Yes,No,Yes,Yes,Yes,Good,1-Feb,0,4 or more,0 days,4 days,Low
+English,57,2016,F,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Poor,3-Apr,1,0 days,0 days,5 or more days,Not low
+English,53,2017,F,MediCARE,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Poor,1-Feb,0,0 days,0 days,0 days,Not low
+English,49,2015,F,Other,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,5 or more,0,4 or more,0 days,0 days,Not low
+English,39,2015,F,Other,Doctor's Office,Black/African American,College,Yes,Yes,No,No,Yes,Fair,3-Apr,2,0 days,0 days,0 days,Not low
+English,60,2017,F,None,CommUnityCare,Black/African American,College,No,No,Yes,No,Yes,Fair,0,0,1-Mar,1-Mar,1 day,Low
+English,34,2015,F,None,No regular place of care,Black/African American,College,No,No,No,No,No,Fair,1-Feb,2,0 days,0 days,1 day,Low
+English,51,2016,M,MAP,CommUnityCare,Black/African American,College,Yes,No,Yes,Yes,Yes,Fair,1-Feb,3 or more,0 days,0 days,5 or more days,Low
+English,63,2017,F,Private insurance,Doctor's Office,Black/African American,College,Yes,No,Yes,No,No,Fair,3-Apr,1,0 days,0 days,0 days,Not low
+English,59,2017,M,Private insurance,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,Yes,Fair,0,1,1-Mar,0 days,5 or more days,Not low
+English,67,2016,F,Private insurance,Doctor's Office,Black/African American,College,Yes,No,Yes,Yes,Yes,Poor,1-Feb,0,0 days,0 days,3 days,Not low
+English,57,2017,M,Medicaid,Lone Star Circle of Care,Black/African American,College,No,No,Yes,No,Yes,Fair,5 or more,1,4 or more,1-Mar,5 or more days,Low
+English,68,2017,M,Medicaid,Other,Black/African American,College,No,No,No,No,Yes,Good,1-Feb,1,4 or more,4 or more,4 days,Low
+English,51,2017,F,Private insurance,Doctor's Office,Black/African American,High School GED,Yes,No,No,No,No,Fair,1-Feb,0,0 days,0 days,1 day,Not low
+English,56,2016,F,Medicaid,Other,Black/African American,High School GED,Yes,No,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,1 day,Low
+English,62,2017,M,Private insurance,No regular place of care,Black/African American,College,Yes,No,Yes,No,Yes,Fair,0,0,0 days,0 days,3 days,Not low
+English,63,2015,F,Private insurance,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Fair,3-Apr,0,1-Mar,1-Mar,1 day,Not low
+English,75,2017,F,MediCARE,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Fair,1-Feb,2,0 days,0 days,2 days,Not low
+English,74,2017,M,MediCARE,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Good,1-Feb,0,1-Mar,1-Mar,1 day,Not low
+English,60,2015,F,MediCARE,CommUnityCare,Black/African American,9-Nov,Yes,No,Yes,No,Yes,Good,1-Feb,1,0 days,0 days,0 days,Not low
+English,62,2017,F,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,2 days,Not low
+English,62,2017,F,Private insurance,Other,Black/African American,College,Yes,No,Yes,No,Yes,Good,1-Feb,1,0 days,0 days,0 days,Not low
+English,53,2016,M,Private insurance,Seton Clinics,Black/African American,High School GED,Yes,No,No,No,No,Fair,0,0,1-Mar,1-Mar,0 days,Not low
+English,62,2015,F,Medicaid,Doctor's Office,Black/African American,College,Yes,No,No,No,No,Good,3-Apr,1,0 days,0 days,4 days,Low
+English,62,2016,F,None,People's Community Clinic,Black/African American,9-Nov,Yes,No,Yes,Yes,No,Good,0,2,I don't know how,I don't know how,0 days,Low
+English,60,2017,F,Private insurance,Doctor's Office,Black/African American,College,Yes,No,No,No,Yes,Good,1-Feb,1,0 days,0 days,3 days,Not low
+English,59,2016,F,MediCARE,CommUnityCare,Black/African American,College,No,No,No,No,No,Fair,0,Not Sure,I don't know how,I don't know how,0 days,Not low
+English,86,2016,F,MediCARE,Emergency Room,Black/African American,College,Yes,Yes,Yes,No,Yes,Good,1-Feb,1,0 days,0 days,3 days,Not low
+English,66,2016,M,MediCARE,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,Yes,Fair,1-Feb,0,0 days,0 days,2 days,Not low
+English,67,2016,F,MediCARE,Doctor's Office,Black/African American,College,No,No,No,Yes,Yes,Good,1-Feb,2,1-Mar,0 days,5 or more days,Not low
+English,62,2017,F,MediCARE,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Poor,0,3 or more,0 days,0 days,5 or more days,Not low
+English,26,2015,M,None,No regular place of care,Black/African American,College,No,No,No,No,No,Poor,0,1,0 days,0 days,3 days,Low
+English,62,2016,F,Medicaid,Doctor's Office,Black/African American,High School GED,Yes,Yes,Yes,No,Yes,Fair,3-Apr,1,4 or more,4 or more,1 day,Low
+English,77,2017,F,Medicaid,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Fair,1-Feb,0,I don't know how,I don't know how,3 days,Low
+English,86,2017,F,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Good,1-Feb,0,I don't know how,I don't know how,2 days,Not low
+English,69,2017,F,Private insurance,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,Yes,Good,3-Apr,1,0 days,0 days,1 day,Not low
+English,51,2016,F,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Fair,1-Feb,1,0 days,0 days,3 days,Not low
+English,54,2015,F,Other,Other,Black/African American,College,Yes,No,No,No,No,Fair,1-Feb,1,1-Mar,1-Mar,0 days,Not low
+English,71,2017,F,MediCARE,Doctor's Office,Black/African American,College,No,No,No,No,Yes,Good,1-Feb,1,0 days,4 or more,3 days,Not low
+English,40,2015,M,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Fair,0,1,0 days,0 days,1 day,Not low
+English,61,2015,M,MAP,Lone Star Circle of Care,Black/African American,College,Yes,No,Yes,No,Yes,Fair,1-Feb,1,1-Mar,0 days,3 days,Low
+English,66,2017,F,MediCARE,Doctor's Office,Black/African American,College,Yes,No,Yes,No,No,Fair,Not Sure,1,0 days,0 days,0 days,Not low
+English,58,2017,F,MediCARE,Doctor's Office,Black/African American,College,Yes,No,Yes,No,No,Poor,1-Feb,0,0 days,1-Mar,2 days,Not low
+English,71,2015,F,MediCARE,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Fair,3-Apr,0,I don't know how,0 days,4 days,Not low
+English,82,2016,F,MediCARE,No regular place of care,Black/African American,1-Aug,Yes,Yes,Yes,No,Yes,Fair,3-Apr,2,0 days,0 days,2 days,Not low
+English,84,2017,F,Medicaid,Other,Black/African American,College,No,No,Yes,No,No,Fair,1-Feb,0,I don't know how,0 days,3 days,Low
+English,60,2016,F,Other,CommUnityCare,Black/African American,College,Yes,No,Yes,No,Yes,Good,0,0,0 days,0 days,0 days,Not low
+English,53,2017,F,Private insurance,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Fair,1-Feb,0,0 days,0 days,0 days,Not low
+English,66,2017,F,Private insurance,Doctor's Office,Black/African American,High School GED,No,No,Yes,No,No,Fair,1-Feb,1,0 days,1-Mar,3 days,Not low
+English,57,2015,F,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,Yes,Good,5 or more,0,4 or more,4 or more,5 or more days,Not low
+English,70,2015,M,Other,Other,Black/African American,College,Yes,No,No,No,Yes,Fair,1-Feb,0,0 days,0 days,3 days,Not low
+English,40,2017,F,Private insurance,Doctor's Office,Black/African American,College,Yes,No,No,No,No,Fair,1-Feb,0,0 days,0 days,5 or more days,Not low
+English,52,2017,F,Private insurance,Other,Black/African American,College,Yes,No,Yes,No,No,Fair,1-Feb,2,0 days,0 days,0 days,Not low
+English,72,2017,F,MediCARE,Seton Clinics,Black/African American,College,Yes,Yes,Yes,No,Yes,Good,1-Feb,0,0 days,0 days,3 days,Not low
+English,36,2017,F,None,People's Community Clinic,Black/African American,9-Nov,Yes,No,No,No,Yes,Fair,1-Feb,1,0 days,4 or more,0 days,Low
+English,49,2016,M,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,Yes,Fair,3-Apr,2,1-Mar,0 days,3 days,Not low
+English,67,2016,M,Private insurance,Other,Black/African American,College,No,No,No,No,Yes,Good,3-Apr,0,0 days,0 days,5 or more days,Not low
+English,56,2015,M,Other,Lone Star Circle of Care,Black/African American,College,Yes,No,Yes,No,Yes,Good,1-Feb,0,4 or more,4 or more,1 day,Not low
+English,40,2015,F,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,1-Feb,2,4 or more,0 days,3 days,Not low
+English,32,2017,F,Private insurance,Doctor's Office,Black/African American,College,Yes,No,No,No,No,Fair,1-Feb,0,I don't know how,1-Mar,2 days,Not low
+English,64,2017,M,Private insurance,Emergency Room,Black/African American,College,No,No,No,No,Yes,Fair,1-Feb,0,0 days,0 days,Not Sure,Not low
+English,21,2015,F,Medicaid,Doctor's Office,Black/African American,College,No,No,No,No,Yes,Fair,1-Feb,3 or more,0 days,0 days,0 days,Low
+English,59,2017,F,Private insurance,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,No,Poor,1-Feb,1,1-Mar,0 days,4 days,Not low
+English,70,2016,F,Private insurance,Other,Black/African American,High School GED,Yes,Yes,Yes,No,Yes,Good,1-Feb,1,0 days,0 days,2 days,Not low
+English,60,2015,M,Medicaid,CommUnityCare,Black/African American,High School GED,Yes,No,Yes,Yes,Yes,Good,1-Feb,0,4 or more,0 days,4 days,Low
+English,62,2017,F,None,CommUnityCare,Black/African American,College,Yes,Yes,Yes,No,Yes,Good,1-Feb,1,1-Mar,1-Mar,3 days,Low
+English,85,2017,F,Medicaid,People's Community Clinic,Black/African American,9-Nov,Yes,No,Yes,No,Yes,Good,1-Feb,1,0 days,0 days,2 days,Low
+English,49,2016,M,None,No regular place of care,Black/African American,College,No,No,No,No,No,Poor,0,1,0 days,0 days,4 days,Low
+English,51,2017,F,MediCARE,Doctor's Office,Black/African American,College,No,No,No,No,Yes,Fair,1-Feb,1,1-Mar,0 days,Not Sure,Not low
+English,56,2017,F,Medicaid,Other,Black/African American,College,No,No,Yes,No,No,Poor,1-Feb,0,1-Mar,0 days,5 or more days,Low
+English,57,2016,F,Private insurance,Doctor's Office,Black/African American,College,Yes,No,Yes,No,No,Poor,1-Feb,1,0 days,0 days,4 days,Not low
+English,42,2017,M,Other,No regular place of care,Black/African American,College,No,No,No,No,No,Poor,3-Apr,3 or more,0 days,0 days,2 days,Not low
+English,64,2017,F,MAP,CommUnityCare,Black/African American,High School GED,No,No,Yes,No,Yes,Good,1-Feb,2,1-Mar,1-Mar,1 day,Low
+English,65,2017,F,MediCARE,Doctor's Office,Black/African American,College,No,No,Yes,No,Yes,Fair,1-Feb,0,1-Mar,0 days,2 days,Not low
+English,69,2015,M,MediCARE,Doctor's Office,Black/African American,College,No,No,No,No,Yes,Good,3-Apr,2,4 or more,0 days,0 days,Not low
+English,53,2017,F,Other,Other,Black/African American,College,Yes,Yes,Yes,No,Yes,Good,1-Feb,2,I don't know how,I don't know how,3 days,Not low
+English,65,2017,F,MediCARE,Doctor's Office,Black/African American,College,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,3 days,Not low
+English,40,2016,F,Medicaid,Doctor's Office,Black/African American,High School GED,Yes,No,No,No,Yes,Good,3-Apr,0,0 days,0 days,1 day,Low
+English,75,2015,F,MediCARE,Seton Clinics,Black/African American,College,Yes,Yes,Yes,No,No,Good,3-Apr,0,1-Mar,0 days,0 days,Not low
+English,40,2015,F,None,No regular place of care,Black/African American,College,No,No,No,No,Yes,Good,Not Sure,1,1-Mar,1-Mar,5 or more days,Low
+English,55,2017,M,Private insurance,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,No,Fair,1-Feb,2,0 days,0 days,1 day,Not low
+English,61,2017,F,Medicaid,Doctor's Office,Black/African American,College,No,No,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,0 days,Low
+English,75,2016,F,MediCARE,Doctor's Office,Black/African American,High School GED,No,No,No,No,Yes,Fair,5 or more,2,1-Mar,1-Mar,5 or more days,Not low
+English,84,2017,M,Medicaid,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,3-Apr,0,0 days,0 days,3 days,Low
+English,51,2016,M,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,1 day,Not low
+English,72,2017,M,MediCARE,Doctor's Office,Black/African American,College,No,Yes,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,0 days,Not low
+English,46,2017,F,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Good,1-Feb,1,0 days,0 days,1 day,Not low
+English,57,2015,M,Other,Other,Black/African American,College,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,1 day,Not low
+English,41,2016,F,Private insurance,Doctor's Office,Black/African American,College,Yes,No,No,Yes,No,Poor,1-Feb,1,0 days,0 days,0 days,Not low
+English,55,2015,F,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,Yes,Good,1-Feb,1,1-Mar,4 or more,2 days,Not low
+English,51,2016,F,Medicaid,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Fair,1-Feb,1,1-Mar,1-Mar,4 days,Low
+English,55,2017,F,Other,Other,Black/African American,College,Yes,No,No,No,No,Fair,5 or more,0,1-Mar,0 days,3 days,Not low
+English,52,2017,F,Other,CommUnityCare,Black/African American,College,Yes,No,Yes,No,Yes,Good,1-Feb,1,4 or more,1-Mar,4 days,Not low
+English,79,2016,F,MediCARE,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Good,3-Apr,0,1-Mar,0 days,1 day,Not low
+English,40,2016,F,Other,Other,Black/African American,College,No,No,No,No,No,Fair,3-Apr,0,4 or more,4 or more,2 days,Not low
+English,42,2016,M,MediCARE,Seton Clinics,Black/African American,9-Nov,No,No,No,Yes,No,Poor,1-Feb,2,0 days,0 days,3 days,Not low
+English,50,2016,F,Private insurance,Doctor's Office,Black/African American,High School GED,No,No,Yes,No,No,Fair,3-Apr,2,4 or more,1-Mar,5 or more days,Not low
+English,56,2015,F,Medicaid,Other,Black/African American,College,Yes,No,Yes,No,Yes,Good,3-Apr,1,4 or more,4 or more,5 or more days,Low
+English,54,2016,F,Private insurance,People's Community Clinic,Black/African American,High School GED,Yes,No,Yes,Yes,Yes,Poor,1-Feb,0,0 days,0 days,0 days,Not low
+English,40,2017,F,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,Yes,Good,1-Feb,1,1-Mar,1-Mar,3 days,Not low
+English,61,2015,F,Private insurance,Doctor's Office,Black/African American,College,Yes,Yes,Yes,No,Yes,Fair,1-Feb,1,1-Mar,1-Mar,5 or more days,Not low
+English,73,2017,F,MediCARE,Doctor's Office,Black/African American,High School GED,Yes,Yes,Yes,No,No,Fair,1-Feb,2,0 days,0 days,0 days,Not low
+English,40,2017,F,Medicaid,CommUnityCare,Black/African American,High School GED,Yes,No,Yes,Yes,Yes,Fair,1-Feb,2,0 days,0 days,1 day,Low
+English,66,2016,F,Private insurance,CommUnityCare,Black/African American,High School GED,Yes,Yes,Yes,No,Yes,Poor,1-Feb,0,0 days,0 days,2 days,Not low
+English,64,2015,F,MediCARE,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Good,3-Apr,0,1-Mar,1-Mar,0 days,Not low
+English,66,2017,F,MediCARE,Doctor's Office,Black/African American,College,No,Yes,Yes,No,Yes,Good,3-Apr,1,1-Mar,0 days,3 days,Not low
+English,42,2016,F,Medicaid,CommUnityCare,Black/African American,9-Nov,Yes,No,Yes,No,Yes,Good,1-Feb,1,1-Mar,1-Mar,5 or more days,Low
+English,69,2017,F,MediCARE,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Good,1-Feb,1,0 days,0 days,2 days,Not low
+English,64,2015,M,Private insurance,CommUnityCare,Black/African American,College,No,No,Yes,No,No,Good,3-Apr,0,0 days,0 days,0 days,Not low
+English,53,2015,F,Private insurance,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Fair,3-Apr,1,0 days,0 days,1 day,Not low
+English,91,2017,F,MediCARE,CommUnityCare,Black/African American,College,No,No,Yes,No,No,Poor,3-Apr,0,4 or more,4 or more,5 or more days,Not low
+English,60,2016,M,Private insurance,Doctor's Office,Black/African American,College,Yes,No,No,Yes,No,Good,1-Feb,1,0 days,0 days,1 day,Not low
+English,55,2016,F,Private insurance,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,Yes,Fair,5 or more,0,4 or more,0 days,0 days,Not low
+English,33,2017,F,Other,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Fair,1-Feb,1,1-Mar,1-Mar,1 day,Not low
+English,67,2016,F,MediCARE,Other,Black/African American,College,No,No,No,No,No,Fair,1-Feb,2,0 days,0 days,5 or more days,Not low
+English,68,2017,F,MediCARE,Doctor's Office,Black/African American,College,Yes,Yes,Yes,No,Yes,Good,5 or more,0,1-Mar,1-Mar,5 or more days,Not low
+English,65,2015,F,Medicaid,Doctor's Office,Black/African American,High School GED,No,No,No,No,Yes,Good,1-Feb,0,0 days,0 days,2 days,Low
+English,61,2016,M,None,Other,Black/African American,High School GED,No,No,No,Yes,No,Poor,1-Feb,1,0 days,0 days,0 days,Low
+English,85,2015,F,Medicaid,Doctor's Office,Black/African American,College,Yes,Yes,Yes,No,Yes,Fair,1-Feb,1,0 days,0 days,2 days,Low
+English,72,2017,F,Other,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Fair,1-Feb,1,1-Mar,1-Mar,3 days,Not low
+English,56,2017,F,Private insurance,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Fair,1-Feb,1,1-Mar,1-Mar,4 days,Not low
+English,56,2015,M,Medicaid,Doctor's Office,Black/African American,College,Yes,Yes,Yes,No,No,Poor,1-Feb,0,I don't know how,I don't know how,3 days,Low
+English,56,2015,M,Other,Lone Star Circle of Care,Black/African American,College,Yes,No,Yes,No,Yes,Good,1-Feb,0,4 or more,4 or more,1 day,Not low
+English,64,2015,M,Other,Doctor's Office,Black/African American,College,Yes,No,Yes,No,Yes,Good,3-Apr,1,0 days,0 days,2 days,Not low
+English,58,2015,F,Private insurance,Doctor's Office,Black/African American,College,No,No,Yes,No,No,Good,1-Feb,1,0 days,0 days,2 days,Not low
+English,49,2015,F,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Poor,1-Feb,2,0 days,0 days,2 days,Not low
+English,45,2016,M,Other,Doctor's Office,Black/African American,College,No,No,No,No,Yes,Fair,1-Feb,2,0 days,0 days,0 days,Not low
+English,65,2017,F,MediCARE,Doctor's Office,Black/African American,High School GED,No,No,Yes,No,No,Fair,1-Feb,0,0 days,0 days,3 days,Not low
+English,68,2016,F,MediCARE,Other,Black/African American,High School GED,No,No,Yes,No,Yes,Fair,1-Feb,3 or more,0 days,0 days,1 day,Not low
+English,40,2015,F,Private insurance,Doctor's Office,Black/African American,High School GED,Yes,No,No,No,No,Good,1-Feb,2,1-Mar,4 or more,3 days,Not low
+English,70,2017,F,MediCARE,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,3-Apr,0,0 days,1-Mar,0 days,Not low
+English,49,2016,F,Private insurance,Other,Black/African American,College,Yes,No,No,No,Yes,Fair,1-Feb,0,0 days,0 days,2 days,Not low
+English,76,2016,F,Medicaid,CommUnityCare,Black/African American,9-Nov,No,No,No,No,Yes,Good,1-Feb,2,1-Mar,1-Mar,5 or more days,Low
+English,50,2017,F,Other,Other,Black/African American,College,No,No,No,No,No,Poor,1-Feb,0,1-Mar,4 or more,2 days,Not low
+English,57,2016,F,Private insurance,CommUnityCare,Black/African American,College,Yes,No,Yes,No,Yes,Fair,3-Apr,1,1-Mar,1-Mar,4 days,Not low
+English,60,2015,F,Private insurance,Other,Black/African American,College,Yes,No,Yes,No,Yes,Good,1-Feb,1,0 days,0 days,0 days,Not low
+English,66,2015,M,Medicaid,Seton Clinics,Black/African American,College,Yes,No,No,No,Yes,Good,1-Feb,0,0 days,1-Mar,5 or more days,Low
+English,85,2017,F,Medicaid,Other,Black/African American,College,Yes,No,No,No,Yes,Good,1-Feb,1,4 or more,4 or more,3 days,Low
+English,71,2017,F,MediCARE,Doctor's Office,Black/African American,College,No,Yes,Yes,No,No,Good,1-Feb,1,1-Mar,0 days,2 days,Not low
+English,72,2015,F,Private insurance,Doctor's Office,Black/African American,High School GED,Yes,No,Yes,No,Yes,Fair,1-Feb,2,0 days,0 days,0 days,Not low
+English,37,2015,M,Private insurance,Doctor's Office,Black/African American,College,No,No,No,No,No,Fair,1-Feb,1,0 days,0 days,2 days,Not low
+English,45,2017,M,MAP,People's Community Clinic,Black/African American,High School GED,Yes,Yes,Yes,No,Yes,Good,1-Feb,1,1-Mar,1-Mar,0 days,Low
+English,53,2015,F,Private insurance,Other,Black/African American,College,No,No,No,No,No,Fair,0,1,1-Mar,4 or more,1 day,Not low
+English,23,2015,F,MAP,CommUnityCare,Black/African American,College,Yes,No,No,No,No,Fair,3-Apr,3 or more,1-Mar,I don't know how,5 or more days,Low
+English,59,2016,M,Private insurance,Doctor's Office,Black/African American,High School GED,Yes,No,No,No,Yes,Good,0,1,0 days,0 days,4 days,Not low
+English,59,2017,M,Other,Doctor's Office,Black/African American,College,No,No,Yes,No,Yes,Good,1-Feb,1,1-Mar,0 days,4 days,Not low
