@@ -1,0 +1,634 @@
+---
+title: "BC2407 Computer Based Assessment"
+author: "Ng Chi Hui"
+date: "4/13/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Get Working Directory and Set Working Directory
+```{r, results = 'hide'}
+current_path = rstudioapi::getActiveDocumentContext()$path 
+setwd(dirname(current_path))
+```
+
+
+Download all libraries needed to run the code
+```{r, results = 'hide', message = FALSE}
+if(!require("skimr"))install.packages("skimr")
+```
+
+
+Load the necessary Libraries
+```{r,results = 'hide', message = FALSE}
+library(data.table)
+library(dplyr)
+library(ggplot2)
+library(caTools)
+library(car)
+library(randomForest)
+library(earth)
+library(tidyr)
+```
+
+# Part A: Data Exploration and Preparation (30%)
+## 1. Data Preparation Part 1:
+### 1a) Import the csv dataset as data1 and ensure that all textual data are treated as categories instead of text string characters. Show your code.
+
+Import the csv dataset as data1
+```{r, results = 'hide'}
+data1 <- fread("resale-flat-prices-201701-202103.csv", na.strings = c(""), stringsAsFactors = T, header = T)
+```
+
+Ensure that all textual data are treated as categories instead of text string characters
+```{r}
+sapply(data1, class)
+```
+This shows that all textual data have the data type of "factor". Only resale_price, floor_area_sqm have "numeric" data type and lease_commence_date have data type of "integer"
+
+### 1b) Create a new derived variable remaining_lease_yrs (defined as remaining lease in years) from remaining_lease and save as an integer datatype column in data1. Show your code.
+
+Create a new derived variable remaining_lease_yrs (defined as remaining lease in years) from remaining_lease
+```{r}
+data1$remaining_lease_yrs <- copy(data1$remaining_lease)
+any(names(data1) == "remaining_lease_yrs")
+```
+The derived column "remaining_lease_years" is derived by the data from the remaining_lease data. Followed by only keeping the values for years
+
+```{r}
+data1$remaining_lease_yrs <- substr(data1$remaining_lease_yrs, 1, 2)
+head(data1$remaining_lease_yrs)
+```
+
+Save as an integer datatype column in data1.
+```{r}
+data1$remaining_lease_yrs <-as.integer(data1$remaining_lease_yrs)
+class(data1$remaining_lease_yrs)
+```
+
+### 1c) Remove lease_commence_date and remaining_lease from data1
+```{r}
+data1[ ,`:=`(lease_commence_date = NULL, remaining_lease = NULL)] 
+any(names(data1) == "lease_commence_date")
+any(names(data1) == "remaining_lease")
+```
+
+### 1d) Create a new derived variable block_street by combining block and street information (with one white space as separator) and save as a categorical datatype column in data1. Remove block and street_name from data1. Show your code
+
+Create derived variable block_street first
+```{r}
+data1$block_street <- paste(data1$block, " ", data1$street_name)
+head(data1$block_street)
+```
+
+Save as categorical datatype
+```{r}
+data1$block_street <- factor(data1$block_street)
+class(data1$block_street)
+```
+
+Remove block and street_name from data1
+```{r}
+data1[ ,`:=`(block = NULL, street_name = NULL)] 
+any(names(data1) == "block")
+any(names(data1) == "street_name")
+```
+
+## 2. Data Exploration:
+
+### a. Which month year has the (i) lowest transaction volume, (ii) highest transaction volume, and what are their number of sales?
+
+```{r, message = FALSE}
+salesDataByMonth <- data1 %>% 
+  group_by(month) %>% 
+  summarise(count = n())
+head(salesDataByMonth)
+```
+
+(i) Lowest Transaction Volume
+```{r}
+salesDataByMonth[which.min(salesDataByMonth$count),]
+```
+
+(ii) Highest Transaction Volume
+```{r}
+salesDataByMonth[which.max(salesDataByMonth$count),]
+```
+
+### b. Which town has the (i) lowest transaction volume, (ii) highest transaction volume, and what are their number of sales?
+
+```{r, message = FALSE}
+salesDatabyTown <- data1 %>% 
+  group_by(town) %>% 
+  summarise(count = n())
+head(salesDatabyTown)
+```
+
+(i) Lowest Transaction Volume
+```{r}
+salesDatabyTown[which.min(salesDatabyTown$count),]
+```
+
+(ii) Highest Transaction Volume
+```{r}
+salesDatabyTown[which.max(salesDatabyTown$count),]
+```
+
+### c. Generate an output that shows the top 5 resale prices and bottom 5 resale prices in terms of flat_type, block_street, town, floor_area_sqm, storey_range, and resale_price.
+
+Top 5 resale prices
+```{r}
+data1 %>%
+  arrange(desc(resale_price)) %>%
+  slice(1:5) %>%
+  select(resale_price, flat_type, block_street, town, floor_area_sqm, storey_range)
+```
+
+Bottom 5 resale prices
+```{r}
+data1 %>%
+  arrange(desc(resale_price)) %>%
+  slice(tail(row_number(), 5)) %>%
+  select(resale_price, flat_type, block_street, town, floor_area_sqm, storey_range)
+```
+
+### d. Conduct additional data exploration. Show (with screenshots of software outputs) and explain the interesting findings discovered.
+
+Distribution of Resale Prices
+```{r, echo = FALSE}
+hist(data1$resale_price, breaks = 30, col = "sky blue", xlab = "Resale Prices", main = "Histogram of Resale Prices")
+```
+
+The predictor variable of HDB resale_prices is right skewed, which  might affect how the models are being build later on
+```{r}
+data1 %>%
+  gather(flat_type, flat_model,storey_range, town, key = "var", value ="type") %>% 
+  ggplot(aes(x=factor(type)))+
+  geom_bar(stat="count", width=0.5, fill="steelblue")+
+  facet_wrap(~ var, scales = "free") +
+  theme_bw() + 
+  theme(axis.text.x=element_text(size=rel(1), angle=90))
+```
+
+Deviation from town and resale_price
+```{r}
+tmp <- data1[,mean(resale_price), by = "town"]
+tmp$avg_price <- tmp$V1
+tmp$V1 <- NULL
+tmp$normalized_price <- ((tmp$avg_price - mean(tmp$avg_price))/sd(tmp$avg_price))
+tmp <- tmp[order(normalized_price)]
+tmp$town <- factor(tmp$town, levels = tmp$town)
+tmp$type <- ifelse(tmp$normalized_price < 0, "Below", "Above")
+ggplot(tmp, aes(x=town, y=normalized_price, label=normalized_price)) + 
+  geom_bar(stat='identity', aes(fill=type), width=.75)  +
+  theme(axis.text = element_text(size = 8)) +
+  scale_fill_manual(name="Average Price", 
+                    labels = c("Above Average", "Below Average"), 
+                    values = c("Above"="dark orange", "Below"="blue")) +
+   theme(axis.text.x=element_text(size=rel(1), angle=90))
+```
+code source: http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#2.%20Deviation
+
+```{r}
+#To see the relationship between resale_price and all the various predictor variables
+data1 %>%
+  gather (flat_model, town, flat_type, storey_range, key = "var", value = "value") %>%
+  ggplot(aes(x = value, y =resale_price )) +
+  geom_boxplot() +
+  facet_wrap(~var, scales = "free") +
+  theme_bw() + 
+  theme(axis.text.x=element_text(size=rel(1), angle=90))
+```
+
+```{r}
+cortbl <- melt(round(cor(data.frame(data1)[c("floor_area_sqm", "resale_price", "remaining_lease_yrs")]),2))
+ggplot(data = cortbl, aes(Var2, Var1, fill = value)) + geom_tile(color = "white") +
+  scale_fill_gradient2(low = "dark blue", high = "dark red", mid = "beige",midpoint = 0, limit = c(-1,1), space = "Lab") + theme_minimal() + coord_fixed() +
+  geom_text(aes(Var2, Var1, label = value), color = "black", size = 5)  + ggtitle("Correlation Matrix of Continuous Variables")
+```
+There appears to be a strong postive correlation betweeen resale_price and floor_area_sqm
+
+```{r}
+ggplot(data1, aes(x = floor_area_sqm, y = resale_price, colour = flat_type))  + 
+  geom_point(size = 1.1) +
+  labs(x = 'floor_area_sqm', y = 'resale_price',
+       position = position_dodge(.9)) +
+  theme(axis.text.x = element_text(size = 5),
+        axis.text.y = element_text(size = 5),
+        legend.title = element_text(size=5),
+        legend.text = element_text(size = 5))
+```
+
+```{r}
+ggplot(data1, aes(x = remaining_lease_yrs, y = resale_price, colour = flat_type))  + 
+  geom_point(size = 1.1) +
+  labs(x = 'remaining_lease_yrs', y = 'resale_price',
+       position = position_dodge(.9)) +
+  theme(axis.text.x = element_text(size = 5),
+        axis.text.y = element_text(size = 5),
+        legend.title = element_text(size=5),
+        legend.text = element_text(size = 5))
+```
+
+Number of Transactions by Town
+```{r}
+salesDatabyTown
+noTranscationsbyTown <- ggplot(data = data1, aes(x = factor(town), 
+                        y = prop.table(stat(count)), 
+                        fill = factor(town), 
+                        label = scales::percent(prop.table(stat(count))))) +
+  geom_bar(position = "dodge", show.legend = FALSE) + 
+  geom_text(stat = 'count',
+            position = position_dodge(.9), 
+            vjust = -0.5, 
+            size = 3) + 
+  scale_y_continuous(labels = scales::percent) + 
+  labs(x = 'Towns', y = 'pct',
+       title = "Percentage of Total Transcations") +
+  theme(axis.text.x = element_text(size = 4),
+        axis.text.y = element_text(size = 20)) 
+noTranscationsbyTown
+```
+
+Number of Transcations by flat_type
+```{r}
+salesDatabyFlatType <- data1 %>% 
+  group_by(flat_type) %>% 
+  summarise(count = n())
+salesDatabyFlatType
+noTranscationsbyFlatType <- ggplot(data = data1, aes(x = factor(flat_type), 
+                        y = prop.table(stat(count)), 
+                        fill = factor(flat_type), 
+                        label = scales::percent(prop.table(stat(count))))) +
+  geom_bar(position = "dodge", show.legend = FALSE) + 
+  geom_text(stat = 'count',
+            position = position_dodge(.9), 
+            vjust = -0.5, 
+            size = 5) + 
+  scale_y_continuous(labels = scales::percent) + 
+  labs(x = 'flat_type', y = 'pct',
+       title = "Percentage of Total Transcations") +
+  theme(axis.text.x = element_text(size = 8),
+        axis.text.y = element_text(size = 20)) 
+noTranscationsbyFlatType
+```
+
+## 3. Data Preparation Part 2:
+
+### 3a. Copy data1 and save as data2. Show your code.
+```{r}
+data2 <- data1 
+head(data2)
+```
+
+### b. Remove flat_type "1 ROOM" and "MULTI-GENERATION" cases from data2, and ensure these levels are also removed from the categorical level definition1. Show the categorical levels of flat_type and list the number of cases by flat_type.
+
+Remove flat_type "1 ROOM" and "MULTI-GENERATION" 
+```{r}
+data2 <- data2[data2$flat_type != "1 ROOM"]
+data2 <- data2[data2$flat_type != "MULTI-GENERATION"]
+```
+
+Remove levels and show the categorical levels of flat_type
+```{r}
+data2$flat_type <- factor(data2$flat_type)
+levels(data2$flat_type)
+```
+
+List the number of cases by flat_types
+```{r,message = FALSE}
+data2 %>%
+  group_by(flat_type) %>%
+  summarise(count = n())
+```
+
+### c. Remove block_street from data2. Show your code.
+```{r}
+data2[ ,`:=`(block_street = NULL)] 
+any(names(data2) == "block_street")
+```
+
+### d. In data2, create a new variable storey by copying storey_range, and then create and use the categorical level “40 to 51” to combine all the relevant storey levels into this bigger category. Show and verify that the categorical levels in storey are created correctly to hold the right cases.
+
+copy storey_range
+```{r}
+data2$storey <- copy(data2$storey_range)
+any(names(data2) == "storey")
+```
+
+```{r}
+levels(data2$storey)[levels(data2$storey)%in%c("40 TO 42","43 TO 45","46 TO 48","46 TO 48", "49 TO 51")] <- "40 TO 51"
+data2$storey <- as.factor(data2$storey)
+levels(data2$storey)
+```
+
+### e. Show the categorical levels in storey and list the number of cases by storey.
+```{r}
+levels(data2$storey)
+```
+
+```{r,message = FALSE}
+data2 %>%
+  group_by(storey) %>%
+  summarise(count = n())
+```
+
+### f. Remove storey_range from data2. Show your code.
+```{r}
+data2[ ,`:=`(storey_range = NULL)] 
+any(names(data1) == "storey_range")
+```
+
+### g. Remove flat model "2-room", "Premium Maisonette" and "Improved- Maisonette" cases from data2, and ensure these levels are also removed from the categorical level definition. Show the categorical levels of flat_model and list the number of cases by flat_model.
+
+Remove flat model "2-room", "Premium Maisonette" and "Improved- Maisonette" cases from data2
+```{r}
+data2 <- data2[data2$flat_model != "2-room"]
+data2 <- data2[data2$flat_model != "Premium Maisonette"]
+data2 <- data2[data2$flat_model != "Improved-Maisonette"]
+```
+
+Ensure these levels are also removed from the categorical level definition
+```{r}
+data2$flat_model <- factor(data2$flat_model)
+levels(data2$flat_model)
+```
+
+List the number of cases by flat_model.
+```{r, message= FALSE}
+data2 %>%
+  group_by(flat_model) %>%
+  summarise(count = n())
+```
+
+### h. How many cases and columns are in data2 after completing all the data prep steps above?
+```{r}
+ncol(data2)
+```
+```{r}
+nrow(data2)
+```
+### i .	Suggest a reason for executing such data preparation steps listed above. 
+
+Distribution of flat_type in original dataset
+```{r, echo= FALSE, message = FALSE}
+plot(data1$flat_type)
+data1 %>%
+  group_by(flat_type) %>%
+  summarise(count = n()) %>%
+  mutate(percent = (count/sum(count) * 100))
+```
+
+Distribution of storey_range in original dataset
+```{r, echo= FALSE, message = FALSE}
+plot(data1$storey_range)
+data1 %>%
+  group_by(storey_range) %>%
+  summarise(count = n()) %>%
+  mutate(percent = (count/sum(count) * 100))
+```
+
+Distribution of flat_model 
+```{r, echo= FALSE, message = FALSE}
+plot(data1$flat_model)
+data1 %>%
+  group_by(flat_model) %>%
+  summarise(count = n()) %>%
+  mutate(percent = (count/sum(count) * 100))
+```
+
+
+# Part B: Advanced Predictive Techniques and Insight (40%)
+
+## 4. Set seed as 2021 and do 70-30 train-test split on data2. Execute (i) Linear Regression (all predictor variables), (ii) MARS degree 2, and (iii) Random Forest to predict the target variable. Create and show a summary table that lists the trainset RMSE and testset RMSE for the 3 models (to nearest dollar). Which model performed the best?
+
+Set seed as 2021 and do 70-30 train-test split on data2
+```{r}
+set.seed(2021)
+train <- sample.split(Y = data2$resale_price, SplitRatio = 0.7)
+trainset <- subset(data2, train == T)
+testset <- subset(data2, train == F)
+```
+
+#### Creating a dataframe to store the results
+```{r}
+results <- data.frame(matrix(ncol = 3, nrow = 0, dimnames= list(NULL, c("Model", "TrainSet_RSME", "TestSet_RMSE"))))
+``` 
+
+### 4(i) Linear Regression
+
+Running the Standard Linear Regression Model
+```{r}
+m.linearRegression <- lm(resale_price ~ . , data = trainset)
+summary(m.linearRegression)
+```
+
+Checking for Linear Regression Assumptions
+```{r}
+vif(m.linearRegression)
+```
+
+```{r}
+par(mfrow = c(2,2))
+plot(m.linearRegression)
+par(mfrow = c(1,1))
+```
+
+Finding the RSME
+```{r}
+# Standard Linear Regression Trainset RSME
+m.linearRegression.predicted <- predict(m.linearRegression, newdata = trainset)
+trainset.error <- trainset$resale_price - m.linearRegression.predicted
+m.linearRegression.train.rmse <- round(sqrt(mean(trainset.error^2)))
+
+# Standard Linear Regression Testset RSME
+m.linearRegression.predicted <- predict(m.linearRegression, newdata = testset)
+testset.error <- testset$resale_price - m.linearRegression.predicted
+m.linearRegression.test.rmse <- round(sqrt(mean(testset.error^2)))
+```
+
+Writing RSME results into results table
+```{r}
+results[nrow(results) + 1, ] <- c("Standard Linear Regression", m.linearRegression.train.rmse, m.linearRegression.test.rmse)
+```
+
+```{r}
+library(e1071)
+skewness(trainset$resale_price)
+```
+Skewness > 1, distribution of the data is right skewed, better to apply log transformed into the Linear Regression Model
+
+Positive Skew. Log Transformation on dependent variable.
+```{r}
+m.log.linearRegression <- lm(log(resale_price) ~ ., data = trainset)
+```
+
+Checking Log Linear Regression Assumptions
+```{r}
+par(mfrow = c(2,2))
+plot(m.linearRegression)
+par(mfrow = c(1,1))
+```
+
+Finding the RSME
+```{r}
+# Standard Linear Regression Trainset RSME
+m.log.linearRegression.predicted <- exp(predict(m.log.linearRegression, newdata = trainset))
+trainset.error <- trainset$resale_price - m.log.linearRegression.predicted
+m.log.linearRegression.train.rmse <- round(sqrt(mean(trainset.error^2)))
+
+# Standard Linear Regression Testset RSME
+m.log.linearRegression.predicted <- exp(predict(m.log.linearRegression, newdata = testset))
+testset.error <- testset$resale_price - m.log.linearRegression.predicted
+m.log.linearRegression.test.rmse <- round(sqrt(mean(testset.error^2)))
+```
+
+Writing Log Linear Regression RSME results into results table
+```{r}
+results[nrow(results) + 1, ] <- c("Log Linear Regression", m.log.linearRegression.train.rmse, m.log.linearRegression.test.rmse)
+```
+
+Trying to improve the linear regression model using Backwards Elimination
+```{r, message = FALSE}
+library(MASS)
+m.step.backward <- stepAIC(m.log.linearRegression, direction = "backward", trace = FALSE)
+summary(m.step.backward)
+```
+
+Finding the Backwards Elimination Log Linear Regression RSME
+```{r}
+# Backwards Elimination Linear Regression Trainset RSME
+m.step.backward.predicted <- exp(predict(m.step.backward, newdata = trainset))
+trainset.error <- trainset$resale_price - m.step.backward.predicted
+m.step.backward.train.rmse <- round(sqrt(mean(trainset.error^2)))
+
+# Backwards Elimination Linear Regression Testset RSME
+m.step.backward.predicted <- exp(predict(m.step.backward, newdata = testset))
+testset.error <- testset$resale_price - m.step.backward.predicted
+m.step.backward.test.rmse <- round(sqrt(mean(testset.error^2)))
+```
+
+Writing Backwards Log Linear Regression RSME results into results table
+```{r}
+results[nrow(results) + 1, ] <- c("Backward Elimination Log Linear Regression", m.step.backward.train.rmse, m.step.backward.test.rmse)
+```
+Removing statistically insignificant variables did not seem to change the testset RSME in fact, we can see an increase in the trainset RSME.
+
+### 4(ii) MARS degree 2
+
+The earth function from the package earth can be used to implement the MARS (Multi-Variate Adaptive Regression Spline) model
+```{r}
+#start <- Sys.time() # start time
+#m.mars = earth(resale_price ~., degree = 2, data = trainset)
+#end <- Sys.time(t) # end time
+#end - start 
+#saveRDS(m.mars, "./trainedMARS.rds")
+m.mars <- readRDS("./trainedMARS.rds")
+```
+
+Finding the RSME
+```{r}
+# MARS (degree 2) Trainset RSME
+m.mars.predicted <- predict(m.mars, newdata = trainset)
+trainset.error <- trainset$resale_price - m.mars.predicted
+m.mars.train.rmse <- round(sqrt(mean(trainset.error^2)))
+
+# MARS (degree 2) Testset RSME
+m.mars.predicted <- predict(m.mars, newdata = testset)
+testset.error <- testset$resale_price - m.mars.predicted
+m.mars.test.rmse <- round(sqrt(mean(testset.error^2)))
+```
+
+Writing RSME results into results table
+```{r}
+results[nrow(results) + 1, ] <- c("MARS Degree 2", m.mars.train.rmse, m.mars.test.rmse)
+```
+
+### 4(ii) Random Forest
+Begin by running the standard Random Forest using the default settings
+```{r}
+#start <- Sys.time() # start time
+#m.randomForest <- randomForest(resale_price ~ ., data = trainset, importance = T)
+#Saving the trained model to disk
+#saveRDS(m.randomForest, "./trainedRF.rds")
+#end <- Sys.time() # end time
+#end-start 
+#save.image()
+```
+
+Load the trained model for use
+```{r}
+m.randomForest <- readRDS("./trainedRF.rds")
+```
+
+```{r}
+# Final Random Forest Trainset RSME
+m.RandomForest.predicted <- predict(m.randomForest, newdata = trainset)
+trainset.error <- trainset$resale_price - m.RandomForest.predicted
+m.RandomForest.train.rmse <- round(sqrt(mean(trainset.error^2)))
+
+# Final Random Forest Testset RSME
+m.RandomForest.predicted <- predict(m.randomForest, newdata = testset)
+testset.error <- testset$resale_price - m.RandomForest.predicted
+m.RandomForest.test.rmse <- round(sqrt(mean(testset.error^2)))
+```
+
+Writing RSME results into results table
+```{r}
+results[nrow(results) + 1, ] <- c("Random Forest (500 trees)", m.RandomForest.train.rmse, m.RandomForest.test.rmse)
+```
+
+```{r}
+plot(m.randomForest)
+```
+
+The error rate stabilized after 300 trees, so we can set the number of trees to be used in the model as 300.
+
+To further optimize the model, we can try different RSF 
+```{r}
+# n <- length(trainset) - 1
+# RSF <- c(1, floor(sqrt(n)), n)
+# results_RF <- data.frame(B = integer(),RSF = integer(),Train_Set_Error = numeric(),Test_Set_Error = numeric())
+# count <- 1
+# for (current in RSF) {
+#    rf <- randomForest(resale_price ~ ., data = trainset, ntree = 300, mtry = current, importance = T)
+#    results_RF[count, 1] <- 300
+#    results_RF[count, 2] <- current
+#    train_yhat <- predict(rf, newdata = trainset)
+#    Train_Set_Error <- round(sqrt(mean((trainset$resale_price - train_yhat)^2)))
+#    results_RF[count, 3] <- Train_Set_Error
+#    test_yhat <- predict(rf, newdata = testset)
+#    Test_Set_Error <- round(sqrt(mean((testset$resale_price - test_yhat)^2)))
+#    results_RF[count, 4] <- Test_Set_Error
+#    count = count + 1
+# }
+# saveRDS(rf, "./optimisedRF.rds")
+# saveRDS(results_RF, "./results_RF.rds")
+# load the model
+#m.RandomForest.2 <- readRDS("./optimisedRF.rds")
+results_RF_load <- readRDS("./results_RF.rds")
+results_RF_load
+#m.final.RandomForest <- randomForest(resale_price ~ ., data = trainset, ntree = 300, mtry = 2, importance =T)
+#saveRDS(m.randomForest, "./300_trees_RF.rds")
+m.final.RandomForest <- readRDS("./300_trees_RF.rds")
+
+```
+
+Overall Results of the 3 Models
+```{r}
+results
+```
+
+
+## 5. What is the OOB RMSE of the Random Forest? Can this be used as the estimate of Random Forest performance instead of testset RMSE? Explain.
+
+```{r}
+round(sqrt(m.randomForest$mse[500]))
+```
+
+
+
+
