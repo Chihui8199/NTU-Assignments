@@ -1,8 +1,12 @@
 # NTU-Assignments
 
 NTU Computer Science and Business Tutorials, Labs and Assignments
-* Please use with your own discretion... not the best student out there :)
 
+This repo contains most of my notes & revision material written during my undergraduate Computer Science degree at Nanyang Technological University, Singapore. While the notes in this repo are my own, I would like to credit all the professors, lecturers & tutors of the respective courses at NTU.
+
+Feel free to raise an issue or create a pull request if you find any typos/errors!
+
+* Please use with your own discretion... not the best student out there :)
 
 | Year 2|||
 | ----------- | ----------- |-----------|
