@@ -1,0 +1,7 @@
+PageSize,128
+Number of physical frames,4
+TLB size,3
+Ticks,117
+Paging Faults,14
+Paging Out,2
+TLB Miss,19

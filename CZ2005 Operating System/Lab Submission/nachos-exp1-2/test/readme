@@ -1,0 +1,9 @@
+test/2vmtest1.c		Run two small tests with sequential access patterns (tests part 1)
+test/2vmtest2.c		Run two large tests with sequential access patterns (tests part 2)
+test/vmtest1.c		A single small sequential test (called by 2vmtest1)
+test/vmtest2.c		A single large sequential test (called by 2vmtest2)
+test/r_vmtest1.c	A single small random test (standalone, tests part 1)
+test/r_vmtest2.c	A single large random test (standalone, tests part 2)
+test/vmthreadtest.c	Test several multithreaded processes (tests part 3)
+test/threads.c		One multi-threaded process (called by vmthreadtest)
+test/strings.h		routines to print to the console
