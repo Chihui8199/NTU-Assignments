@@ -30,7 +30,7 @@ Feel free to raise an issue or create a pull request if you find any typos/error
 | [CZ3001](https://github.com/Chihui8199/NTU-Assignments/tree/master/CZ3001%20Advanced%20Computer%20Architecture)| Advanced Computer Architecture|Verilog & CUDA|
 | [CZ3002](https://github.com/Chihui8199/NTU-Assignments/tree/master/CZ3002%20Advanced%20Software%20Engineering/Project%20Submission)| Advanced Software Engineering<br/><br/>[GoldFolks](https://github.com/Chihui8199/CZ3002-GoldFolks-Application.git)|Flutter|
 | [CZ3003](https://github.com/Chihui8199/NTU-Assignments/tree/master/CZ3003%20Software%20System%20Design%20and%20Analysis)|Software System Analysis and Design<br/><br/>[HUF](https://github.com/Song0180/CZ3003-HUF.git)|React.js & Django|
-| [EG0001](https://github.com/Chihui8199/NTU-Assignments/tree/master/CZ2004%20Human%20Computer%20Interaction) | Engineers and Society||
+| [EG0001](https://github.com/Chihui8199/NTU-Assignments/tree/master/EG0001%20Engineers%20and%20Society) | Engineers and Society||
 |**Business**|||
 |[MKT1705X](https://github.com/Chihui8199/NTU-Assignments/tree/master/MKT1705X%20Marketing)|Marketing(NUS)||
 |[AB0602](https://github.com/Chihui8199/NTU-Assignments/tree/master/AB0602%20Communications%20Management%20Strategy)| Communication Management Strategy||
