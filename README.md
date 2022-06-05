@@ -4,7 +4,7 @@ NTU Computer Science and Business Tutorials, Labs and Assignments
 
 This repo contains most of my notes & revision material written during my undergraduate Computer Science degree at Nanyang Technological University, Singapore. I would like to credit all the professors, lecturers & tutors of the respective courses at NTU.
 
-Feel free to raise an issue or create a pull request if you find any typos/errors!
+Feel free to raise an issue or create a pull request if you find any typos/errors! All opinions  expressed herewith are strictly mine as a private citizen and has nothing to do with NTU.
 
 * Please use with your own discretion... not the best student out there :)
 
@@ -24,15 +24,21 @@ Feel free to raise an issue or create a pull request if you find any typos/error
 | [AD2101](https://github.com/Chihui8199/NTU-Assignments/tree/master/AD2102%20Management%20Accounting) | Management Accounting|
 | [FIN2407X](https://github.com/Chihui8199/NTU-Assignments/tree/master/FIN2704X%20Financial%20Management) | Finance (NUS)|
 
+
 | Year 3|||
 | ----------- | ----------- |-----------|
 | **CS** |||
-| [CZ3001](https://github.com/Chihui8199/NTU-Assignments/tree/master/CZ3001%20Advanced%20Computer%20Architecture)| Advanced Computer Architecture|Verilog & CUDA|
-| [CZ3002](https://github.com/Chihui8199/NTU-Assignments/tree/master/CZ3002%20Advanced%20Software%20Engineering/Project%20Submission)| Advanced Software Engineering<br/><br/>[GoldFolks](https://github.com/Chihui8199/CZ3002-GoldFolks-Application.git)|Flutter|
-| [CZ3003](https://github.com/Chihui8199/NTU-Assignments/tree/master/CZ3003%20Software%20System%20Design%20and%20Analysis)|Software System Analysis and Design<br/><br/>[HUF](https://github.com/Song0180/CZ3003-HUF.git)|React.js & Django|
-| [EG0001](https://github.com/Chihui8199/NTU-Assignments/tree/master/EG0001%20Engineers%20and%20Society) | Engineers and Society||
+| [CZ3001](https://github.com/Chihui8199/NTU-Assignments/tree/master/CZ3001%20Advanced%20Computer%20Architecture)| Advanced Computer Architecture|Verilog & CUDA</br></br> Lovely prof, Prof Smitha! Enjoyed this mod cause the prof is super good. Otherwise, the content is kind of dry. |
+| [CZ3002](https://github.com/Chihui8199/NTU-Assignments/tree/master/CZ3002%20Advanced%20Software%20Engineering/Project%20Submission)| Advanced Software Engineering<br/><br/>[GoldFolks](https://github.com/Chihui8199/CZ3002-GoldFolks-Application.git)|Flutter</br></br> Not useful at all, tons of documentation to do that follows templates created in the 2000s? - still don't see the purpose. NTU still uses SVN lol.|
+| [CZ3003](https://github.com/Chihui8199/NTU-Assignments/tree/master/CZ3003%20Software%20System%20Design%20and%20Analysis)|Software System Analysis and Design<br/><br/>[HUF](https://github.com/Song0180/CZ3003-HUF.git)<br/><br/>[Video](https://github.com/Song0180/CZ3003-HUF.git)|React.js & Django</br></br>Take this mod seriously and you might learn some really interesting SE things and technologies. |
+| [EG0001](https://github.com/Chihui8199/NTU-Assignments/tree/master/EG0001%20Engineers%20and%20Society) | Engineers and Society| Pretty fun mod for me, got to present on some really interesting topics. Helps that my class got quite a few BCG students and that took our discussion to the next level. Not v useful as  a mod though >.<|
+| [CZ3004]()| Multidisciplinary Project<br/><br/>[Lightning McQueen](https://github.com/Chihui8199/CZ3004-Multipdisciplinary-Project.git)<br/><br/>[Video Link](https://www.youtube.com/watch?v=v4bDsNanIgQ)|Python & Android Studio</br></br> Just meh pray for good group mates. Robot guy make or break it.|
+| [CZ4067]() |Software Security|Pretty Interesting module, with CTF component. Highly recommended if you're interested in security. But...don't take this as you first security mod, did that and had to study harder. Pretty content heavy and dry but it's doable. Painful at the start, enjoyable when you understand stuff.|
+| [CZ3005]() |Artificial Intelligence|Python & Prolog. First part feels like a refresher on algorithms. Second part, prof seemed to be speaking ailien language. Have fun learning Prolog. Mug your PYPs!|
 |**Business**|||
 |[MKT1705X](https://github.com/Chihui8199/NTU-Assignments/tree/master/MKT1705X%20Marketing)|Marketing(NUS)||
-|[AB0602](https://github.com/Chihui8199/NTU-Assignments/tree/master/AB0602%20Communications%20Management%20Strategy)| Communication Management Strategy||
+|[AB0602](https://github.com/Chihui8199/NTU-Assignments/tree/master/AB0602%20Communications%20Management%20Strategy)| Communication Management Strategy|As with any communication module, not so easy to score...Very useful skills learnt though|
+|[BC2410]()|Prescriptive Analytics: From Data to Decision | Optimisation Modules  in Python (RSOME & Gurobi Module)</br></br>Interesting Module, heavy on linear algebra and math. Pretty useful and awesome prof. Prof Qinshen is one of the most enthusiastic prof. Helps that he came from NUS haha|
+|[BC3402]()|Financial Service Analytics |Interesting module that covers what happens in the entire trade cycle. Personally difficult to score for me, a lot more qualitative (lots of essay) than quantitative.|
 
 
