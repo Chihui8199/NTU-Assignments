@@ -41,4 +41,13 @@ Feel free to raise an issue or create a pull request if you find any typos/error
 |[BC2410]()|Prescriptive Analytics: From Data to Decision | Optimisation Modules  in Python (RSOME & Gurobi Module)</br></br>Interesting Module, heavy on linear algebra and math. Pretty useful and awesome prof. Prof Qinshen is one of the most enthusiastic prof. Helps that he came from NUS haha|
 |[BC3402]()|Financial Service Analytics |Interesting module that covers what happens in the entire trade cycle. Personally difficult to score for me, a lot more qualitative (lots of essay) than quantitative.|
 
+| Year 4   |                                                                           |                                                                                       |
+|----------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| CS       |                                                                           |                                                                                       |
+| CZ3007   | Compiler Techniques                                                       | Very Dry Content                                                                      |
+| CZ4031   | Database Systems Principles<br>Project 1: Storage & B+ Tree<br>Project 2: | Useful theory<br>Project is Deadly                                                    |
+| Business |                                                                           |                                                                                       |
+| BC3409   | AI in Accounting & Finance                                                | Rehashing of things we have learnt before. Not very useful! Take if you want to chill |
+|          |                                                                           |                                                                                        |
+
 
