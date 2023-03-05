@@ -8,6 +8,22 @@ Feel free to raise an issue or create a pull request if you find any typos/error
 
 * Please use with your own discretion... not the best student out there :)
 
+| Year 1     |                                               |
+|------------|-----------------------------------------------|
+| CS         |                                               |
+| [CE1012]() | Engineering Maths II                          |
+| [CZ1003]() | CZ1003 Introduction to Computational Thinking |
+| [MH1812]() | Discrete Mathematics                          |
+| [CZ1015]() | Data Science and AI                           |
+| [CZ1007]() | Data Structures                               |
+| [CZ1006]() | Computer Organisation and Architecture        |
+| [CZ1005]() | Digital Logic                                 |
+| Business   |                                               |
+| [AB1202]() | Statistics and Analysis                       |
+| [AB1601]() | Organisational Behavior                       |
+| [AD1101]() | Financial Accounting                          |
+| [AB1301]() | Business Law                                  |
+
 | Year 2|||
 | ----------- | ----------- |-----------|
 | **CS** |||
