@@ -1,0 +1,21 @@
+﻿Course Number,Course Code,Course Title,Semester,Prerequisites,Interest Level
+1,AB0403,Decision Making with Programming & Analytics,"1,2",,5
+2,BA2201,Actuarial Economics ,2,,5
+3,BU5201,Business Finance,"1,2",,4
+4,BE1401,Business Operations & Process ,"1,2",,4
+5,BT2403,Service Operations Management,1,,4
+6,BC3406,Business Analytics Consulting,2,"10, 13",3
+7,AB0602,Communication Management Strategies,"1,2",,3
+8,AB5103,Audit Analytics,"1,2",1,5
+9,BF3224,Equity Investing with Big Data ,2,13,4
+10,BC2406,Analytics I: Visual & Predictive Techniques,1,1,4
+11,BC2407,Analytics II: Visual & Predictive Techniques,2,"1,10",3
+12,BM2507,Marketing Analytics,"1,2",13,3
+13,AB1202,Statistics & Analysis,"1,2",,4
+14,BC2408,Supply Chain Analytics,2,4,4
+15,BC2410,Prescriptive Analytics: From Data to Decision,2,1,5
+16,BU5644,Smarter Brain? The Science of Decision Making Management,2,,5
+17,AB0502,Managing Sustainability,1,,5
+18,BM2501,Market Behaviour,"1,2",20,3
+19,BM2504,Integrated Marketing Communications,2,20,3
+20,AB1501,Marketing,"1,2",,4
