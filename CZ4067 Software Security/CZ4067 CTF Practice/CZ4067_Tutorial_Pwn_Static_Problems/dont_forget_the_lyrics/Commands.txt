@@ -1,0 +1,25 @@
+1. Compiling with break points
+gcc -g lyrics_sample.c
+./ a.out // to run c program in normal mode
+
+2. using the lldb 
+lldb ./a.out
+
+3. Breakpoints stuff
+breakpoint disable //disables all
+breakpoint enable //enables all
+breakpoint list // to see all breakpoints
+(lldb) b test.c:12 // setting breakpoint in line 12
+b main // setting breakpoint at main
+
+Launch/Run the programme
+(lldb) run
+
+Navigating in debug session
+(lldb) thread continue
+(lldb) thread step-in
+(lldb) thread step-out
+(lldb) thread step-over
+
+Quit lldb debugger
+q
